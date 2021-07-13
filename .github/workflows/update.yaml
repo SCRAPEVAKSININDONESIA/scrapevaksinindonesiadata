@@ -1,0 +1,38 @@
+name: Corn update
+on: 
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  run:
+    name: Update with cron
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 15.x
+
+      - name: Install yarn
+        run: npm i -g yarn
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build and update
+        run: yarn build:start
+
+      - name: Pull latest commit
+        run: git pull
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S')"
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Updated at ${{ steps.date.outputs.date }}
