@@ -1,0 +1,3422 @@
+Provinsi,Tanggal,Running Sum of divaksin1 (ribu)
+Aceh,1/15/2021,0.035
+Aceh,1/17/2021,0.036
+Aceh,1/18/2021,0.049
+Aceh,1/19/2021,0.065
+Aceh,1/20/2021,0.101
+Aceh,1/21/2021,0.143
+Aceh,1/22/2021,0.247
+Aceh,1/23/2021,0.256
+Aceh,1/24/2021,0.257
+Aceh,1/25/2021,0.33
+Aceh,1/26/2021,0.424
+Aceh,1/27/2021,0.548
+Aceh,1/28/2021,0.676
+Aceh,1/29/2021,0.73
+Aceh,1/30/2021,0.752
+Aceh,1/31/2021,0.752
+Aceh,2/1/2021,0.846
+Aceh,2/2/2021,0.907
+Aceh,2/3/2021,0.979
+Aceh,2/4/2021,1.05
+Aceh,2/5/2021,1.1
+Aceh,2/6/2021,1.36
+Aceh,2/7/2021,1.639
+Aceh,2/8/2021,2.209
+Aceh,2/9/2021,3.062
+Aceh,2/10/2021,9.942
+Aceh,2/11/2021,18.794
+Aceh,2/12/2021,21.63
+Aceh,2/13/2021,25.85
+Aceh,2/14/2021,27.094
+Aceh,2/15/2021,34.301
+Aceh,2/16/2021,37.119
+Aceh,2/17/2021,39.111
+Aceh,2/18/2021,40.877
+Aceh,2/19/2021,42.522
+Aceh,2/20/2021,42.871
+Aceh,2/21/2021,42.9
+Aceh,2/22/2021,43.663
+Aceh,2/23/2021,44.212
+Aceh,2/24/2021,44.723
+Aceh,2/25/2021,45.324
+Aceh,2/26/2021,45.806
+Aceh,2/27/2021,45.915
+Aceh,2/28/2021,45.928
+Aceh,3/1/2021,47.098
+Aceh,3/2/2021,48.485
+Aceh,3/3/2021,49.386
+Aceh,3/4/2021,49.924
+Aceh,3/5/2021,50.311
+Aceh,3/6/2021,50.354
+Aceh,3/7/2021,50.362
+Aceh,3/8/2021,51.693
+Aceh,3/9/2021,53.715
+Aceh,3/10/2021,56.673
+Aceh,3/11/2021,56.894
+Aceh,3/12/2021,58.823
+Aceh,3/13/2021,58.928
+Aceh,3/14/2021,58.948
+Aceh,3/15/2021,61.862
+Aceh,3/16/2021,64.961
+Aceh,3/17/2021,67.509
+Aceh,3/18/2021,70.344
+Aceh,3/19/2021,72.096
+Aceh,3/20/2021,72.146
+Aceh,3/21/2021,72.151
+Aceh,3/22/2021,75.56
+Aceh,3/23/2021,79.123
+Aceh,3/24/2021,82.056
+Aceh,3/25/2021,85.689
+Aceh,3/26/2021,87.243
+Aceh,3/27/2021,87.415
+Aceh,3/28/2021,87.418
+Aceh,3/29/2021,89.951
+Aceh,3/30/2021,94.349
+Aceh,3/31/2021,96.32
+Aceh,4/1/2021,98.075
+Aceh,4/2/2021,98.119
+Aceh,4/3/2021,98.325
+Aceh,4/4/2021,98.392
+Aceh,4/5/2021,100.044
+Aceh,4/6/2021,101.667
+Aceh,4/7/2021,102.714
+Aceh,4/8/2021,104.109
+Aceh,4/9/2021,105.656
+Aceh,4/10/2021,105.914
+Aceh,4/11/2021,105.918
+Aceh,4/12/2021,106.601
+Aceh,4/13/2021,106.797
+Aceh,4/14/2021,107.162
+Aceh,4/15/2021,107.662
+Aceh,4/16/2021,107.932
+Aceh,4/17/2021,107.986
+Aceh,4/18/2021,107.987
+Aceh,4/19/2021,108.724
+Aceh,4/20/2021,109.907
+Aceh,4/21/2021,110.795
+Aceh,4/22/2021,111.565
+Aceh,4/23/2021,111.884
+Aceh,4/24/2021,111.966
+Aceh,4/25/2021,111.977
+Bali,1/13/2021,0
+Bali,1/14/2021,0.291
+Bali,1/15/2021,0.661
+Bali,1/16/2021,0.88
+Bali,1/17/2021,0.889
+Bali,1/18/2021,1.305
+Bali,1/19/2021,1.868
+Bali,1/20/2021,2.443
+Bali,1/21/2021,3.114
+Bali,1/22/2021,4.25
+Bali,1/23/2021,4.994
+Bali,1/24/2021,5.228
+Bali,1/25/2021,6.318
+Bali,1/26/2021,7.797
+Bali,1/27/2021,10.604
+Bali,1/28/2021,14.09
+Bali,1/29/2021,17.617
+Bali,1/30/2021,18.286
+Bali,1/31/2021,18.685
+Bali,2/1/2021,22.013
+Bali,2/2/2021,25.233
+Bali,2/3/2021,25.89
+Bali,2/4/2021,28.585
+Bali,2/5/2021,31.132
+Bali,2/6/2021,32.151
+Bali,2/7/2021,32.498
+Bali,2/8/2021,33.294
+Bali,2/9/2021,33.944
+Bali,2/10/2021,34.432
+Bali,2/11/2021,35.007
+Bali,2/12/2021,35.167
+Bali,2/13/2021,35.511
+Bali,2/14/2021,35.603
+Bali,2/15/2021,36.146
+Bali,2/16/2021,36.6
+Bali,2/17/2021,36.933
+Bali,2/18/2021,37.28
+Bali,2/19/2021,37.514
+Bali,2/20/2021,37.684
+Bali,2/21/2021,37.688
+Bali,2/22/2021,37.819
+Bali,2/23/2021,38.127
+Bali,2/24/2021,38.74
+Bali,2/25/2021,39.659
+Bali,2/26/2021,40.807
+Bali,2/27/2021,42.314
+Bali,2/28/2021,43.519
+Bali,3/1/2021,46.84
+Bali,3/2/2021,52.026
+Bali,3/3/2021,58.041
+Bali,3/4/2021,65.301
+Bali,3/5/2021,72.268
+Bali,3/6/2021,77.761
+Bali,3/7/2021,78.303
+Bali,3/8/2021,86.58
+Bali,3/9/2021,95.376
+Bali,3/10/2021,106.602
+Bali,3/11/2021,108.023
+Bali,3/12/2021,116.633
+Bali,3/13/2021,116.825
+Bali,3/14/2021,116.85
+Bali,3/15/2021,117.032
+Bali,3/16/2021,131.095
+Bali,3/17/2021,141.287
+Bali,3/18/2021,150.863
+Bali,3/19/2021,160.942
+Bali,3/20/2021,168.061
+Bali,3/21/2021,169.894
+Bali,3/22/2021,186.978
+Bali,3/23/2021,208.235
+Bali,3/24/2021,229.936
+Bali,3/25/2021,257.89
+Bali,3/26/2021,286.353
+Bali,3/27/2021,312.619
+Bali,3/28/2021,316.763
+Bali,3/29/2021,340.826
+Bali,3/30/2021,362.389
+Bali,3/31/2021,381.466
+Bali,4/1/2021,404.761
+Bali,4/2/2021,412.171
+Bali,4/3/2021,429.643
+Bali,4/4/2021,436.193
+Bali,4/5/2021,452.865
+Bali,4/6/2021,471.129
+Bali,4/7/2021,493.222
+Bali,4/8/2021,516.395
+Bali,4/9/2021,538.355
+Bali,4/10/2021,557.89
+Bali,4/11/2021,563.316
+Bali,4/12/2021,576.291
+Bali,4/13/2021,576.422
+Bali,4/14/2021,576.437
+Bali,4/15/2021,576.548
+Bali,4/16/2021,589.669
+Bali,4/17/2021,609.76
+Bali,4/18/2021,612.644
+Bali,4/19/2021,630.17
+Bali,4/20/2021,653.419
+Bali,4/21/2021,676.821
+Bali,4/22/2021,696.828
+Bali,4/23/2021,699.077
+Bali,4/24/2021,699.079
+Bali,4/25/2021,699.108
+Bangka Belitung,1/13/2021,0
+Bangka Belitung,1/14/2021,0.013
+Bangka Belitung,1/15/2021,0.156
+Bangka Belitung,1/16/2021,0.234
+Bangka Belitung,1/17/2021,0.234
+Bangka Belitung,1/18/2021,0.59
+Bangka Belitung,1/19/2021,0.853
+Bangka Belitung,1/20/2021,1.163
+Bangka Belitung,1/21/2021,1.69
+Bangka Belitung,1/22/2021,2.15
+Bangka Belitung,1/23/2021,2.734
+Bangka Belitung,1/24/2021,2.821
+Bangka Belitung,1/25/2021,3.137
+Bangka Belitung,1/26/2021,3.374
+Bangka Belitung,1/27/2021,3.572
+Bangka Belitung,1/28/2021,4.245
+Bangka Belitung,1/29/2021,4.841
+Bangka Belitung,1/30/2021,5.259
+Bangka Belitung,1/31/2021,5.278
+Bangka Belitung,2/1/2021,5.989
+Bangka Belitung,2/2/2021,6.819
+Bangka Belitung,2/3/2021,7.519
+Bangka Belitung,2/4/2021,7.917
+Bangka Belitung,2/5/2021,8.163
+Bangka Belitung,2/6/2021,8.334
+Bangka Belitung,2/7/2021,8.335
+Bangka Belitung,2/8/2021,8.581
+Bangka Belitung,2/9/2021,8.771
+Bangka Belitung,2/10/2021,8.899
+Bangka Belitung,2/11/2021,9.043
+Bangka Belitung,2/12/2021,9.043
+Bangka Belitung,2/13/2021,9.183
+Bangka Belitung,2/14/2021,9.19
+Bangka Belitung,2/15/2021,9.388
+Bangka Belitung,2/16/2021,9.542
+Bangka Belitung,2/17/2021,9.694
+Bangka Belitung,2/18/2021,9.848
+Bangka Belitung,2/19/2021,10.003
+Bangka Belitung,2/20/2021,10.058
+Bangka Belitung,2/22/2021,10.116
+Bangka Belitung,2/23/2021,10.194
+Bangka Belitung,2/24/2021,10.281
+Bangka Belitung,2/25/2021,10.393
+Bangka Belitung,2/26/2021,10.428
+Bangka Belitung,2/27/2021,10.494
+Bangka Belitung,2/28/2021,10.496
+Bangka Belitung,3/1/2021,11.029
+Bangka Belitung,3/2/2021,12.008
+Bangka Belitung,3/3/2021,14.016
+Bangka Belitung,3/4/2021,16.756
+Bangka Belitung,3/5/2021,18.394
+Bangka Belitung,3/6/2021,18.822
+Bangka Belitung,3/7/2021,18.822
+Bangka Belitung,3/8/2021,20.619
+Bangka Belitung,3/9/2021,22.508
+Bangka Belitung,3/10/2021,23.856
+Bangka Belitung,3/11/2021,23.865
+Bangka Belitung,3/12/2021,24.855
+Bangka Belitung,3/13/2021,25.612
+Bangka Belitung,3/15/2021,27.232
+Bangka Belitung,3/16/2021,28.663
+Bangka Belitung,3/17/2021,29.954
+Bangka Belitung,3/18/2021,30.685
+Bangka Belitung,3/19/2021,31.431
+Bangka Belitung,3/20/2021,32.065
+Bangka Belitung,3/21/2021,32.081
+Bangka Belitung,3/22/2021,34.277
+Bangka Belitung,3/23/2021,36.245
+Bangka Belitung,3/24/2021,38.077
+Bangka Belitung,3/25/2021,39.462
+Bangka Belitung,3/26/2021,40.173
+Bangka Belitung,3/27/2021,40.674
+Bangka Belitung,3/29/2021,42.593
+Bangka Belitung,3/30/2021,43.706
+Bangka Belitung,3/31/2021,44.048
+Bangka Belitung,4/1/2021,44.529
+Bangka Belitung,4/2/2021,44.703
+Bangka Belitung,4/3/2021,44.917
+Bangka Belitung,4/5/2021,45.191
+Bangka Belitung,4/6/2021,45.727
+Bangka Belitung,4/7/2021,46.108
+Bangka Belitung,4/8/2021,46.743
+Bangka Belitung,4/9/2021,47.284
+Bangka Belitung,4/10/2021,48.772
+Bangka Belitung,4/12/2021,51.094
+Bangka Belitung,4/13/2021,52.108
+Bangka Belitung,4/14/2021,52.776
+Bangka Belitung,4/15/2021,53.646
+Bangka Belitung,4/16/2021,54.088
+Bangka Belitung,4/17/2021,54.783
+Bangka Belitung,4/19/2021,55.585
+Bangka Belitung,4/20/2021,56.582
+Bangka Belitung,4/21/2021,57.57
+Bangka Belitung,4/22/2021,59.049
+Bangka Belitung,4/23/2021,59.797
+Bangka Belitung,4/24/2021,60.375
+Banten,1/13/2021,0.003
+Banten,1/14/2021,0.076
+Banten,1/15/2021,0.361
+Banten,1/16/2021,0.609
+Banten,1/17/2021,0.615
+Banten,1/18/2021,1.168
+Banten,1/19/2021,1.68
+Banten,1/20/2021,2.421
+Banten,1/21/2021,3.142
+Banten,1/22/2021,3.877
+Banten,1/23/2021,4.265
+Banten,1/24/2021,4.383
+Banten,1/25/2021,7.142
+Banten,1/26/2021,11.091
+Banten,1/27/2021,14.931
+Banten,1/28/2021,18.938
+Banten,1/29/2021,22.549
+Banten,1/30/2021,24.387
+Banten,1/31/2021,24.533
+Banten,2/1/2021,27.399
+Banten,2/2/2021,29.142
+Banten,2/3/2021,30.637
+Banten,2/4/2021,31.923
+Banten,2/5/2021,32.979
+Banten,2/6/2021,33.653
+Banten,2/7/2021,33.688
+Banten,2/8/2021,34.607
+Banten,2/9/2021,35.954
+Banten,2/10/2021,38.261
+Banten,2/11/2021,38.772
+Banten,2/12/2021,38.874
+Banten,2/13/2021,39.237
+Banten,2/14/2021,39.244
+Banten,2/15/2021,39.997
+Banten,2/16/2021,40.507
+Banten,2/17/2021,40.883
+Banten,2/18/2021,41.39
+Banten,2/19/2021,41.706
+Banten,2/20/2021,41.798
+Banten,2/21/2021,41.816
+Banten,2/22/2021,42.109
+Banten,2/23/2021,42.412
+Banten,2/24/2021,44.354
+Banten,2/25/2021,52.347
+Banten,2/26/2021,61.294
+Banten,2/27/2021,67.014
+Banten,2/28/2021,67.018
+Banten,3/1/2021,75.078
+Banten,3/2/2021,84.606
+Banten,3/3/2021,95.574
+Banten,3/4/2021,107.342
+Banten,3/5/2021,121.613
+Banten,3/6/2021,125.313
+Banten,3/7/2021,125.624
+Banten,3/8/2021,133.338
+Banten,3/9/2021,142.934
+Banten,3/10/2021,155.546
+Banten,3/11/2021,157.866
+Banten,3/12/2021,164.687
+Banten,3/13/2021,175.382
+Banten,3/14/2021,181.631
+Banten,3/15/2021,193.406
+Banten,3/16/2021,201.83
+Banten,3/17/2021,213.352
+Banten,3/18/2021,219.727
+Banten,3/19/2021,225.993
+Banten,3/20/2021,229.939
+Banten,3/21/2021,231.357
+Banten,3/22/2021,237.943
+Banten,3/23/2021,245.737
+Banten,3/24/2021,254.906
+Banten,3/25/2021,264.336
+Banten,3/26/2021,271.976
+Banten,3/27/2021,278.307
+Banten,3/28/2021,279.321
+Banten,3/29/2021,288.926
+Banten,3/30/2021,304.338
+Banten,3/31/2021,313.325
+Banten,4/1/2021,322.542
+Banten,4/2/2021,323.166
+Banten,4/3/2021,326.137
+Banten,4/4/2021,326.239
+Banten,4/5/2021,333.034
+Banten,4/6/2021,339.251
+Banten,4/7/2021,345.088
+Banten,4/8/2021,351.291
+Banten,4/9/2021,360.182
+Banten,4/10/2021,364.801
+Banten,4/11/2021,365.152
+Banten,4/12/2021,371.175
+Banten,4/13/2021,372.529
+Banten,4/14/2021,374.259
+Banten,4/15/2021,376.002
+Banten,4/16/2021,377.539
+Banten,4/17/2021,378.581
+Banten,4/18/2021,378.735
+Banten,4/19/2021,381.517
+Banten,4/20/2021,384.169
+Banten,4/21/2021,387.072
+Banten,4/22/2021,391.318
+Banten,4/23/2021,393.749
+Banten,4/24/2021,396.141
+Banten,4/25/2021,396.615
+Bengkulu,1/14/2021,0.056
+Bengkulu,1/15/2021,0.112
+Bengkulu,1/16/2021,0.117
+Bengkulu,1/17/2021,0.119
+Bengkulu,1/18/2021,0.33
+Bengkulu,1/19/2021,0.542
+Bengkulu,1/20/2021,0.79
+Bengkulu,1/21/2021,1.119
+Bengkulu,1/22/2021,1.183
+Bengkulu,1/23/2021,1.184
+Bengkulu,1/24/2021,1.198
+Bengkulu,1/25/2021,1.567
+Bengkulu,1/26/2021,1.914
+Bengkulu,1/27/2021,2.262
+Bengkulu,1/28/2021,2.688
+Bengkulu,1/29/2021,2.755
+Bengkulu,1/30/2021,2.778
+Bengkulu,2/1/2021,3.446
+Bengkulu,2/2/2021,3.856
+Bengkulu,2/3/2021,4.859
+Bengkulu,2/4/2021,6.134
+Bengkulu,2/5/2021,7.105
+Bengkulu,2/6/2021,7.889
+Bengkulu,2/7/2021,7.941
+Bengkulu,2/8/2021,8.399
+Bengkulu,2/9/2021,8.679
+Bengkulu,2/10/2021,8.942
+Bengkulu,2/11/2021,9.48
+Bengkulu,2/12/2021,9.48
+Bengkulu,2/13/2021,9.521
+Bengkulu,2/14/2021,9.53
+Bengkulu,2/15/2021,9.895
+Bengkulu,2/16/2021,10.155
+Bengkulu,2/17/2021,10.528
+Bengkulu,2/18/2021,10.964
+Bengkulu,2/19/2021,11.169
+Bengkulu,2/20/2021,11.315
+Bengkulu,2/21/2021,11.324
+Bengkulu,2/22/2021,11.798
+Bengkulu,2/23/2021,12.082
+Bengkulu,2/24/2021,12.371
+Bengkulu,2/25/2021,12.684
+Bengkulu,2/26/2021,12.737
+Bengkulu,2/27/2021,12.792
+Bengkulu,2/28/2021,12.792
+Bengkulu,3/1/2021,12.945
+Bengkulu,3/2/2021,13.239
+Bengkulu,3/3/2021,13.552
+Bengkulu,3/4/2021,14.068
+Bengkulu,3/5/2021,14.903
+Bengkulu,3/6/2021,15.123
+Bengkulu,3/7/2021,15.124
+Bengkulu,3/8/2021,15.83
+Bengkulu,3/9/2021,17.215
+Bengkulu,3/10/2021,18.651
+Bengkulu,3/11/2021,19.696
+Bengkulu,3/12/2021,20.221
+Bengkulu,3/13/2021,20.398
+Bengkulu,3/15/2021,21.454
+Bengkulu,3/16/2021,22.615
+Bengkulu,3/17/2021,23.442
+Bengkulu,3/18/2021,24.514
+Bengkulu,3/19/2021,25.175
+Bengkulu,3/20/2021,25.348
+Bengkulu,3/21/2021,25.348
+Bengkulu,3/22/2021,26.597
+Bengkulu,3/23/2021,27.786
+Bengkulu,3/24/2021,28.696
+Bengkulu,3/25/2021,29.516
+Bengkulu,3/26/2021,30.173
+Bengkulu,3/27/2021,30.538
+Bengkulu,3/29/2021,32.558
+Bengkulu,3/30/2021,34.014
+Bengkulu,3/31/2021,34.912
+Bengkulu,4/1/2021,35.411
+Bengkulu,4/2/2021,35.412
+Bengkulu,4/3/2021,35.575
+Bengkulu,4/4/2021,35.575
+Bengkulu,4/5/2021,36.292
+Bengkulu,4/6/2021,37.262
+Bengkulu,4/7/2021,38.425
+Bengkulu,4/8/2021,39.745
+Bengkulu,4/9/2021,40.154
+Bengkulu,4/10/2021,40.322
+Bengkulu,4/12/2021,41.48
+Bengkulu,4/13/2021,41.897
+Bengkulu,4/14/2021,42.501
+Bengkulu,4/15/2021,43.093
+Bengkulu,4/16/2021,43.317
+Bengkulu,4/17/2021,43.387
+Bengkulu,4/19/2021,44.108
+Bengkulu,4/20/2021,44.807
+Bengkulu,4/21/2021,45.56
+Bengkulu,4/22/2021,46.687
+Bengkulu,4/23/2021,47.006
+Bengkulu,4/24/2021,47.176
+Bengkulu,4/25/2021,47.176
+Gorontalo,1/13/2021,0
+Gorontalo,1/15/2021,0.054
+Gorontalo,1/16/2021,0.055
+Gorontalo,1/17/2021,0.057
+Gorontalo,1/18/2021,0.088
+Gorontalo,1/19/2021,0.323
+Gorontalo,1/20/2021,0.541
+Gorontalo,1/21/2021,0.859
+Gorontalo,1/22/2021,1.106
+Gorontalo,1/23/2021,1.295
+Gorontalo,1/24/2021,1.296
+Gorontalo,1/25/2021,1.469
+Gorontalo,1/26/2021,1.692
+Gorontalo,1/27/2021,1.818
+Gorontalo,1/28/2021,2.101
+Gorontalo,1/29/2021,2.264
+Gorontalo,1/30/2021,2.388
+Gorontalo,1/31/2021,2.401
+Gorontalo,2/1/2021,2.54
+Gorontalo,2/2/2021,2.623
+Gorontalo,2/3/2021,2.751
+Gorontalo,2/4/2021,3.428
+Gorontalo,2/5/2021,4.092
+Gorontalo,2/6/2021,4.399
+Gorontalo,2/7/2021,4.401
+Gorontalo,2/8/2021,4.937
+Gorontalo,2/9/2021,5.186
+Gorontalo,2/10/2021,5.378
+Gorontalo,2/11/2021,5.504
+Gorontalo,2/12/2021,5.51
+Gorontalo,2/13/2021,5.52
+Gorontalo,2/14/2021,5.52
+Gorontalo,2/15/2021,5.703
+Gorontalo,2/16/2021,5.866
+Gorontalo,2/17/2021,6.022
+Gorontalo,2/18/2021,6.356
+Gorontalo,2/19/2021,6.6
+Gorontalo,2/20/2021,6.654
+Gorontalo,2/22/2021,6.842
+Gorontalo,2/23/2021,7.073
+Gorontalo,2/24/2021,7.21
+Gorontalo,2/25/2021,7.248
+Gorontalo,2/26/2021,7.285
+Gorontalo,2/27/2021,7.33
+Gorontalo,2/28/2021,7.331
+Gorontalo,3/1/2021,7.676
+Gorontalo,3/2/2021,8.032
+Gorontalo,3/3/2021,8.684
+Gorontalo,3/4/2021,9.78
+Gorontalo,3/5/2021,11.245
+Gorontalo,3/6/2021,11.933
+Gorontalo,3/7/2021,12.583
+Gorontalo,3/8/2021,14.311
+Gorontalo,3/9/2021,16.061
+Gorontalo,3/10/2021,16.984
+Gorontalo,3/11/2021,17.036
+Gorontalo,3/12/2021,17.445
+Gorontalo,3/13/2021,17.632
+Gorontalo,3/15/2021,18.159
+Gorontalo,3/16/2021,19.108
+Gorontalo,3/17/2021,20.08
+Gorontalo,3/18/2021,21.322
+Gorontalo,3/19/2021,22.256
+Gorontalo,3/20/2021,22.778
+Gorontalo,3/21/2021,22.779
+Gorontalo,3/22/2021,24.55
+Gorontalo,3/23/2021,26.931
+Gorontalo,3/24/2021,28.889
+Gorontalo,3/25/2021,31.638
+Gorontalo,3/26/2021,33.729
+Gorontalo,3/27/2021,34.255
+Gorontalo,3/29/2021,36.625
+Gorontalo,3/30/2021,37.636
+Gorontalo,3/31/2021,38.585
+Gorontalo,4/1/2021,39.014
+Gorontalo,4/2/2021,39.014
+Gorontalo,4/3/2021,39.164
+Gorontalo,4/5/2021,39.693
+Gorontalo,4/6/2021,40.159
+Gorontalo,4/7/2021,40.789
+Gorontalo,4/8/2021,41.424
+Gorontalo,4/9/2021,42.018
+Gorontalo,4/10/2021,42.268
+Gorontalo,4/12/2021,42.724
+Gorontalo,4/13/2021,42.742
+Gorontalo,4/14/2021,42.849
+Gorontalo,4/15/2021,43.013
+Gorontalo,4/16/2021,43.142
+Gorontalo,4/17/2021,43.143
+Gorontalo,4/19/2021,43.543
+Gorontalo,4/20/2021,43.748
+Gorontalo,4/21/2021,44.167
+Gorontalo,4/22/2021,44.669
+Gorontalo,4/23/2021,45.334
+Gorontalo,4/24/2021,45.519
+Jakarta Raya,1/13/2021,0.065
+Jakarta Raya,1/14/2021,2.842
+Jakarta Raya,1/15/2021,7.194
+Jakarta Raya,1/16/2021,7.97
+Jakarta Raya,1/17/2021,8.041
+Jakarta Raya,1/18/2021,12.763
+Jakarta Raya,1/19/2021,16.504
+Jakarta Raya,1/20/2021,20.848
+Jakarta Raya,1/21/2021,27.527
+Jakarta Raya,1/22/2021,34.525
+Jakarta Raya,1/23/2021,36.375
+Jakarta Raya,1/24/2021,36.531
+Jakarta Raya,1/25/2021,41.209
+Jakarta Raya,1/26/2021,45.642
+Jakarta Raya,1/27/2021,50.279
+Jakarta Raya,1/28/2021,55.626
+Jakarta Raya,1/29/2021,60.9
+Jakarta Raya,1/30/2021,62.913
+Jakarta Raya,1/31/2021,64.307
+Jakarta Raya,2/1/2021,68.858
+Jakarta Raya,2/2/2021,72.059
+Jakarta Raya,2/3/2021,74.93
+Jakarta Raya,2/4/2021,80.949
+Jakarta Raya,2/5/2021,84.691
+Jakarta Raya,2/6/2021,86.128
+Jakarta Raya,2/7/2021,88.738
+Jakarta Raya,2/8/2021,91.571
+Jakarta Raya,2/9/2021,94.475
+Jakarta Raya,2/10/2021,97.413
+Jakarta Raya,2/11/2021,100.766
+Jakarta Raya,2/12/2021,101.066
+Jakarta Raya,2/13/2021,101.72
+Jakarta Raya,2/14/2021,101.897
+Jakarta Raya,2/15/2021,103.548
+Jakarta Raya,2/16/2021,104.909
+Jakarta Raya,2/17/2021,107.738
+Jakarta Raya,2/18/2021,110.632
+Jakarta Raya,2/19/2021,114.356
+Jakarta Raya,2/20/2021,116.961
+Jakarta Raya,2/21/2021,117.83
+Jakarta Raya,2/22/2021,125.876
+Jakarta Raya,2/23/2021,136.297
+Jakarta Raya,2/24/2021,148.803
+Jakarta Raya,2/25/2021,162.552
+Jakarta Raya,2/26/2021,177.948
+Jakarta Raya,2/27/2021,184.21
+Jakarta Raya,2/28/2021,184.342
+Jakarta Raya,3/1/2021,208.056
+Jakarta Raya,3/2/2021,234.576
+Jakarta Raya,3/3/2021,265.143
+Jakarta Raya,3/4/2021,299.525
+Jakarta Raya,3/5/2021,333.599
+Jakarta Raya,3/6/2021,341.428
+Jakarta Raya,3/7/2021,346.121
+Jakarta Raya,3/8/2021,388.348
+Jakarta Raya,3/9/2021,437.092
+Jakarta Raya,3/10/2021,493.429
+Jakarta Raya,3/11/2021,504.811
+Jakarta Raya,3/12/2021,558.56
+Jakarta Raya,3/13/2021,576.114
+Jakarta Raya,3/14/2021,588.935
+Jakarta Raya,3/15/2021,642.33
+Jakarta Raya,3/16/2021,695.548
+Jakarta Raya,3/17/2021,745.873
+Jakarta Raya,3/18/2021,791.644
+Jakarta Raya,3/19/2021,833.502
+Jakarta Raya,3/20/2021,853.179
+Jakarta Raya,3/21/2021,866.584
+Jakarta Raya,3/22/2021,913.019
+Jakarta Raya,3/23/2021,962.08
+Jakarta Raya,3/24/2021,"1,009.793"
+Jakarta Raya,3/25/2021,"1,058.291"
+Jakarta Raya,3/26/2021,"1,104.138"
+Jakarta Raya,3/27/2021,"1,132.367"
+Jakarta Raya,3/28/2021,"1,151.288"
+Jakarta Raya,3/29/2021,"1,197.669"
+Jakarta Raya,3/30/2021,"1,240.799"
+Jakarta Raya,3/31/2021,"1,288.991"
+Jakarta Raya,4/1/2021,"1,324.572"
+Jakarta Raya,4/2/2021,"1,338.581"
+Jakarta Raya,4/3/2021,"1,355.418"
+Jakarta Raya,4/4/2021,"1,368.333"
+Jakarta Raya,4/5/2021,"1,403.118"
+Jakarta Raya,4/6/2021,"1,432.795"
+Jakarta Raya,4/7/2021,"1,461.463"
+Jakarta Raya,4/8/2021,"1,493.521"
+Jakarta Raya,4/9/2021,"1,524.669"
+Jakarta Raya,4/10/2021,"1,546.857"
+Jakarta Raya,4/11/2021,"1,555.994"
+Jakarta Raya,4/12/2021,"1,587.063"
+Jakarta Raya,4/13/2021,"1,598.494"
+Jakarta Raya,4/14/2021,"1,612.993"
+Jakarta Raya,4/15/2021,"1,629.488"
+Jakarta Raya,4/16/2021,"1,646.377"
+Jakarta Raya,4/17/2021,"1,654.19"
+Jakarta Raya,4/18/2021,"1,658.637"
+Jakarta Raya,4/19/2021,"1,681.107"
+Jakarta Raya,4/20/2021,"1,705.321"
+Jakarta Raya,4/21/2021,"1,726.19"
+Jakarta Raya,4/22/2021,"1,753.651"
+Jakarta Raya,4/23/2021,"1,778.232"
+Jakarta Raya,4/24/2021,"1,791.655"
+Jakarta Raya,4/25/2021,"1,802.202"
+Jambi,1/13/2021,0
+Jambi,1/14/2021,0.301
+Jambi,1/15/2021,0.515
+Jambi,1/16/2021,0.727
+Jambi,1/17/2021,0.753
+Jambi,1/18/2021,1.342
+Jambi,1/19/2021,1.764
+Jambi,1/20/2021,2.208
+Jambi,1/21/2021,2.657
+Jambi,1/22/2021,2.909
+Jambi,1/23/2021,3.092
+Jambi,1/24/2021,3.1
+Jambi,1/25/2021,3.305
+Jambi,1/26/2021,3.538
+Jambi,1/27/2021,3.782
+Jambi,1/28/2021,4.389
+Jambi,1/29/2021,4.764
+Jambi,1/30/2021,5.134
+Jambi,1/31/2021,5.135
+Jambi,2/1/2021,5.505
+Jambi,2/2/2021,6.334
+Jambi,2/3/2021,7.552
+Jambi,2/4/2021,8.898
+Jambi,2/5/2021,10.332
+Jambi,2/6/2021,11.635
+Jambi,2/7/2021,11.653
+Jambi,2/8/2021,12.685
+Jambi,2/9/2021,13.755
+Jambi,2/10/2021,14.634
+Jambi,2/11/2021,15.333
+Jambi,2/12/2021,15.343
+Jambi,2/13/2021,15.71
+Jambi,2/14/2021,15.71
+Jambi,2/15/2021,16.299
+Jambi,2/16/2021,16.745
+Jambi,2/17/2021,17.396
+Jambi,2/18/2021,18.11
+Jambi,2/19/2021,18.539
+Jambi,2/20/2021,19.053
+Jambi,2/21/2021,19.059
+Jambi,2/22/2021,19.472
+Jambi,2/23/2021,19.871
+Jambi,2/24/2021,20.188
+Jambi,2/25/2021,20.577
+Jambi,2/26/2021,20.773
+Jambi,2/27/2021,20.876
+Jambi,2/28/2021,20.876
+Jambi,3/1/2021,21.116
+Jambi,3/2/2021,21.353
+Jambi,3/3/2021,21.779
+Jambi,3/4/2021,22.146
+Jambi,3/5/2021,22.824
+Jambi,3/6/2021,23.617
+Jambi,3/7/2021,23.624
+Jambi,3/8/2021,25.109
+Jambi,3/9/2021,27.212
+Jambi,3/10/2021,29.818
+Jambi,3/11/2021,30.653
+Jambi,3/12/2021,31.773
+Jambi,3/13/2021,32.755
+Jambi,3/14/2021,32.758
+Jambi,3/15/2021,35.106
+Jambi,3/16/2021,37.499
+Jambi,3/17/2021,39.579
+Jambi,3/18/2021,42.377
+Jambi,3/19/2021,43.743
+Jambi,3/20/2021,45.05
+Jambi,3/21/2021,45.065
+Jambi,3/22/2021,47.7
+Jambi,3/23/2021,50.498
+Jambi,3/24/2021,52.407
+Jambi,3/25/2021,54.181
+Jambi,3/26/2021,55.546
+Jambi,3/27/2021,56.849
+Jambi,3/28/2021,56.864
+Jambi,3/29/2021,59.447
+Jambi,3/30/2021,62.404
+Jambi,3/31/2021,66.22
+Jambi,4/1/2021,69.625
+Jambi,4/2/2021,69.635
+Jambi,4/3/2021,71.168
+Jambi,4/4/2021,71.227
+Jambi,4/5/2021,74.474
+Jambi,4/6/2021,77.591
+Jambi,4/7/2021,80.19
+Jambi,4/8/2021,83.673
+Jambi,4/9/2021,85.514
+Jambi,4/10/2021,87.353
+Jambi,4/11/2021,87.365
+Jambi,4/12/2021,90.967
+Jambi,4/13/2021,92.033
+Jambi,4/14/2021,93.176
+Jambi,4/15/2021,94.419
+Jambi,4/16/2021,94.8
+Jambi,4/17/2021,96.036
+Jambi,4/18/2021,96.046
+Jambi,4/19/2021,98.739
+Jambi,4/20/2021,101.89
+Jambi,4/21/2021,105.475
+Jambi,4/22/2021,109.27
+Jambi,4/23/2021,111.257
+Jambi,4/24/2021,114.467
+Jambi,4/25/2021,114.471
+Jawa Barat,1/13/2021,0
+Jawa Barat,1/14/2021,1.946
+Jawa Barat,1/15/2021,3.972
+Jawa Barat,1/16/2021,5.146
+Jawa Barat,1/17/2021,5.156
+Jawa Barat,1/18/2021,8.128
+Jawa Barat,1/19/2021,11.116
+Jawa Barat,1/20/2021,14.936
+Jawa Barat,1/21/2021,19.709
+Jawa Barat,1/22/2021,22.486
+Jawa Barat,1/23/2021,23.923
+Jawa Barat,1/24/2021,24.151
+Jawa Barat,1/25/2021,26.726
+Jawa Barat,1/26/2021,31.363
+Jawa Barat,1/27/2021,36.044
+Jawa Barat,1/28/2021,42.931
+Jawa Barat,1/29/2021,51.642
+Jawa Barat,1/30/2021,57.401
+Jawa Barat,1/31/2021,57.781
+Jawa Barat,2/1/2021,70.309
+Jawa Barat,2/2/2021,81.128
+Jawa Barat,2/3/2021,92.871
+Jawa Barat,2/4/2021,105.806
+Jawa Barat,2/5/2021,112.96
+Jawa Barat,2/6/2021,116.477
+Jawa Barat,2/7/2021,116.569
+Jawa Barat,2/8/2021,121.587
+Jawa Barat,2/9/2021,127.303
+Jawa Barat,2/10/2021,133.248
+Jawa Barat,2/11/2021,139.331
+Jawa Barat,2/12/2021,139.623
+Jawa Barat,2/13/2021,143.487
+Jawa Barat,2/14/2021,143.606
+Jawa Barat,2/15/2021,147.88
+Jawa Barat,2/16/2021,151.387
+Jawa Barat,2/17/2021,154.944
+Jawa Barat,2/18/2021,158.19
+Jawa Barat,2/19/2021,159.965
+Jawa Barat,2/20/2021,161.413
+Jawa Barat,2/21/2021,161.436
+Jawa Barat,2/22/2021,162.572
+Jawa Barat,2/23/2021,163.588
+Jawa Barat,2/24/2021,165.044
+Jawa Barat,2/25/2021,170.329
+Jawa Barat,2/26/2021,176.075
+Jawa Barat,2/27/2021,181.765
+Jawa Barat,2/28/2021,182.651
+Jawa Barat,3/1/2021,199.606
+Jawa Barat,3/2/2021,228.244
+Jawa Barat,3/3/2021,262.45
+Jawa Barat,3/4/2021,300.358
+Jawa Barat,3/5/2021,326.007
+Jawa Barat,3/6/2021,346.278
+Jawa Barat,3/7/2021,349.224
+Jawa Barat,3/8/2021,392.554
+Jawa Barat,3/9/2021,446.082
+Jawa Barat,3/10/2021,502.236
+Jawa Barat,3/11/2021,506.467
+Jawa Barat,3/12/2021,539.151
+Jawa Barat,3/13/2021,563.352
+Jawa Barat,3/14/2021,563.662
+Jawa Barat,3/15/2021,604.973
+Jawa Barat,3/16/2021,655.737
+Jawa Barat,3/17/2021,712.573
+Jawa Barat,3/18/2021,767.376
+Jawa Barat,3/19/2021,799.617
+Jawa Barat,3/20/2021,824.14
+Jawa Barat,3/21/2021,826.098
+Jawa Barat,3/22/2021,867.057
+Jawa Barat,3/23/2021,915.472
+Jawa Barat,3/24/2021,960.305
+Jawa Barat,3/25/2021,"1,018.063"
+Jawa Barat,3/26/2021,"1,052.976"
+Jawa Barat,3/27/2021,"1,076.94"
+Jawa Barat,3/28/2021,"1,078.326"
+Jawa Barat,3/29/2021,"1,120.743"
+Jawa Barat,3/30/2021,"1,157.976"
+Jawa Barat,3/31/2021,"1,196.871"
+Jawa Barat,4/1/2021,"1,232.44"
+Jawa Barat,4/2/2021,"1,234.319"
+Jawa Barat,4/3/2021,"1,244.594"
+Jawa Barat,4/4/2021,"1,244.772"
+Jawa Barat,4/5/2021,"1,275.702"
+Jawa Barat,4/6/2021,"1,307.875"
+Jawa Barat,4/7/2021,"1,342.456"
+Jawa Barat,4/8/2021,"1,379.417"
+Jawa Barat,4/9/2021,"1,410.616"
+Jawa Barat,4/10/2021,"1,437.529"
+Jawa Barat,4/11/2021,"1,440.322"
+Jawa Barat,4/12/2021,"1,471.323"
+Jawa Barat,4/13/2021,"1,483.311"
+Jawa Barat,4/14/2021,"1,496.907"
+Jawa Barat,4/15/2021,"1,512.212"
+Jawa Barat,4/16/2021,"1,523.253"
+Jawa Barat,4/17/2021,"1,535.548"
+Jawa Barat,4/18/2021,"1,538.078"
+Jawa Barat,4/19/2021,"1,559.11"
+Jawa Barat,4/20/2021,"1,589.884"
+Jawa Barat,4/21/2021,"1,619.881"
+Jawa Barat,4/22/2021,"1,652.427"
+Jawa Barat,4/23/2021,"1,669.198"
+Jawa Barat,4/24/2021,"1,684.984"
+Jawa Barat,4/25/2021,"1,688.486"
+Jawa Tengah,1/13/2021,0
+Jawa Tengah,1/14/2021,0.978
+Jawa Tengah,1/15/2021,1.915
+Jawa Tengah,1/16/2021,2.634
+Jawa Tengah,1/17/2021,2.639
+Jawa Tengah,1/18/2021,4.038
+Jawa Tengah,1/19/2021,5.87
+Jawa Tengah,1/20/2021,8.959
+Jawa Tengah,1/21/2021,11.809
+Jawa Tengah,1/22/2021,17.502
+Jawa Tengah,1/23/2021,21.153
+Jawa Tengah,1/24/2021,21.645
+Jawa Tengah,1/25/2021,36.498
+Jawa Tengah,1/26/2021,70.141
+Jawa Tengah,1/27/2021,99.138
+Jawa Tengah,1/28/2021,120.854
+Jawa Tengah,1/29/2021,124.7
+Jawa Tengah,1/30/2021,128.409
+Jawa Tengah,1/31/2021,128.493
+Jawa Tengah,2/1/2021,130.094
+Jawa Tengah,2/2/2021,131.595
+Jawa Tengah,2/3/2021,133.973
+Jawa Tengah,2/4/2021,135.517
+Jawa Tengah,2/5/2021,136.492
+Jawa Tengah,2/6/2021,137.514
+Jawa Tengah,2/7/2021,137.637
+Jawa Tengah,2/8/2021,138.801
+Jawa Tengah,2/9/2021,139.982
+Jawa Tengah,2/10/2021,141.339
+Jawa Tengah,2/11/2021,143.972
+Jawa Tengah,2/12/2021,144.454
+Jawa Tengah,2/13/2021,145.532
+Jawa Tengah,2/14/2021,145.54
+Jawa Tengah,2/15/2021,146.812
+Jawa Tengah,2/16/2021,148.2
+Jawa Tengah,2/17/2021,149.836
+Jawa Tengah,2/18/2021,151.471
+Jawa Tengah,2/19/2021,153.499
+Jawa Tengah,2/20/2021,155.071
+Jawa Tengah,2/21/2021,155.075
+Jawa Tengah,2/22/2021,161.387
+Jawa Tengah,2/23/2021,185.996
+Jawa Tengah,2/24/2021,235.356
+Jawa Tengah,2/25/2021,285.607
+Jawa Tengah,2/26/2021,313.898
+Jawa Tengah,2/27/2021,334.285
+Jawa Tengah,2/28/2021,335.233
+Jawa Tengah,3/1/2021,350.392
+Jawa Tengah,3/2/2021,368.774
+Jawa Tengah,3/3/2021,384.759
+Jawa Tengah,3/4/2021,407.706
+Jawa Tengah,3/5/2021,433.236
+Jawa Tengah,3/6/2021,461.046
+Jawa Tengah,3/7/2021,465.297
+Jawa Tengah,3/8/2021,511.32
+Jawa Tengah,3/9/2021,559.354
+Jawa Tengah,3/10/2021,593.802
+Jawa Tengah,3/11/2021,595.324
+Jawa Tengah,3/12/2021,617.291
+Jawa Tengah,3/13/2021,650.108
+Jawa Tengah,3/14/2021,651.603
+Jawa Tengah,3/15/2021,697.183
+Jawa Tengah,3/16/2021,744.215
+Jawa Tengah,3/17/2021,791.675
+Jawa Tengah,3/18/2021,832.68
+Jawa Tengah,3/19/2021,849.999
+Jawa Tengah,3/20/2021,868.244
+Jawa Tengah,3/21/2021,869.625
+Jawa Tengah,3/22/2021,897.285
+Jawa Tengah,3/23/2021,924.009
+Jawa Tengah,3/24/2021,956.775
+Jawa Tengah,3/25/2021,995.657
+Jawa Tengah,3/26/2021,"1,022.522"
+Jawa Tengah,3/27/2021,"1,053.098"
+Jawa Tengah,3/28/2021,"1,059.304"
+Jawa Tengah,3/29/2021,"1,096.529"
+Jawa Tengah,3/30/2021,"1,124.873"
+Jawa Tengah,3/31/2021,"1,154.247"
+Jawa Tengah,4/1/2021,"1,181.952"
+Jawa Tengah,4/2/2021,"1,183.126"
+Jawa Tengah,4/3/2021,"1,194.189"
+Jawa Tengah,4/4/2021,"1,194.697"
+Jawa Tengah,4/5/2021,"1,212.312"
+Jawa Tengah,4/6/2021,"1,226.67"
+Jawa Tengah,4/7/2021,"1,242.007"
+Jawa Tengah,4/8/2021,"1,264.155"
+Jawa Tengah,4/9/2021,"1,277.167"
+Jawa Tengah,4/10/2021,"1,291.796"
+Jawa Tengah,4/11/2021,"1,294.423"
+Jawa Tengah,4/12/2021,"1,311.181"
+Jawa Tengah,4/13/2021,"1,319.212"
+Jawa Tengah,4/14/2021,"1,327.758"
+Jawa Tengah,4/15/2021,"1,339.228"
+Jawa Tengah,4/16/2021,"1,345.828"
+Jawa Tengah,4/17/2021,"1,354.236"
+Jawa Tengah,4/18/2021,"1,354.853"
+Jawa Tengah,4/19/2021,"1,364"
+Jawa Tengah,4/20/2021,"1,372.645"
+Jawa Tengah,4/21/2021,"1,382.162"
+Jawa Tengah,4/22/2021,"1,391.331"
+Jawa Tengah,4/23/2021,"1,399.44"
+Jawa Tengah,4/24/2021,"1,407.192"
+Jawa Tengah,4/25/2021,"1,407.576"
+Jawa Timur,1/7/2021,0.001
+Jawa Timur,1/13/2021,0.001
+Jawa Timur,1/14/2021,0.35
+Jawa Timur,1/15/2021,1.166
+Jawa Timur,1/16/2021,1.742
+Jawa Timur,1/17/2021,1.745
+Jawa Timur,1/18/2021,3.32
+Jawa Timur,1/19/2021,4.835
+Jawa Timur,1/20/2021,6.852
+Jawa Timur,1/21/2021,8.936
+Jawa Timur,1/22/2021,11.907
+Jawa Timur,1/23/2021,15.013
+Jawa Timur,1/24/2021,15.724
+Jawa Timur,1/25/2021,19.737
+Jawa Timur,1/26/2021,24.48
+Jawa Timur,1/27/2021,33.036
+Jawa Timur,1/28/2021,55.216
+Jawa Timur,1/29/2021,80.8
+Jawa Timur,1/30/2021,104.172
+Jawa Timur,1/31/2021,112.234
+Jawa Timur,2/1/2021,126.403
+Jawa Timur,2/2/2021,138.084
+Jawa Timur,2/3/2021,144.616
+Jawa Timur,2/4/2021,150.452
+Jawa Timur,2/5/2021,155.346
+Jawa Timur,2/6/2021,160.653
+Jawa Timur,2/7/2021,161.478
+Jawa Timur,2/8/2021,164.522
+Jawa Timur,2/9/2021,167.405
+Jawa Timur,2/10/2021,170.454
+Jawa Timur,2/11/2021,174.319
+Jawa Timur,2/12/2021,174.55
+Jawa Timur,2/13/2021,176.416
+Jawa Timur,2/14/2021,176.654
+Jawa Timur,2/15/2021,178.894
+Jawa Timur,2/16/2021,180.529
+Jawa Timur,2/17/2021,181.715
+Jawa Timur,2/18/2021,182.613
+Jawa Timur,2/19/2021,183.28
+Jawa Timur,2/20/2021,183.919
+Jawa Timur,2/21/2021,183.944
+Jawa Timur,2/22/2021,184.596
+Jawa Timur,2/23/2021,197
+Jawa Timur,2/24/2021,230.063
+Jawa Timur,2/25/2021,286.199
+Jawa Timur,2/26/2021,334.439
+Jawa Timur,2/27/2021,372.314
+Jawa Timur,2/28/2021,378.917
+Jawa Timur,3/1/2021,436.42
+Jawa Timur,3/2/2021,499.518
+Jawa Timur,3/3/2021,552.33
+Jawa Timur,3/4/2021,602.366
+Jawa Timur,3/5/2021,641.038
+Jawa Timur,3/6/2021,670.57
+Jawa Timur,3/7/2021,671.447
+Jawa Timur,3/8/2021,716.261
+Jawa Timur,3/9/2021,756.437
+Jawa Timur,3/10/2021,790.291
+Jawa Timur,3/11/2021,791.373
+Jawa Timur,3/12/2021,809
+Jawa Timur,3/13/2021,820.349
+Jawa Timur,3/14/2021,821.112
+Jawa Timur,3/15/2021,839.259
+Jawa Timur,3/16/2021,857.683
+Jawa Timur,3/17/2021,874.34
+Jawa Timur,3/18/2021,889.65
+Jawa Timur,3/19/2021,897.891
+Jawa Timur,3/20/2021,904.432
+Jawa Timur,3/21/2021,904.712
+Jawa Timur,3/22/2021,924.99
+Jawa Timur,3/23/2021,941.71
+Jawa Timur,3/24/2021,960.409
+Jawa Timur,3/25/2021,995.62
+Jawa Timur,3/26/2021,"1,029.342"
+Jawa Timur,3/27/2021,"1,064.988"
+Jawa Timur,3/28/2021,"1,069.594"
+Jawa Timur,3/29/2021,"1,137.446"
+Jawa Timur,3/30/2021,"1,200.357"
+Jawa Timur,3/31/2021,"1,259.562"
+Jawa Timur,4/1/2021,"1,313.496"
+Jawa Timur,4/2/2021,"1,322.497"
+Jawa Timur,4/3/2021,"1,358.298"
+Jawa Timur,4/4/2021,"1,369.84"
+Jawa Timur,4/5/2021,"1,416.463"
+Jawa Timur,4/6/2021,"1,461.137"
+Jawa Timur,4/7/2021,"1,511.643"
+Jawa Timur,4/8/2021,"1,561.952"
+Jawa Timur,4/9/2021,"1,601.736"
+Jawa Timur,4/10/2021,"1,644.414"
+Jawa Timur,4/11/2021,"1,653.497"
+Jawa Timur,4/12/2021,"1,699.856"
+Jawa Timur,4/13/2021,"1,720.653"
+Jawa Timur,4/14/2021,"1,742.749"
+Jawa Timur,4/15/2021,"1,769.238"
+Jawa Timur,4/16/2021,"1,792.634"
+Jawa Timur,4/17/2021,"1,808.74"
+Jawa Timur,4/18/2021,"1,814.338"
+Jawa Timur,4/19/2021,"1,839.284"
+Jawa Timur,4/20/2021,"1,864.269"
+Jawa Timur,4/21/2021,"1,885.837"
+Jawa Timur,4/22/2021,"1,910.879"
+Jawa Timur,4/23/2021,"1,929.95"
+Jawa Timur,4/24/2021,"1,948.953"
+Jawa Timur,4/25/2021,"1,950.206"
+Kalimantan Barat,1/13/2021,0
+Kalimantan Barat,1/14/2021,0.11
+Kalimantan Barat,1/15/2021,0.211
+Kalimantan Barat,1/16/2021,0.248
+Kalimantan Barat,1/17/2021,0.249
+Kalimantan Barat,1/18/2021,0.47
+Kalimantan Barat,1/19/2021,0.699
+Kalimantan Barat,1/20/2021,1.09
+Kalimantan Barat,1/21/2021,1.489
+Kalimantan Barat,1/22/2021,1.784
+Kalimantan Barat,1/23/2021,1.858
+Kalimantan Barat,1/24/2021,1.863
+Kalimantan Barat,1/25/2021,2.095
+Kalimantan Barat,1/26/2021,2.451
+Kalimantan Barat,1/27/2021,2.923
+Kalimantan Barat,1/28/2021,3.46
+Kalimantan Barat,1/29/2021,4.056
+Kalimantan Barat,1/30/2021,5.009
+Kalimantan Barat,1/31/2021,5.209
+Kalimantan Barat,2/1/2021,5.993
+Kalimantan Barat,2/2/2021,8.137
+Kalimantan Barat,2/3/2021,10.594
+Kalimantan Barat,2/4/2021,12.746
+Kalimantan Barat,2/5/2021,14.021
+Kalimantan Barat,2/6/2021,15.058
+Kalimantan Barat,2/7/2021,15.236
+Kalimantan Barat,2/8/2021,16.931
+Kalimantan Barat,2/9/2021,18.412
+Kalimantan Barat,2/10/2021,19.827
+Kalimantan Barat,2/11/2021,20.717
+Kalimantan Barat,2/12/2021,20.784
+Kalimantan Barat,2/13/2021,21.015
+Kalimantan Barat,2/14/2021,21.018
+Kalimantan Barat,2/15/2021,21.676
+Kalimantan Barat,2/16/2021,22.335
+Kalimantan Barat,2/17/2021,22.936
+Kalimantan Barat,2/18/2021,23.482
+Kalimantan Barat,2/19/2021,23.864
+Kalimantan Barat,2/20/2021,24.055
+Kalimantan Barat,2/21/2021,24.074
+Kalimantan Barat,2/22/2021,24.484
+Kalimantan Barat,2/23/2021,24.7
+Kalimantan Barat,2/24/2021,24.901
+Kalimantan Barat,2/25/2021,25.008
+Kalimantan Barat,2/26/2021,25.099
+Kalimantan Barat,2/27/2021,25.13
+Kalimantan Barat,2/28/2021,25.133
+Kalimantan Barat,3/1/2021,25.741
+Kalimantan Barat,3/2/2021,26.825
+Kalimantan Barat,3/3/2021,29.522
+Kalimantan Barat,3/4/2021,33.414
+Kalimantan Barat,3/5/2021,35.554
+Kalimantan Barat,3/6/2021,36.41
+Kalimantan Barat,3/7/2021,36.414
+Kalimantan Barat,3/8/2021,38.179
+Kalimantan Barat,3/9/2021,41.31
+Kalimantan Barat,3/10/2021,45.232
+Kalimantan Barat,3/11/2021,45.291
+Kalimantan Barat,3/12/2021,47.241
+Kalimantan Barat,3/13/2021,48.317
+Kalimantan Barat,3/14/2021,48.319
+Kalimantan Barat,3/15/2021,50.499
+Kalimantan Barat,3/16/2021,52.898
+Kalimantan Barat,3/17/2021,56.202
+Kalimantan Barat,3/18/2021,58.49
+Kalimantan Barat,3/19/2021,60.5
+Kalimantan Barat,3/20/2021,61.248
+Kalimantan Barat,3/21/2021,61.348
+Kalimantan Barat,3/22/2021,63.366
+Kalimantan Barat,3/23/2021,65.397
+Kalimantan Barat,3/24/2021,69.067
+Kalimantan Barat,3/25/2021,74.103
+Kalimantan Barat,3/26/2021,78.122
+Kalimantan Barat,3/27/2021,79.7
+Kalimantan Barat,3/28/2021,79.925
+Kalimantan Barat,3/29/2021,83.162
+Kalimantan Barat,3/30/2021,86.008
+Kalimantan Barat,3/31/2021,89.401
+Kalimantan Barat,4/1/2021,93.134
+Kalimantan Barat,4/2/2021,93.135
+Kalimantan Barat,4/3/2021,93.684
+Kalimantan Barat,4/4/2021,93.685
+Kalimantan Barat,4/5/2021,96.236
+Kalimantan Barat,4/6/2021,99.265
+Kalimantan Barat,4/7/2021,102.424
+Kalimantan Barat,4/8/2021,105.284
+Kalimantan Barat,4/9/2021,107.698
+Kalimantan Barat,4/10/2021,108.869
+Kalimantan Barat,4/11/2021,108.965
+Kalimantan Barat,4/12/2021,111.594
+Kalimantan Barat,4/13/2021,113.349
+Kalimantan Barat,4/14/2021,115.274
+Kalimantan Barat,4/15/2021,117.205
+Kalimantan Barat,4/16/2021,118.81
+Kalimantan Barat,4/17/2021,119.286
+Kalimantan Barat,4/18/2021,119.286
+Kalimantan Barat,4/19/2021,120.683
+Kalimantan Barat,4/20/2021,122.911
+Kalimantan Barat,4/21/2021,124.903
+Kalimantan Barat,4/22/2021,126.145
+Kalimantan Barat,4/23/2021,127.007
+Kalimantan Barat,4/24/2021,127.182
+Kalimantan Barat,4/25/2021,127.19
+Kalimantan Selatan,1/7/2021,0.001
+Kalimantan Selatan,1/13/2021,0.001
+Kalimantan Selatan,1/14/2021,0.09
+Kalimantan Selatan,1/15/2021,0.149
+Kalimantan Selatan,1/16/2021,0.315
+Kalimantan Selatan,1/18/2021,0.495
+Kalimantan Selatan,1/19/2021,0.62
+Kalimantan Selatan,1/20/2021,0.909
+Kalimantan Selatan,1/21/2021,1.282
+Kalimantan Selatan,1/22/2021,1.581
+Kalimantan Selatan,1/23/2021,1.937
+Kalimantan Selatan,1/25/2021,2.276
+Kalimantan Selatan,1/26/2021,2.408
+Kalimantan Selatan,1/27/2021,2.773
+Kalimantan Selatan,1/28/2021,3.51
+Kalimantan Selatan,1/29/2021,3.821
+Kalimantan Selatan,1/30/2021,4.311
+Kalimantan Selatan,1/31/2021,4.32
+Kalimantan Selatan,2/1/2021,5.003
+Kalimantan Selatan,2/2/2021,6.335
+Kalimantan Selatan,2/3/2021,8.091
+Kalimantan Selatan,2/4/2021,9.64
+Kalimantan Selatan,2/5/2021,10.492
+Kalimantan Selatan,2/6/2021,11.502
+Kalimantan Selatan,2/7/2021,11.539
+Kalimantan Selatan,2/8/2021,13.139
+Kalimantan Selatan,2/9/2021,14.015
+Kalimantan Selatan,2/10/2021,15.02
+Kalimantan Selatan,2/11/2021,16.187
+Kalimantan Selatan,2/12/2021,16.2
+Kalimantan Selatan,2/13/2021,16.722
+Kalimantan Selatan,2/14/2021,16.729
+Kalimantan Selatan,2/15/2021,17.501
+Kalimantan Selatan,2/16/2021,18.36
+Kalimantan Selatan,2/17/2021,19.497
+Kalimantan Selatan,2/18/2021,20.503
+Kalimantan Selatan,2/19/2021,21.002
+Kalimantan Selatan,2/20/2021,21.669
+Kalimantan Selatan,2/21/2021,21.672
+Kalimantan Selatan,2/22/2021,22.69
+Kalimantan Selatan,2/23/2021,23.098
+Kalimantan Selatan,2/24/2021,23.831
+Kalimantan Selatan,2/25/2021,24.44
+Kalimantan Selatan,2/26/2021,24.857
+Kalimantan Selatan,2/27/2021,25.322
+Kalimantan Selatan,2/28/2021,25.325
+Kalimantan Selatan,3/1/2021,26.206
+Kalimantan Selatan,3/2/2021,27.128
+Kalimantan Selatan,3/3/2021,29.102
+Kalimantan Selatan,3/4/2021,31.831
+Kalimantan Selatan,3/5/2021,33.681
+Kalimantan Selatan,3/6/2021,35.462
+Kalimantan Selatan,3/7/2021,35.546
+Kalimantan Selatan,3/8/2021,39.865
+Kalimantan Selatan,3/9/2021,44.098
+Kalimantan Selatan,3/10/2021,48.355
+Kalimantan Selatan,3/11/2021,48.718
+Kalimantan Selatan,3/12/2021,50.415
+Kalimantan Selatan,3/13/2021,51.262
+Kalimantan Selatan,3/14/2021,51.263
+Kalimantan Selatan,3/15/2021,52.989
+Kalimantan Selatan,3/16/2021,55.054
+Kalimantan Selatan,3/17/2021,57.282
+Kalimantan Selatan,3/18/2021,59.071
+Kalimantan Selatan,3/19/2021,60.611
+Kalimantan Selatan,3/20/2021,61.911
+Kalimantan Selatan,3/21/2021,61.912
+Kalimantan Selatan,3/22/2021,63.807
+Kalimantan Selatan,3/23/2021,65.615
+Kalimantan Selatan,3/24/2021,68.961
+Kalimantan Selatan,3/25/2021,73.32
+Kalimantan Selatan,3/26/2021,75.485
+Kalimantan Selatan,3/27/2021,78.219
+Kalimantan Selatan,3/28/2021,78.221
+Kalimantan Selatan,3/29/2021,80.376
+Kalimantan Selatan,3/30/2021,84.2
+Kalimantan Selatan,3/31/2021,87.351
+Kalimantan Selatan,4/1/2021,89.723
+Kalimantan Selatan,4/2/2021,89.875
+Kalimantan Selatan,4/3/2021,90.827
+Kalimantan Selatan,4/4/2021,91.022
+Kalimantan Selatan,4/5/2021,92.807
+Kalimantan Selatan,4/6/2021,94.623
+Kalimantan Selatan,4/7/2021,97.932
+Kalimantan Selatan,4/8/2021,100.316
+Kalimantan Selatan,4/9/2021,101.456
+Kalimantan Selatan,4/10/2021,103.171
+Kalimantan Selatan,4/11/2021,103.171
+Kalimantan Selatan,4/12/2021,105.801
+Kalimantan Selatan,4/13/2021,106.44
+Kalimantan Selatan,4/14/2021,107.657
+Kalimantan Selatan,4/15/2021,108.834
+Kalimantan Selatan,4/16/2021,109.277
+Kalimantan Selatan,4/17/2021,109.796
+Kalimantan Selatan,4/18/2021,109.796
+Kalimantan Selatan,4/19/2021,110.962
+Kalimantan Selatan,4/20/2021,112.994
+Kalimantan Selatan,4/21/2021,116.756
+Kalimantan Selatan,4/22/2021,120.481
+Kalimantan Selatan,4/23/2021,122.424
+Kalimantan Selatan,4/24/2021,124.797
+Kalimantan Selatan,4/25/2021,125.386
+Kalimantan Tengah,1/13/2021,0
+Kalimantan Tengah,1/14/2021,0.184
+Kalimantan Tengah,1/15/2021,0.313
+Kalimantan Tengah,1/16/2021,0.368
+Kalimantan Tengah,1/18/2021,0.617
+Kalimantan Tengah,1/19/2021,0.783
+Kalimantan Tengah,1/20/2021,1.106
+Kalimantan Tengah,1/21/2021,1.412
+Kalimantan Tengah,1/22/2021,1.508
+Kalimantan Tengah,1/23/2021,1.586
+Kalimantan Tengah,1/25/2021,1.795
+Kalimantan Tengah,1/26/2021,1.964
+Kalimantan Tengah,1/27/2021,2.209
+Kalimantan Tengah,1/28/2021,2.489
+Kalimantan Tengah,1/29/2021,2.662
+Kalimantan Tengah,1/30/2021,2.882
+Kalimantan Tengah,1/31/2021,2.902
+Kalimantan Tengah,2/1/2021,4.242
+Kalimantan Tengah,2/2/2021,5.369
+Kalimantan Tengah,2/3/2021,7.393
+Kalimantan Tengah,2/4/2021,9.392
+Kalimantan Tengah,2/5/2021,10.986
+Kalimantan Tengah,2/6/2021,12.544
+Kalimantan Tengah,2/7/2021,12.557
+Kalimantan Tengah,2/8/2021,13.554
+Kalimantan Tengah,2/9/2021,14.18
+Kalimantan Tengah,2/10/2021,14.527
+Kalimantan Tengah,2/11/2021,14.965
+Kalimantan Tengah,2/12/2021,14.98
+Kalimantan Tengah,2/13/2021,15.198
+Kalimantan Tengah,2/15/2021,15.862
+Kalimantan Tengah,2/16/2021,16.318
+Kalimantan Tengah,2/17/2021,16.82
+Kalimantan Tengah,2/18/2021,17.582
+Kalimantan Tengah,2/19/2021,17.956
+Kalimantan Tengah,2/20/2021,18.251
+Kalimantan Tengah,2/21/2021,18.26
+Kalimantan Tengah,2/22/2021,18.49
+Kalimantan Tengah,2/23/2021,18.614
+Kalimantan Tengah,2/24/2021,18.821
+Kalimantan Tengah,2/25/2021,18.985
+Kalimantan Tengah,2/26/2021,19.034
+Kalimantan Tengah,2/27/2021,19.104
+Kalimantan Tengah,2/28/2021,19.106
+Kalimantan Tengah,3/1/2021,19.184
+Kalimantan Tengah,3/2/2021,19.292
+Kalimantan Tengah,3/3/2021,19.404
+Kalimantan Tengah,3/4/2021,19.596
+Kalimantan Tengah,3/5/2021,19.85
+Kalimantan Tengah,3/6/2021,20.349
+Kalimantan Tengah,3/7/2021,20.639
+Kalimantan Tengah,3/8/2021,23.612
+Kalimantan Tengah,3/9/2021,27.568
+Kalimantan Tengah,3/10/2021,31.919
+Kalimantan Tengah,3/11/2021,32.133
+Kalimantan Tengah,3/12/2021,33.516
+Kalimantan Tengah,3/13/2021,34.562
+Kalimantan Tengah,3/14/2021,34.563
+Kalimantan Tengah,3/15/2021,38.452
+Kalimantan Tengah,3/16/2021,41.212
+Kalimantan Tengah,3/17/2021,44.06
+Kalimantan Tengah,3/18/2021,46.229
+Kalimantan Tengah,3/19/2021,47.316
+Kalimantan Tengah,3/20/2021,51.794
+Kalimantan Tengah,3/21/2021,54.947
+Kalimantan Tengah,3/22/2021,57.157
+Kalimantan Tengah,3/23/2021,58.532
+Kalimantan Tengah,3/24/2021,59.78
+Kalimantan Tengah,3/25/2021,61.647
+Kalimantan Tengah,3/26/2021,62.35
+Kalimantan Tengah,3/27/2021,63.851
+Kalimantan Tengah,3/28/2021,63.95
+Kalimantan Tengah,3/29/2021,65.121
+Kalimantan Tengah,3/30/2021,66.417
+Kalimantan Tengah,3/31/2021,67.672
+Kalimantan Tengah,4/1/2021,68.769
+Kalimantan Tengah,4/2/2021,68.802
+Kalimantan Tengah,4/3/2021,69.019
+Kalimantan Tengah,4/4/2021,69.092
+Kalimantan Tengah,4/5/2021,70.258
+Kalimantan Tengah,4/6/2021,71.225
+Kalimantan Tengah,4/7/2021,72.159
+Kalimantan Tengah,4/8/2021,73.098
+Kalimantan Tengah,4/9/2021,73.348
+Kalimantan Tengah,4/10/2021,73.965
+Kalimantan Tengah,4/11/2021,73.997
+Kalimantan Tengah,4/12/2021,75.34
+Kalimantan Tengah,4/13/2021,75.84
+Kalimantan Tengah,4/14/2021,76.449
+Kalimantan Tengah,4/15/2021,77.138
+Kalimantan Tengah,4/16/2021,77.354
+Kalimantan Tengah,4/17/2021,77.848
+Kalimantan Tengah,4/18/2021,77.85
+Kalimantan Tengah,4/19/2021,79.253
+Kalimantan Tengah,4/20/2021,80.063
+Kalimantan Tengah,4/21/2021,81.229
+Kalimantan Tengah,4/22/2021,84.446
+Kalimantan Tengah,4/23/2021,84.886
+Kalimantan Tengah,4/24/2021,85.535
+Kalimantan Tengah,4/25/2021,85.55
+Kalimantan Timur,1/13/2021,0.001
+Kalimantan Timur,1/14/2021,0.404
+Kalimantan Timur,1/15/2021,0.762
+Kalimantan Timur,1/16/2021,1.038
+Kalimantan Timur,1/17/2021,1.043
+Kalimantan Timur,1/18/2021,1.589
+Kalimantan Timur,1/19/2021,2.012
+Kalimantan Timur,1/20/2021,2.549
+Kalimantan Timur,1/21/2021,3.201
+Kalimantan Timur,1/22/2021,3.569
+Kalimantan Timur,1/23/2021,3.755
+Kalimantan Timur,1/24/2021,3.756
+Kalimantan Timur,1/25/2021,4.182
+Kalimantan Timur,1/26/2021,4.577
+Kalimantan Timur,1/27/2021,5.55
+Kalimantan Timur,1/28/2021,8.688
+Kalimantan Timur,1/29/2021,12.836
+Kalimantan Timur,1/30/2021,16.926
+Kalimantan Timur,1/31/2021,17.915
+Kalimantan Timur,2/1/2021,19.133
+Kalimantan Timur,2/2/2021,20.141
+Kalimantan Timur,2/3/2021,20.871
+Kalimantan Timur,2/4/2021,21.309
+Kalimantan Timur,2/5/2021,21.804
+Kalimantan Timur,2/6/2021,22.044
+Kalimantan Timur,2/7/2021,22.05
+Kalimantan Timur,2/8/2021,22.71
+Kalimantan Timur,2/9/2021,23.361
+Kalimantan Timur,2/10/2021,24.097
+Kalimantan Timur,2/11/2021,24.484
+Kalimantan Timur,2/12/2021,24.621
+Kalimantan Timur,2/13/2021,25.216
+Kalimantan Timur,2/14/2021,25.298
+Kalimantan Timur,2/15/2021,25.799
+Kalimantan Timur,2/16/2021,26.216
+Kalimantan Timur,2/17/2021,26.53
+Kalimantan Timur,2/18/2021,26.701
+Kalimantan Timur,2/19/2021,26.946
+Kalimantan Timur,2/20/2021,27.036
+Kalimantan Timur,2/21/2021,27.042
+Kalimantan Timur,2/22/2021,27.105
+Kalimantan Timur,2/23/2021,27.187
+Kalimantan Timur,2/24/2021,27.347
+Kalimantan Timur,2/25/2021,27.443
+Kalimantan Timur,2/26/2021,27.73
+Kalimantan Timur,2/27/2021,28.453
+Kalimantan Timur,2/28/2021,29.005
+Kalimantan Timur,3/1/2021,30.2
+Kalimantan Timur,3/2/2021,36.173
+Kalimantan Timur,3/3/2021,42.767
+Kalimantan Timur,3/4/2021,50.015
+Kalimantan Timur,3/5/2021,55.356
+Kalimantan Timur,3/6/2021,59.332
+Kalimantan Timur,3/7/2021,60.497
+Kalimantan Timur,3/8/2021,64.342
+Kalimantan Timur,3/9/2021,68.333
+Kalimantan Timur,3/10/2021,72.882
+Kalimantan Timur,3/11/2021,73.228
+Kalimantan Timur,3/12/2021,75.563
+Kalimantan Timur,3/13/2021,78.32
+Kalimantan Timur,3/14/2021,78.38
+Kalimantan Timur,3/15/2021,80.535
+Kalimantan Timur,3/16/2021,82.294
+Kalimantan Timur,3/17/2021,85.285
+Kalimantan Timur,3/18/2021,87.262
+Kalimantan Timur,3/19/2021,88.387
+Kalimantan Timur,3/20/2021,90.959
+Kalimantan Timur,3/21/2021,91.446
+Kalimantan Timur,3/22/2021,92.965
+Kalimantan Timur,3/23/2021,100.686
+Kalimantan Timur,3/24/2021,104.23
+Kalimantan Timur,3/25/2021,109.2
+Kalimantan Timur,3/26/2021,111.362
+Kalimantan Timur,3/27/2021,117.322
+Kalimantan Timur,3/28/2021,117.545
+Kalimantan Timur,3/29/2021,121.311
+Kalimantan Timur,3/30/2021,125.549
+Kalimantan Timur,3/31/2021,128.383
+Kalimantan Timur,4/1/2021,131.672
+Kalimantan Timur,4/2/2021,131.925
+Kalimantan Timur,4/3/2021,134.173
+Kalimantan Timur,4/4/2021,134.416
+Kalimantan Timur,4/5/2021,136.132
+Kalimantan Timur,4/6/2021,139.558
+Kalimantan Timur,4/7/2021,142.963
+Kalimantan Timur,4/8/2021,149.217
+Kalimantan Timur,4/9/2021,154.996
+Kalimantan Timur,4/10/2021,165.081
+Kalimantan Timur,4/11/2021,169.054
+Kalimantan Timur,4/12/2021,178.717
+Kalimantan Timur,4/13/2021,180.235
+Kalimantan Timur,4/14/2021,181.994
+Kalimantan Timur,4/15/2021,185.115
+Kalimantan Timur,4/16/2021,186.222
+Kalimantan Timur,4/17/2021,188.033
+Kalimantan Timur,4/18/2021,188.223
+Kalimantan Timur,4/19/2021,189.97
+Kalimantan Timur,4/20/2021,191.817
+Kalimantan Timur,4/21/2021,193.728
+Kalimantan Timur,4/22/2021,195.693
+Kalimantan Timur,4/23/2021,196.42
+Kalimantan Timur,4/24/2021,197.7
+Kalimantan Timur,4/25/2021,197.762
+Kalimantan Utara,1/13/2021,0
+Kalimantan Utara,1/14/2021,0.123
+Kalimantan Utara,1/15/2021,0.225
+Kalimantan Utara,1/16/2021,0.332
+Kalimantan Utara,1/18/2021,0.604
+Kalimantan Utara,1/19/2021,0.844
+Kalimantan Utara,1/20/2021,1.052
+Kalimantan Utara,1/21/2021,1.277
+Kalimantan Utara,1/22/2021,1.395
+Kalimantan Utara,1/23/2021,1.428
+Kalimantan Utara,1/25/2021,1.54
+Kalimantan Utara,1/26/2021,1.635
+Kalimantan Utara,1/27/2021,1.728
+Kalimantan Utara,1/28/2021,1.873
+Kalimantan Utara,1/29/2021,1.958
+Kalimantan Utara,1/30/2021,1.997
+Kalimantan Utara,2/1/2021,2.063
+Kalimantan Utara,2/2/2021,2.135
+Kalimantan Utara,2/3/2021,2.665
+Kalimantan Utara,2/4/2021,3.219
+Kalimantan Utara,2/5/2021,3.554
+Kalimantan Utara,2/6/2021,3.801
+Kalimantan Utara,2/7/2021,3.805
+Kalimantan Utara,2/8/2021,3.973
+Kalimantan Utara,2/9/2021,4.329
+Kalimantan Utara,2/10/2021,4.606
+Kalimantan Utara,2/11/2021,4.778
+Kalimantan Utara,2/12/2021,4.794
+Kalimantan Utara,2/13/2021,4.971
+Kalimantan Utara,2/15/2021,5.114
+Kalimantan Utara,2/16/2021,5.253
+Kalimantan Utara,2/17/2021,5.551
+Kalimantan Utara,2/18/2021,5.687
+Kalimantan Utara,2/19/2021,5.838
+Kalimantan Utara,2/20/2021,5.897
+Kalimantan Utara,2/21/2021,5.898
+Kalimantan Utara,2/22/2021,5.95
+Kalimantan Utara,2/23/2021,6.035
+Kalimantan Utara,2/24/2021,6.125
+Kalimantan Utara,2/25/2021,6.146
+Kalimantan Utara,2/26/2021,6.178
+Kalimantan Utara,2/27/2021,6.234
+Kalimantan Utara,2/28/2021,6.235
+Kalimantan Utara,3/1/2021,6.316
+Kalimantan Utara,3/2/2021,6.349
+Kalimantan Utara,3/3/2021,6.423
+Kalimantan Utara,3/4/2021,6.604
+Kalimantan Utara,3/5/2021,6.74
+Kalimantan Utara,3/6/2021,6.811
+Kalimantan Utara,3/7/2021,6.811
+Kalimantan Utara,3/8/2021,7.1
+Kalimantan Utara,3/9/2021,8.32
+Kalimantan Utara,3/10/2021,9.502
+Kalimantan Utara,3/11/2021,9.819
+Kalimantan Utara,3/12/2021,10.171
+Kalimantan Utara,3/13/2021,10.564
+Kalimantan Utara,3/14/2021,10.564
+Kalimantan Utara,3/15/2021,11.052
+Kalimantan Utara,3/16/2021,11.669
+Kalimantan Utara,3/17/2021,12.433
+Kalimantan Utara,3/18/2021,12.864
+Kalimantan Utara,3/19/2021,13.035
+Kalimantan Utara,3/20/2021,13.264
+Kalimantan Utara,3/21/2021,13.276
+Kalimantan Utara,3/22/2021,13.834
+Kalimantan Utara,3/23/2021,14.365
+Kalimantan Utara,3/24/2021,14.891
+Kalimantan Utara,3/25/2021,15.631
+Kalimantan Utara,3/26/2021,16.03
+Kalimantan Utara,3/27/2021,16.445
+Kalimantan Utara,3/28/2021,16.546
+Kalimantan Utara,3/29/2021,17.492
+Kalimantan Utara,3/30/2021,18.242
+Kalimantan Utara,3/31/2021,18.839
+Kalimantan Utara,4/1/2021,19.403
+Kalimantan Utara,4/2/2021,19.463
+Kalimantan Utara,4/3/2021,19.774
+Kalimantan Utara,4/4/2021,19.774
+Kalimantan Utara,4/5/2021,20.239
+Kalimantan Utara,4/6/2021,20.626
+Kalimantan Utara,4/7/2021,20.945
+Kalimantan Utara,4/8/2021,21.517
+Kalimantan Utara,4/9/2021,21.684
+Kalimantan Utara,4/10/2021,22.479
+Kalimantan Utara,4/11/2021,22.524
+Kalimantan Utara,4/12/2021,23.213
+Kalimantan Utara,4/13/2021,23.295
+Kalimantan Utara,4/14/2021,23.405
+Kalimantan Utara,4/15/2021,23.511
+Kalimantan Utara,4/16/2021,23.54
+Kalimantan Utara,4/17/2021,23.612
+Kalimantan Utara,4/19/2021,23.788
+Kalimantan Utara,4/20/2021,24.01
+Kalimantan Utara,4/21/2021,24.312
+Kalimantan Utara,4/22/2021,24.584
+Kalimantan Utara,4/23/2021,24.755
+Kalimantan Utara,4/24/2021,24.858
+Kalimantan Utara,4/25/2021,24.864
+Kepulauan Riau,1/13/2021,0
+Kepulauan Riau,1/14/2021,0.062
+Kepulauan Riau,1/15/2021,0.208
+Kepulauan Riau,1/16/2021,0.338
+Kepulauan Riau,1/17/2021,0.338
+Kepulauan Riau,1/18/2021,0.882
+Kepulauan Riau,1/19/2021,1.386
+Kepulauan Riau,1/20/2021,2.12
+Kepulauan Riau,1/21/2021,3.102
+Kepulauan Riau,1/22/2021,3.603
+Kepulauan Riau,1/23/2021,3.74
+Kepulauan Riau,1/24/2021,3.747
+Kepulauan Riau,1/25/2021,4.086
+Kepulauan Riau,1/26/2021,4.489
+Kepulauan Riau,1/27/2021,4.938
+Kepulauan Riau,1/28/2021,5.763
+Kepulauan Riau,1/29/2021,6.749
+Kepulauan Riau,1/30/2021,7.447
+Kepulauan Riau,1/31/2021,7.509
+Kepulauan Riau,2/1/2021,8.075
+Kepulauan Riau,2/2/2021,9.15
+Kepulauan Riau,2/3/2021,9.904
+Kepulauan Riau,2/4/2021,10.544
+Kepulauan Riau,2/5/2021,10.952
+Kepulauan Riau,2/6/2021,11.433
+Kepulauan Riau,2/7/2021,11.566
+Kepulauan Riau,2/8/2021,11.9
+Kepulauan Riau,2/9/2021,12.128
+Kepulauan Riau,2/10/2021,12.304
+Kepulauan Riau,2/11/2021,12.606
+Kepulauan Riau,2/12/2021,12.614
+Kepulauan Riau,2/13/2021,12.93
+Kepulauan Riau,2/14/2021,12.934
+Kepulauan Riau,2/15/2021,13.14
+Kepulauan Riau,2/16/2021,13.412
+Kepulauan Riau,2/17/2021,13.679
+Kepulauan Riau,2/18/2021,13.771
+Kepulauan Riau,2/19/2021,13.815
+Kepulauan Riau,2/20/2021,13.844
+Kepulauan Riau,2/21/2021,13.852
+Kepulauan Riau,2/22/2021,13.882
+Kepulauan Riau,2/23/2021,13.93
+Kepulauan Riau,2/24/2021,13.971
+Kepulauan Riau,2/25/2021,14
+Kepulauan Riau,2/26/2021,14.012
+Kepulauan Riau,2/27/2021,14.056
+Kepulauan Riau,2/28/2021,14.057
+Kepulauan Riau,3/1/2021,14.508
+Kepulauan Riau,3/2/2021,15.43
+Kepulauan Riau,3/3/2021,16.313
+Kepulauan Riau,3/4/2021,18.217
+Kepulauan Riau,3/5/2021,20.608
+Kepulauan Riau,3/6/2021,21.095
+Kepulauan Riau,3/7/2021,21.1
+Kepulauan Riau,3/8/2021,23.506
+Kepulauan Riau,3/9/2021,25.608
+Kepulauan Riau,3/10/2021,27.666
+Kepulauan Riau,3/11/2021,27.72
+Kepulauan Riau,3/12/2021,28.426
+Kepulauan Riau,3/13/2021,28.604
+Kepulauan Riau,3/14/2021,28.604
+Kepulauan Riau,3/15/2021,29.434
+Kepulauan Riau,3/16/2021,30.075
+Kepulauan Riau,3/17/2021,31.038
+Kepulauan Riau,3/18/2021,31.797
+Kepulauan Riau,3/19/2021,32.475
+Kepulauan Riau,3/20/2021,33.28
+Kepulauan Riau,3/21/2021,33.83
+Kepulauan Riau,3/22/2021,35.775
+Kepulauan Riau,3/23/2021,37.546
+Kepulauan Riau,3/24/2021,39.083
+Kepulauan Riau,3/25/2021,41.29
+Kepulauan Riau,3/26/2021,43.891
+Kepulauan Riau,3/27/2021,47.416
+Kepulauan Riau,3/28/2021,48.988
+Kepulauan Riau,3/29/2021,53.211
+Kepulauan Riau,3/30/2021,59.13
+Kepulauan Riau,3/31/2021,65.071
+Kepulauan Riau,4/1/2021,71.652
+Kepulauan Riau,4/2/2021,74.252
+Kepulauan Riau,4/3/2021,77.464
+Kepulauan Riau,4/4/2021,77.505
+Kepulauan Riau,4/5/2021,81.817
+Kepulauan Riau,4/6/2021,87.504
+Kepulauan Riau,4/7/2021,93.077
+Kepulauan Riau,4/8/2021,97.044
+Kepulauan Riau,4/9/2021,99.417
+Kepulauan Riau,4/10/2021,101.163
+Kepulauan Riau,4/11/2021,101.53
+Kepulauan Riau,4/12/2021,105.469
+Kepulauan Riau,4/13/2021,107.01
+Kepulauan Riau,4/14/2021,110.162
+Kepulauan Riau,4/15/2021,111.821
+Kepulauan Riau,4/16/2021,113.223
+Kepulauan Riau,4/17/2021,115.271
+Kepulauan Riau,4/18/2021,115.509
+Kepulauan Riau,4/19/2021,117.066
+Kepulauan Riau,4/20/2021,118.163
+Kepulauan Riau,4/21/2021,119.479
+Kepulauan Riau,4/22/2021,121.611
+Kepulauan Riau,4/23/2021,122.642
+Kepulauan Riau,4/24/2021,122.949
+Kepulauan Riau,4/25/2021,122.97
+Lampung,1/13/2021,0
+Lampung,1/14/2021,0.015
+Lampung,1/15/2021,0.021
+Lampung,1/16/2021,0.021
+Lampung,1/17/2021,0.021
+Lampung,1/18/2021,0.096
+Lampung,1/19/2021,0.244
+Lampung,1/20/2021,0.644
+Lampung,1/21/2021,1.218
+Lampung,1/22/2021,1.359
+Lampung,1/23/2021,1.445
+Lampung,1/25/2021,1.62
+Lampung,1/26/2021,2.671
+Lampung,1/27/2021,3.612
+Lampung,1/28/2021,5.223
+Lampung,1/29/2021,7.22
+Lampung,1/30/2021,7.655
+Lampung,2/1/2021,9.992
+Lampung,2/2/2021,13.415
+Lampung,2/3/2021,16.595
+Lampung,2/4/2021,19.592
+Lampung,2/5/2021,21.793
+Lampung,2/6/2021,22.938
+Lampung,2/7/2021,22.95
+Lampung,2/8/2021,24.243
+Lampung,2/9/2021,25.184
+Lampung,2/10/2021,26.007
+Lampung,2/11/2021,26.901
+Lampung,2/12/2021,26.984
+Lampung,2/13/2021,27.17
+Lampung,2/14/2021,27.172
+Lampung,2/15/2021,27.859
+Lampung,2/16/2021,28.746
+Lampung,2/17/2021,29.633
+Lampung,2/18/2021,30.514
+Lampung,2/19/2021,30.973
+Lampung,2/20/2021,31.19
+Lampung,2/21/2021,31.194
+Lampung,2/22/2021,31.629
+Lampung,2/23/2021,32.069
+Lampung,2/24/2021,32.376
+Lampung,2/25/2021,32.628
+Lampung,2/26/2021,32.796
+Lampung,2/27/2021,32.83
+Lampung,2/28/2021,32.83
+Lampung,3/1/2021,33.051
+Lampung,3/2/2021,33.461
+Lampung,3/3/2021,34.89
+Lampung,3/4/2021,39.455
+Lampung,3/5/2021,46.174
+Lampung,3/6/2021,50.961
+Lampung,3/7/2021,51.152
+Lampung,3/8/2021,58.124
+Lampung,3/9/2021,65.726
+Lampung,3/10/2021,73.88
+Lampung,3/11/2021,74.112
+Lampung,3/12/2021,78.041
+Lampung,3/13/2021,79.911
+Lampung,3/14/2021,79.988
+Lampung,3/15/2021,86.849
+Lampung,3/16/2021,91.301
+Lampung,3/17/2021,94.852
+Lampung,3/18/2021,99.189
+Lampung,3/19/2021,101.646
+Lampung,3/20/2021,103.181
+Lampung,3/21/2021,103.212
+Lampung,3/22/2021,106.089
+Lampung,3/23/2021,108.825
+Lampung,3/24/2021,112.028
+Lampung,3/25/2021,118.254
+Lampung,3/26/2021,120.613
+Lampung,3/27/2021,122.813
+Lampung,3/28/2021,122.977
+Lampung,3/29/2021,126.283
+Lampung,3/30/2021,129.624
+Lampung,3/31/2021,135.447
+Lampung,4/1/2021,138.401
+Lampung,4/2/2021,139.274
+Lampung,4/3/2021,140.907
+Lampung,4/4/2021,140.912
+Lampung,4/5/2021,143.26
+Lampung,4/6/2021,145.411
+Lampung,4/7/2021,149.292
+Lampung,4/8/2021,153.691
+Lampung,4/9/2021,156.133
+Lampung,4/10/2021,159.503
+Lampung,4/11/2021,159.721
+Lampung,4/12/2021,165.866
+Lampung,4/13/2021,167.074
+Lampung,4/14/2021,168.195
+Lampung,4/15/2021,170.275
+Lampung,4/16/2021,171.215
+Lampung,4/17/2021,172.227
+Lampung,4/18/2021,172.278
+Lampung,4/19/2021,174.257
+Lampung,4/20/2021,176.216
+Lampung,4/21/2021,178.376
+Lampung,4/22/2021,181.545
+Lampung,4/23/2021,182.348
+Lampung,4/24/2021,183.825
+Lampung,4/25/2021,183.839
+Maluku,1/14/2021,0.001
+Maluku,1/15/2021,0.204
+Maluku,1/16/2021,0.204
+Maluku,1/18/2021,0.298
+Maluku,1/19/2021,0.409
+Maluku,1/20/2021,0.538
+Maluku,1/21/2021,0.884
+Maluku,1/22/2021,0.99
+Maluku,1/23/2021,1.063
+Maluku,1/24/2021,1.077
+Maluku,1/25/2021,1.202
+Maluku,1/26/2021,1.299
+Maluku,1/27/2021,1.458
+Maluku,1/28/2021,1.756
+Maluku,1/29/2021,2.116
+Maluku,1/30/2021,2.392
+Maluku,1/31/2021,2.421
+Maluku,2/1/2021,2.883
+Maluku,2/2/2021,3.388
+Maluku,2/3/2021,3.884
+Maluku,2/4/2021,4.365
+Maluku,2/5/2021,4.787
+Maluku,2/6/2021,5.525
+Maluku,2/7/2021,5.648
+Maluku,2/8/2021,6.141
+Maluku,2/9/2021,6.395
+Maluku,2/10/2021,6.798
+Maluku,2/11/2021,7.089
+Maluku,2/12/2021,7.172
+Maluku,2/13/2021,7.309
+Maluku,2/14/2021,7.31
+Maluku,2/15/2021,7.667
+Maluku,2/16/2021,8.101
+Maluku,2/17/2021,8.499
+Maluku,2/18/2021,8.893
+Maluku,2/19/2021,9.142
+Maluku,2/20/2021,9.31
+Maluku,2/21/2021,9.325
+Maluku,2/22/2021,9.597
+Maluku,2/23/2021,9.76
+Maluku,2/24/2021,9.864
+Maluku,2/25/2021,10.02
+Maluku,2/26/2021,10.127
+Maluku,2/27/2021,10.208
+Maluku,2/28/2021,10.209
+Maluku,3/1/2021,10.286
+Maluku,3/2/2021,10.403
+Maluku,3/3/2021,10.695
+Maluku,3/4/2021,11.066
+Maluku,3/5/2021,11.596
+Maluku,3/6/2021,12.141
+Maluku,3/7/2021,12.147
+Maluku,3/8/2021,12.874
+Maluku,3/9/2021,14.18
+Maluku,3/10/2021,16.176
+Maluku,3/11/2021,16.193
+Maluku,3/12/2021,17.547
+Maluku,3/13/2021,19.308
+Maluku,3/15/2021,20.418
+Maluku,3/16/2021,22.733
+Maluku,3/17/2021,24.743
+Maluku,3/18/2021,26.728
+Maluku,3/19/2021,28.986
+Maluku,3/20/2021,29.437
+Maluku,3/21/2021,29.45
+Maluku,3/22/2021,31.13
+Maluku,3/23/2021,32.76
+Maluku,3/24/2021,34.058
+Maluku,3/25/2021,35.151
+Maluku,3/26/2021,36.182
+Maluku,3/27/2021,36.415
+Maluku,3/28/2021,36.701
+Maluku,3/29/2021,37.582
+Maluku,3/30/2021,38.912
+Maluku,3/31/2021,39.851
+Maluku,4/1/2021,40.976
+Maluku,4/2/2021,40.987
+Maluku,4/3/2021,41.404
+Maluku,4/5/2021,41.854
+Maluku,4/6/2021,43.075
+Maluku,4/7/2021,44.276
+Maluku,4/8/2021,44.909
+Maluku,4/9/2021,46.194
+Maluku,4/10/2021,47.375
+Maluku,4/11/2021,47.435
+Maluku,4/12/2021,47.99
+Maluku,4/13/2021,48.272
+Maluku,4/14/2021,48.803
+Maluku,4/15/2021,49.486
+Maluku,4/16/2021,51.396
+Maluku,4/17/2021,51.657
+Maluku,4/18/2021,51.746
+Maluku,4/19/2021,52.188
+Maluku,4/20/2021,52.671
+Maluku,4/21/2021,53.303
+Maluku,4/22/2021,54.424
+Maluku,4/23/2021,55.638
+Maluku,4/24/2021,56.518
+Maluku,4/25/2021,56.629
+Maluku Utara,1/14/2021,0.008
+Maluku Utara,1/15/2021,0.01
+Maluku Utara,1/16/2021,0.01
+Maluku Utara,1/17/2021,0.01
+Maluku Utara,1/18/2021,0.012
+Maluku Utara,1/19/2021,0.025
+Maluku Utara,1/20/2021,0.079
+Maluku Utara,1/21/2021,0.143
+Maluku Utara,1/22/2021,0.179
+Maluku Utara,1/23/2021,0.23
+Maluku Utara,1/24/2021,0.246
+Maluku Utara,1/25/2021,0.336
+Maluku Utara,1/26/2021,0.432
+Maluku Utara,1/27/2021,0.506
+Maluku Utara,1/28/2021,0.566
+Maluku Utara,1/29/2021,0.603
+Maluku Utara,1/30/2021,0.644
+Maluku Utara,1/31/2021,0.651
+Maluku Utara,2/1/2021,0.725
+Maluku Utara,2/2/2021,0.807
+Maluku Utara,2/3/2021,0.899
+Maluku Utara,2/4/2021,1.043
+Maluku Utara,2/5/2021,1.312
+Maluku Utara,2/6/2021,1.596
+Maluku Utara,2/7/2021,1.639
+Maluku Utara,2/8/2021,1.902
+Maluku Utara,2/9/2021,2.405
+Maluku Utara,2/10/2021,3.133
+Maluku Utara,2/11/2021,3.701
+Maluku Utara,2/12/2021,3.863
+Maluku Utara,2/13/2021,4.177
+Maluku Utara,2/14/2021,4.206
+Maluku Utara,2/15/2021,4.695
+Maluku Utara,2/16/2021,5.315
+Maluku Utara,2/17/2021,5.695
+Maluku Utara,2/18/2021,6.151
+Maluku Utara,2/19/2021,6.42
+Maluku Utara,2/20/2021,6.759
+Maluku Utara,2/21/2021,6.779
+Maluku Utara,2/22/2021,7.013
+Maluku Utara,2/23/2021,7.275
+Maluku Utara,2/24/2021,7.562
+Maluku Utara,2/25/2021,7.802
+Maluku Utara,2/26/2021,7.888
+Maluku Utara,2/27/2021,8.044
+Maluku Utara,2/28/2021,8.048
+Maluku Utara,3/1/2021,8.177
+Maluku Utara,3/2/2021,8.37
+Maluku Utara,3/3/2021,8.54
+Maluku Utara,3/4/2021,8.863
+Maluku Utara,3/5/2021,9.109
+Maluku Utara,3/6/2021,9.249
+Maluku Utara,3/7/2021,9.256
+Maluku Utara,3/8/2021,9.563
+Maluku Utara,3/9/2021,10.138
+Maluku Utara,3/10/2021,10.52
+Maluku Utara,3/11/2021,10.561
+Maluku Utara,3/12/2021,10.793
+Maluku Utara,3/13/2021,10.938
+Maluku Utara,3/14/2021,10.947
+Maluku Utara,3/15/2021,11.75
+Maluku Utara,3/16/2021,12.315
+Maluku Utara,3/17/2021,12.907
+Maluku Utara,3/18/2021,13.514
+Maluku Utara,3/19/2021,14.071
+Maluku Utara,3/20/2021,14.366
+Maluku Utara,3/21/2021,14.367
+Maluku Utara,3/22/2021,14.996
+Maluku Utara,3/23/2021,15.36
+Maluku Utara,3/24/2021,15.965
+Maluku Utara,3/25/2021,16.36
+Maluku Utara,3/26/2021,16.828
+Maluku Utara,3/27/2021,17.035
+Maluku Utara,3/28/2021,17.185
+Maluku Utara,3/29/2021,17.922
+Maluku Utara,3/30/2021,18.562
+Maluku Utara,3/31/2021,18.924
+Maluku Utara,4/1/2021,19.585
+Maluku Utara,4/2/2021,19.634
+Maluku Utara,4/3/2021,19.721
+Maluku Utara,4/5/2021,20.079
+Maluku Utara,4/6/2021,20.736
+Maluku Utara,4/7/2021,21.751
+Maluku Utara,4/8/2021,22.626
+Maluku Utara,4/9/2021,23.57
+Maluku Utara,4/10/2021,24.097
+Maluku Utara,4/11/2021,24.17
+Maluku Utara,4/12/2021,24.991
+Maluku Utara,4/13/2021,25.354
+Maluku Utara,4/14/2021,25.602
+Maluku Utara,4/15/2021,25.786
+Maluku Utara,4/16/2021,26.083
+Maluku Utara,4/17/2021,26.144
+Maluku Utara,4/18/2021,26.162
+Maluku Utara,4/19/2021,26.576
+Maluku Utara,4/20/2021,27.06
+Maluku Utara,4/21/2021,27.467
+Maluku Utara,4/22/2021,27.885
+Maluku Utara,4/23/2021,28.114
+Maluku Utara,4/24/2021,28.205
+Maluku Utara,4/25/2021,28.304
+Nusa Tenggara Barat,1/14/2021,0.055
+Nusa Tenggara Barat,1/15/2021,0.112
+Nusa Tenggara Barat,1/16/2021,0.188
+Nusa Tenggara Barat,1/17/2021,0.188
+Nusa Tenggara Barat,1/18/2021,0.522
+Nusa Tenggara Barat,1/19/2021,0.812
+Nusa Tenggara Barat,1/20/2021,1.446
+Nusa Tenggara Barat,1/21/2021,2.08
+Nusa Tenggara Barat,1/22/2021,2.375
+Nusa Tenggara Barat,1/23/2021,2.714
+Nusa Tenggara Barat,1/25/2021,3.312
+Nusa Tenggara Barat,1/26/2021,3.877
+Nusa Tenggara Barat,1/27/2021,4.41
+Nusa Tenggara Barat,1/28/2021,4.729
+Nusa Tenggara Barat,1/29/2021,5.13
+Nusa Tenggara Barat,1/30/2021,5.507
+Nusa Tenggara Barat,1/31/2021,5.585
+Nusa Tenggara Barat,2/1/2021,5.833
+Nusa Tenggara Barat,2/2/2021,6.62
+Nusa Tenggara Barat,2/3/2021,8.212
+Nusa Tenggara Barat,2/4/2021,10.05
+Nusa Tenggara Barat,2/5/2021,11.29
+Nusa Tenggara Barat,2/6/2021,12.801
+Nusa Tenggara Barat,2/7/2021,12.81
+Nusa Tenggara Barat,2/8/2021,14.425
+Nusa Tenggara Barat,2/9/2021,15.87
+Nusa Tenggara Barat,2/10/2021,17.032
+Nusa Tenggara Barat,2/11/2021,17.965
+Nusa Tenggara Barat,2/12/2021,18.009
+Nusa Tenggara Barat,2/13/2021,18.753
+Nusa Tenggara Barat,2/14/2021,18.754
+Nusa Tenggara Barat,2/15/2021,19.931
+Nusa Tenggara Barat,2/16/2021,21.031
+Nusa Tenggara Barat,2/17/2021,22.01
+Nusa Tenggara Barat,2/18/2021,22.858
+Nusa Tenggara Barat,2/19/2021,23.276
+Nusa Tenggara Barat,2/20/2021,23.668
+Nusa Tenggara Barat,2/21/2021,23.671
+Nusa Tenggara Barat,2/22/2021,24.249
+Nusa Tenggara Barat,2/23/2021,24.668
+Nusa Tenggara Barat,2/24/2021,25.331
+Nusa Tenggara Barat,2/25/2021,25.753
+Nusa Tenggara Barat,2/26/2021,26.039
+Nusa Tenggara Barat,2/27/2021,26.19
+Nusa Tenggara Barat,2/28/2021,26.193
+Nusa Tenggara Barat,3/1/2021,26.653
+Nusa Tenggara Barat,3/2/2021,27.493
+Nusa Tenggara Barat,3/3/2021,28.729
+Nusa Tenggara Barat,3/4/2021,30.124
+Nusa Tenggara Barat,3/5/2021,31.134
+Nusa Tenggara Barat,3/6/2021,31.911
+Nusa Tenggara Barat,3/7/2021,31.988
+Nusa Tenggara Barat,3/8/2021,35.894
+Nusa Tenggara Barat,3/9/2021,39.799
+Nusa Tenggara Barat,3/10/2021,45.086
+Nusa Tenggara Barat,3/11/2021,45.103
+Nusa Tenggara Barat,3/12/2021,46.669
+Nusa Tenggara Barat,3/13/2021,47.931
+Nusa Tenggara Barat,3/14/2021,47.943
+Nusa Tenggara Barat,3/15/2021,51.231
+Nusa Tenggara Barat,3/16/2021,54.521
+Nusa Tenggara Barat,3/17/2021,57.417
+Nusa Tenggara Barat,3/18/2021,60.312
+Nusa Tenggara Barat,3/19/2021,62.248
+Nusa Tenggara Barat,3/20/2021,64.679
+Nusa Tenggara Barat,3/21/2021,64.685
+Nusa Tenggara Barat,3/22/2021,70.042
+Nusa Tenggara Barat,3/23/2021,77.3
+Nusa Tenggara Barat,3/24/2021,84.251
+Nusa Tenggara Barat,3/25/2021,91.379
+Nusa Tenggara Barat,3/26/2021,94.641
+Nusa Tenggara Barat,3/27/2021,98.921
+Nusa Tenggara Barat,3/28/2021,99.545
+Nusa Tenggara Barat,3/29/2021,107.361
+Nusa Tenggara Barat,3/30/2021,114.467
+Nusa Tenggara Barat,3/31/2021,120.604
+Nusa Tenggara Barat,4/1/2021,125.606
+Nusa Tenggara Barat,4/2/2021,126.075
+Nusa Tenggara Barat,4/3/2021,128.876
+Nusa Tenggara Barat,4/4/2021,128.916
+Nusa Tenggara Barat,4/5/2021,133.468
+Nusa Tenggara Barat,4/6/2021,137.757
+Nusa Tenggara Barat,4/7/2021,141.118
+Nusa Tenggara Barat,4/8/2021,143.433
+Nusa Tenggara Barat,4/9/2021,144.739
+Nusa Tenggara Barat,4/10/2021,147.884
+Nusa Tenggara Barat,4/11/2021,147.982
+Nusa Tenggara Barat,4/12/2021,151.505
+Nusa Tenggara Barat,4/13/2021,152.527
+Nusa Tenggara Barat,4/14/2021,153.389
+Nusa Tenggara Barat,4/15/2021,154.917
+Nusa Tenggara Barat,4/16/2021,155.875
+Nusa Tenggara Barat,4/17/2021,157.275
+Nusa Tenggara Barat,4/18/2021,157.342
+Nusa Tenggara Barat,4/19/2021,159.497
+Nusa Tenggara Barat,4/20/2021,161.51
+Nusa Tenggara Barat,4/21/2021,163.418
+Nusa Tenggara Barat,4/22/2021,164.962
+Nusa Tenggara Barat,4/23/2021,166.044
+Nusa Tenggara Barat,4/24/2021,168.079
+Nusa Tenggara Barat,4/25/2021,168.148
+Nusa Tenggara Timur,1/9/2021,0.001
+Nusa Tenggara Timur,1/14/2021,0.007
+Nusa Tenggara Timur,1/15/2021,0.021
+Nusa Tenggara Timur,1/16/2021,0.023
+Nusa Tenggara Timur,1/18/2021,0.075
+Nusa Tenggara Timur,1/19/2021,0.225
+Nusa Tenggara Timur,1/20/2021,0.419
+Nusa Tenggara Timur,1/21/2021,0.737
+Nusa Tenggara Timur,1/22/2021,0.998
+Nusa Tenggara Timur,1/23/2021,1.305
+Nusa Tenggara Timur,1/24/2021,1.377
+Nusa Tenggara Timur,1/25/2021,1.538
+Nusa Tenggara Timur,1/26/2021,1.729
+Nusa Tenggara Timur,1/27/2021,1.963
+Nusa Tenggara Timur,1/28/2021,2.119
+Nusa Tenggara Timur,1/29/2021,2.226
+Nusa Tenggara Timur,1/30/2021,2.295
+Nusa Tenggara Timur,1/31/2021,2.296
+Nusa Tenggara Timur,2/1/2021,2.394
+Nusa Tenggara Timur,2/2/2021,2.795
+Nusa Tenggara Timur,2/3/2021,4.146
+Nusa Tenggara Timur,2/4/2021,6.369
+Nusa Tenggara Timur,2/5/2021,9.093
+Nusa Tenggara Timur,2/6/2021,12.453
+Nusa Tenggara Timur,2/7/2021,13.473
+Nusa Tenggara Timur,2/8/2021,17.169
+Nusa Tenggara Timur,2/9/2021,20.042
+Nusa Tenggara Timur,2/10/2021,22.345
+Nusa Tenggara Timur,2/11/2021,24.02
+Nusa Tenggara Timur,2/12/2021,24.14
+Nusa Tenggara Timur,2/13/2021,24.829
+Nusa Tenggara Timur,2/14/2021,24.848
+Nusa Tenggara Timur,2/15/2021,25.721
+Nusa Tenggara Timur,2/16/2021,26.401
+Nusa Tenggara Timur,2/17/2021,27.127
+Nusa Tenggara Timur,2/18/2021,27.81
+Nusa Tenggara Timur,2/19/2021,28.32
+Nusa Tenggara Timur,2/20/2021,28.775
+Nusa Tenggara Timur,2/21/2021,28.793
+Nusa Tenggara Timur,2/22/2021,29.215
+Nusa Tenggara Timur,2/23/2021,29.642
+Nusa Tenggara Timur,2/24/2021,30.145
+Nusa Tenggara Timur,2/25/2021,30.399
+Nusa Tenggara Timur,2/26/2021,30.484
+Nusa Tenggara Timur,2/27/2021,30.721
+Nusa Tenggara Timur,2/28/2021,30.722
+Nusa Tenggara Timur,3/1/2021,30.957
+Nusa Tenggara Timur,3/2/2021,31.316
+Nusa Tenggara Timur,3/3/2021,31.963
+Nusa Tenggara Timur,3/4/2021,32.939
+Nusa Tenggara Timur,3/5/2021,34.294
+Nusa Tenggara Timur,3/6/2021,34.975
+Nusa Tenggara Timur,3/7/2021,34.98
+Nusa Tenggara Timur,3/8/2021,37.261
+Nusa Tenggara Timur,3/9/2021,40.837
+Nusa Tenggara Timur,3/10/2021,44.245
+Nusa Tenggara Timur,3/11/2021,45.074
+Nusa Tenggara Timur,3/12/2021,47.658
+Nusa Tenggara Timur,3/13/2021,49.23
+Nusa Tenggara Timur,3/14/2021,49.231
+Nusa Tenggara Timur,3/15/2021,52.373
+Nusa Tenggara Timur,3/16/2021,56.38
+Nusa Tenggara Timur,3/17/2021,60.185
+Nusa Tenggara Timur,3/18/2021,63.694
+Nusa Tenggara Timur,3/19/2021,65.936
+Nusa Tenggara Timur,3/20/2021,68.491
+Nusa Tenggara Timur,3/21/2021,68.526
+Nusa Tenggara Timur,3/22/2021,71.413
+Nusa Tenggara Timur,3/23/2021,74.812
+Nusa Tenggara Timur,3/24/2021,76.92
+Nusa Tenggara Timur,3/25/2021,80.619
+Nusa Tenggara Timur,3/26/2021,85.159
+Nusa Tenggara Timur,3/27/2021,87.789
+Nusa Tenggara Timur,3/28/2021,87.793
+Nusa Tenggara Timur,3/29/2021,90.049
+Nusa Tenggara Timur,3/30/2021,91.66
+Nusa Tenggara Timur,3/31/2021,93.344
+Nusa Tenggara Timur,4/1/2021,94.298
+Nusa Tenggara Timur,4/2/2021,94.326
+Nusa Tenggara Timur,4/3/2021,94.973
+Nusa Tenggara Timur,4/4/2021,94.992
+Nusa Tenggara Timur,4/5/2021,95.493
+Nusa Tenggara Timur,4/6/2021,97.21
+Nusa Tenggara Timur,4/7/2021,98.723
+Nusa Tenggara Timur,4/8/2021,99.54
+Nusa Tenggara Timur,4/9/2021,100.418
+Nusa Tenggara Timur,4/10/2021,101.275
+Nusa Tenggara Timur,4/11/2021,101.285
+Nusa Tenggara Timur,4/12/2021,102.202
+Nusa Tenggara Timur,4/13/2021,103.189
+Nusa Tenggara Timur,4/14/2021,104.733
+Nusa Tenggara Timur,4/15/2021,105.851
+Nusa Tenggara Timur,4/16/2021,107.313
+Nusa Tenggara Timur,4/17/2021,108.557
+Nusa Tenggara Timur,4/18/2021,108.613
+Nusa Tenggara Timur,4/19/2021,110.236
+Nusa Tenggara Timur,4/20/2021,113.139
+Nusa Tenggara Timur,4/21/2021,116.841
+Nusa Tenggara Timur,4/22/2021,120.773
+Nusa Tenggara Timur,4/23/2021,125.188
+Nusa Tenggara Timur,4/24/2021,128.984
+Nusa Tenggara Timur,4/25/2021,129.72
+Papua,1/14/2021,0.001
+Papua,1/15/2021,0.013
+Papua,1/16/2021,0.026
+Papua,1/18/2021,0.11
+Papua,1/19/2021,0.189
+Papua,1/20/2021,0.269
+Papua,1/21/2021,0.409
+Papua,1/22/2021,0.563
+Papua,1/23/2021,0.693
+Papua,1/24/2021,0.737
+Papua,1/25/2021,0.872
+Papua,1/26/2021,1.034
+Papua,1/27/2021,1.238
+Papua,1/28/2021,1.525
+Papua,1/29/2021,1.884
+Papua,1/30/2021,2.165
+Papua,2/1/2021,2.346
+Papua,2/2/2021,2.632
+Papua,2/3/2021,2.836
+Papua,2/4/2021,3.239
+Papua,2/5/2021,3.475
+Papua,2/6/2021,3.64
+Papua,2/7/2021,3.687
+Papua,2/8/2021,4.396
+Papua,2/9/2021,4.973
+Papua,2/10/2021,5.56
+Papua,2/11/2021,6.392
+Papua,2/12/2021,6.554
+Papua,2/13/2021,6.906
+Papua,2/14/2021,6.931
+Papua,2/15/2021,7.306
+Papua,2/16/2021,8.276
+Papua,2/17/2021,9.069
+Papua,2/18/2021,9.977
+Papua,2/19/2021,10.716
+Papua,2/20/2021,11.173
+Papua,2/21/2021,11.178
+Papua,2/22/2021,11.882
+Papua,2/23/2021,12.648
+Papua,2/24/2021,13.047
+Papua,2/25/2021,13.756
+Papua,2/26/2021,14.348
+Papua,2/27/2021,14.799
+Papua,2/28/2021,14.812
+Papua,3/1/2021,15.118
+Papua,3/2/2021,15.722
+Papua,3/3/2021,16.116
+Papua,3/4/2021,16.567
+Papua,3/5/2021,17.133
+Papua,3/6/2021,17.494
+Papua,3/7/2021,17.526
+Papua,3/8/2021,19.412
+Papua,3/9/2021,22.355
+Papua,3/10/2021,25.823
+Papua,3/11/2021,26.561
+Papua,3/12/2021,29.79
+Papua,3/13/2021,32.092
+Papua,3/14/2021,32.152
+Papua,3/15/2021,34.825
+Papua,3/16/2021,38.386
+Papua,3/17/2021,41.588
+Papua,3/18/2021,45.761
+Papua,3/19/2021,49.591
+Papua,3/20/2021,53.343
+Papua,3/21/2021,53.59
+Papua,3/22/2021,56.416
+Papua,3/23/2021,59.752
+Papua,3/24/2021,63.254
+Papua,3/25/2021,68.436
+Papua,3/26/2021,72.595
+Papua,3/27/2021,76.78
+Papua,3/28/2021,77.331
+Papua,3/29/2021,80.596
+Papua,3/30/2021,83.982
+Papua,3/31/2021,86.618
+Papua,4/1/2021,88.735
+Papua,4/2/2021,88.771
+Papua,4/3/2021,89.571
+Papua,4/4/2021,89.623
+Papua,4/5/2021,89.887
+Papua,4/6/2021,92.293
+Papua,4/7/2021,96.013
+Papua,4/8/2021,100.64
+Papua,4/9/2021,102.395
+Papua,4/10/2021,103.544
+Papua,4/11/2021,103.616
+Papua,4/12/2021,105.836
+Papua,4/13/2021,107.262
+Papua,4/14/2021,107.985
+Papua,4/15/2021,109.184
+Papua,4/16/2021,110.469
+Papua,4/17/2021,111.354
+Papua,4/18/2021,111.898
+Papua,4/19/2021,113.206
+Papua,4/20/2021,114.404
+Papua,4/21/2021,116.073
+Papua,4/22/2021,117.622
+Papua,4/23/2021,118.519
+Papua,4/24/2021,119.746
+Papua,4/25/2021,119.809
+Papua Barat,1/14/2021,0.006
+Papua Barat,1/15/2021,0.029
+Papua Barat,1/17/2021,0.029
+Papua Barat,1/18/2021,0.105
+Papua Barat,1/19/2021,0.153
+Papua Barat,1/20/2021,0.266
+Papua Barat,1/21/2021,0.484
+Papua Barat,1/22/2021,0.599
+Papua Barat,1/23/2021,0.706
+Papua Barat,1/25/2021,0.935
+Papua Barat,1/26/2021,0.961
+Papua Barat,1/27/2021,1.022
+Papua Barat,1/28/2021,1.08
+Papua Barat,1/29/2021,1.132
+Papua Barat,1/30/2021,1.158
+Papua Barat,1/31/2021,1.159
+Papua Barat,2/1/2021,1.435
+Papua Barat,2/2/2021,1.746
+Papua Barat,2/3/2021,2.021
+Papua Barat,2/4/2021,2.671
+Papua Barat,2/5/2021,2.71
+Papua Barat,2/6/2021,3.19
+Papua Barat,2/7/2021,3.195
+Papua Barat,2/8/2021,3.882
+Papua Barat,2/9/2021,4.426
+Papua Barat,2/10/2021,5.001
+Papua Barat,2/11/2021,5.344
+Papua Barat,2/12/2021,5.415
+Papua Barat,2/13/2021,5.782
+Papua Barat,2/14/2021,5.81
+Papua Barat,2/15/2021,6.086
+Papua Barat,2/16/2021,6.281
+Papua Barat,2/17/2021,6.421
+Papua Barat,2/18/2021,6.721
+Papua Barat,2/19/2021,6.772
+Papua Barat,2/20/2021,6.877
+Papua Barat,2/22/2021,7.031
+Papua Barat,2/23/2021,7.15
+Papua Barat,2/24/2021,7.309
+Papua Barat,2/25/2021,7.392
+Papua Barat,2/26/2021,7.427
+Papua Barat,2/27/2021,7.541
+Papua Barat,2/28/2021,7.546
+Papua Barat,3/1/2021,7.627
+Papua Barat,3/2/2021,7.717
+Papua Barat,3/3/2021,9.415
+Papua Barat,3/4/2021,10.778
+Papua Barat,3/5/2021,11.916
+Papua Barat,3/6/2021,12.166
+Papua Barat,3/7/2021,12.172
+Papua Barat,3/8/2021,12.981
+Papua Barat,3/9/2021,13.616
+Papua Barat,3/10/2021,14.231
+Papua Barat,3/11/2021,14.253
+Papua Barat,3/12/2021,14.404
+Papua Barat,3/13/2021,14.64
+Papua Barat,3/14/2021,14.641
+Papua Barat,3/15/2021,14.926
+Papua Barat,3/16/2021,15.138
+Papua Barat,3/17/2021,15.279
+Papua Barat,3/18/2021,15.582
+Papua Barat,3/19/2021,15.928
+Papua Barat,3/20/2021,16.196
+Papua Barat,3/21/2021,16.198
+Papua Barat,3/22/2021,17.192
+Papua Barat,3/23/2021,18.52
+Papua Barat,3/24/2021,19.913
+Papua Barat,3/25/2021,20.314
+Papua Barat,3/26/2021,20.526
+Papua Barat,3/27/2021,20.711
+Papua Barat,3/28/2021,20.711
+Papua Barat,3/29/2021,22.317
+Papua Barat,3/30/2021,23.82
+Papua Barat,3/31/2021,25.526
+Papua Barat,4/1/2021,26.448
+Papua Barat,4/2/2021,26.448
+Papua Barat,4/3/2021,27.425
+Papua Barat,4/4/2021,27.428
+Papua Barat,4/5/2021,27.864
+Papua Barat,4/6/2021,28.812
+Papua Barat,4/7/2021,29.818
+Papua Barat,4/8/2021,31.169
+Papua Barat,4/9/2021,31.793
+Papua Barat,4/10/2021,32.397
+Papua Barat,4/11/2021,32.462
+Papua Barat,4/12/2021,33.082
+Papua Barat,4/13/2021,33.301
+Papua Barat,4/14/2021,33.934
+Papua Barat,4/15/2021,34.813
+Papua Barat,4/16/2021,35.25
+Papua Barat,4/17/2021,35.531
+Papua Barat,4/18/2021,35.545
+Papua Barat,4/19/2021,36.009
+Papua Barat,4/20/2021,36.329
+Papua Barat,4/21/2021,36.666
+Papua Barat,4/22/2021,37.665
+Papua Barat,4/23/2021,37.914
+Papua Barat,4/24/2021,38.275
+Papua Barat,4/25/2021,38.277
+Riau,1/9/2021,0.001
+Riau,1/13/2021,0.001
+Riau,1/14/2021,0.054
+Riau,1/15/2021,0.218
+Riau,1/16/2021,0.298
+Riau,1/17/2021,0.299
+Riau,1/18/2021,0.525
+Riau,1/19/2021,0.655
+Riau,1/20/2021,0.989
+Riau,1/21/2021,1.595
+Riau,1/22/2021,2.177
+Riau,1/23/2021,2.524
+Riau,1/24/2021,2.524
+Riau,1/25/2021,3.019
+Riau,1/26/2021,3.616
+Riau,1/27/2021,4.228
+Riau,1/28/2021,4.893
+Riau,1/29/2021,6.141
+Riau,1/30/2021,7.038
+Riau,1/31/2021,7.151
+Riau,2/1/2021,9.312
+Riau,2/2/2021,11.836
+Riau,2/3/2021,13.787
+Riau,2/4/2021,15.874
+Riau,2/5/2021,17.765
+Riau,2/6/2021,19.241
+Riau,2/7/2021,19.774
+Riau,2/8/2021,21.005
+Riau,2/9/2021,22.331
+Riau,2/10/2021,23.561
+Riau,2/11/2021,24.292
+Riau,2/12/2021,24.412
+Riau,2/13/2021,24.855
+Riau,2/14/2021,24.924
+Riau,2/15/2021,25.832
+Riau,2/16/2021,26.619
+Riau,2/17/2021,27.437
+Riau,2/18/2021,28.197
+Riau,2/19/2021,28.876
+Riau,2/20/2021,29.388
+Riau,2/21/2021,29.426
+Riau,2/22/2021,29.937
+Riau,2/23/2021,30.318
+Riau,2/24/2021,30.605
+Riau,2/25/2021,30.804
+Riau,2/26/2021,30.996
+Riau,2/27/2021,31.322
+Riau,2/28/2021,31.327
+Riau,3/1/2021,33.256
+Riau,3/2/2021,34.824
+Riau,3/3/2021,37.061
+Riau,3/4/2021,40.145
+Riau,3/5/2021,42.246
+Riau,3/6/2021,43.65
+Riau,3/7/2021,43.655
+Riau,3/8/2021,46.774
+Riau,3/9/2021,51.573
+Riau,3/10/2021,55.842
+Riau,3/11/2021,56.081
+Riau,3/12/2021,59.254
+Riau,3/13/2021,60.713
+Riau,3/14/2021,60.722
+Riau,3/15/2021,63.309
+Riau,3/16/2021,66.268
+Riau,3/17/2021,68.622
+Riau,3/18/2021,71.429
+Riau,3/19/2021,74.102
+Riau,3/20/2021,77.713
+Riau,3/21/2021,77.82
+Riau,3/22/2021,82.173
+Riau,3/23/2021,89.208
+Riau,3/24/2021,97.123
+Riau,3/25/2021,106.936
+Riau,3/26/2021,112.958
+Riau,3/27/2021,116.469
+Riau,3/28/2021,116.567
+Riau,3/29/2021,122.899
+Riau,3/30/2021,128.184
+Riau,3/31/2021,133.957
+Riau,4/1/2021,139.565
+Riau,4/2/2021,139.824
+Riau,4/3/2021,142.176
+Riau,4/4/2021,142.197
+Riau,4/5/2021,147.461
+Riau,4/6/2021,153.555
+Riau,4/7/2021,160.937
+Riau,4/8/2021,168.578
+Riau,4/9/2021,176.532
+Riau,4/10/2021,180.529
+Riau,4/11/2021,182.093
+Riau,4/12/2021,184.993
+Riau,4/13/2021,185.771
+Riau,4/14/2021,186.389
+Riau,4/15/2021,187.283
+Riau,4/16/2021,187.971
+Riau,4/17/2021,189.025
+Riau,4/18/2021,189.237
+Riau,4/19/2021,190.126
+Riau,4/20/2021,191.237
+Riau,4/21/2021,192.875
+Riau,4/22/2021,194.122
+Riau,4/23/2021,194.954
+Riau,4/24/2021,195.824
+Riau,4/25/2021,195.836
+Sulawesi Barat,1/29/2021,0.001
+Sulawesi Barat,2/2/2021,0.021
+Sulawesi Barat,2/3/2021,0.104
+Sulawesi Barat,2/4/2021,0.28
+Sulawesi Barat,2/5/2021,1.379
+Sulawesi Barat,2/6/2021,2.55
+Sulawesi Barat,2/7/2021,2.714
+Sulawesi Barat,2/8/2021,3.238
+Sulawesi Barat,2/9/2021,3.457
+Sulawesi Barat,2/10/2021,4.081
+Sulawesi Barat,2/11/2021,4.902
+Sulawesi Barat,2/12/2021,5.231
+Sulawesi Barat,2/13/2021,5.364
+Sulawesi Barat,2/14/2021,5.365
+Sulawesi Barat,2/15/2021,5.622
+Sulawesi Barat,2/16/2021,5.699
+Sulawesi Barat,2/17/2021,5.786
+Sulawesi Barat,2/18/2021,5.891
+Sulawesi Barat,2/19/2021,6.13
+Sulawesi Barat,2/20/2021,6.411
+Sulawesi Barat,2/21/2021,6.442
+Sulawesi Barat,2/22/2021,6.665
+Sulawesi Barat,2/23/2021,6.732
+Sulawesi Barat,2/24/2021,6.872
+Sulawesi Barat,2/25/2021,7.138
+Sulawesi Barat,2/26/2021,7.257
+Sulawesi Barat,2/27/2021,7.298
+Sulawesi Barat,2/28/2021,7.298
+Sulawesi Barat,3/1/2021,7.349
+Sulawesi Barat,3/2/2021,7.398
+Sulawesi Barat,3/3/2021,7.463
+Sulawesi Barat,3/4/2021,7.788
+Sulawesi Barat,3/5/2021,8.18
+Sulawesi Barat,3/6/2021,8.513
+Sulawesi Barat,3/7/2021,8.515
+Sulawesi Barat,3/8/2021,9.63
+Sulawesi Barat,3/9/2021,11.662
+Sulawesi Barat,3/10/2021,13.011
+Sulawesi Barat,3/11/2021,13.052
+Sulawesi Barat,3/12/2021,13.201
+Sulawesi Barat,3/13/2021,13.312
+Sulawesi Barat,3/15/2021,13.852
+Sulawesi Barat,3/16/2021,14.479
+Sulawesi Barat,3/17/2021,16.034
+Sulawesi Barat,3/18/2021,17.882
+Sulawesi Barat,3/19/2021,19.137
+Sulawesi Barat,3/20/2021,19.391
+Sulawesi Barat,3/21/2021,19.391
+Sulawesi Barat,3/22/2021,20.701
+Sulawesi Barat,3/23/2021,21.91
+Sulawesi Barat,3/24/2021,22.493
+Sulawesi Barat,3/25/2021,22.774
+Sulawesi Barat,3/26/2021,23.231
+Sulawesi Barat,3/27/2021,23.732
+Sulawesi Barat,3/28/2021,23.802
+Sulawesi Barat,3/29/2021,24.629
+Sulawesi Barat,3/30/2021,25.505
+Sulawesi Barat,3/31/2021,26.166
+Sulawesi Barat,4/1/2021,26.877
+Sulawesi Barat,4/2/2021,26.886
+Sulawesi Barat,4/3/2021,27.072
+Sulawesi Barat,4/5/2021,27.745
+Sulawesi Barat,4/6/2021,28.54
+Sulawesi Barat,4/7/2021,29.09
+Sulawesi Barat,4/8/2021,29.927
+Sulawesi Barat,4/9/2021,30.307
+Sulawesi Barat,4/10/2021,30.729
+Sulawesi Barat,4/11/2021,30.743
+Sulawesi Barat,4/12/2021,31.249
+Sulawesi Barat,4/13/2021,31.312
+Sulawesi Barat,4/14/2021,31.396
+Sulawesi Barat,4/15/2021,31.503
+Sulawesi Barat,4/16/2021,31.627
+Sulawesi Barat,4/17/2021,31.803
+Sulawesi Barat,4/18/2021,31.814
+Sulawesi Barat,4/19/2021,32.227
+Sulawesi Barat,4/20/2021,33.478
+Sulawesi Barat,4/21/2021,34.611
+Sulawesi Barat,4/22/2021,36.349
+Sulawesi Barat,4/23/2021,37.272
+Sulawesi Barat,4/24/2021,38.395
+Sulawesi Barat,4/25/2021,38.397
+Sulawesi Selatan,1/13/2021,0
+Sulawesi Selatan,1/14/2021,0.095
+Sulawesi Selatan,1/15/2021,0.147
+Sulawesi Selatan,1/16/2021,0.249
+Sulawesi Selatan,1/18/2021,0.363
+Sulawesi Selatan,1/19/2021,0.519
+Sulawesi Selatan,1/20/2021,0.736
+Sulawesi Selatan,1/21/2021,1.02
+Sulawesi Selatan,1/22/2021,1.282
+Sulawesi Selatan,1/23/2021,1.489
+Sulawesi Selatan,1/24/2021,1.501
+Sulawesi Selatan,1/25/2021,1.92
+Sulawesi Selatan,1/26/2021,2.326
+Sulawesi Selatan,1/27/2021,2.856
+Sulawesi Selatan,1/28/2021,3.427
+Sulawesi Selatan,1/29/2021,3.941
+Sulawesi Selatan,1/30/2021,4.451
+Sulawesi Selatan,1/31/2021,4.585
+Sulawesi Selatan,2/1/2021,6.108
+Sulawesi Selatan,2/2/2021,10.017
+Sulawesi Selatan,2/3/2021,15.394
+Sulawesi Selatan,2/4/2021,21.151
+Sulawesi Selatan,2/5/2021,25.153
+Sulawesi Selatan,2/6/2021,28.183
+Sulawesi Selatan,2/7/2021,28.355
+Sulawesi Selatan,2/8/2021,30.873
+Sulawesi Selatan,2/9/2021,32.819
+Sulawesi Selatan,2/10/2021,34.822
+Sulawesi Selatan,2/11/2021,36.582
+Sulawesi Selatan,2/12/2021,36.747
+Sulawesi Selatan,2/13/2021,37.616
+Sulawesi Selatan,2/14/2021,37.641
+Sulawesi Selatan,2/15/2021,39.464
+Sulawesi Selatan,2/16/2021,41.508
+Sulawesi Selatan,2/17/2021,43.717
+Sulawesi Selatan,2/18/2021,45.411
+Sulawesi Selatan,2/19/2021,46.534
+Sulawesi Selatan,2/20/2021,47.694
+Sulawesi Selatan,2/21/2021,47.755
+Sulawesi Selatan,2/22/2021,48.772
+Sulawesi Selatan,2/23/2021,49.742
+Sulawesi Selatan,2/24/2021,50.908
+Sulawesi Selatan,2/25/2021,51.815
+Sulawesi Selatan,2/26/2021,52.291
+Sulawesi Selatan,2/27/2021,52.661
+Sulawesi Selatan,2/28/2021,52.676
+Sulawesi Selatan,3/1/2021,53.438
+Sulawesi Selatan,3/2/2021,56.063
+Sulawesi Selatan,3/3/2021,61.069
+Sulawesi Selatan,3/4/2021,68.656
+Sulawesi Selatan,3/5/2021,74.529
+Sulawesi Selatan,3/6/2021,78.324
+Sulawesi Selatan,3/7/2021,78.534
+Sulawesi Selatan,3/8/2021,87.992
+Sulawesi Selatan,3/9/2021,97.609
+Sulawesi Selatan,3/10/2021,107.226
+Sulawesi Selatan,3/11/2021,107.971
+Sulawesi Selatan,3/12/2021,114.931
+Sulawesi Selatan,3/13/2021,119.473
+Sulawesi Selatan,3/14/2021,119.767
+Sulawesi Selatan,3/15/2021,127.457
+Sulawesi Selatan,3/16/2021,135.651
+Sulawesi Selatan,3/17/2021,147.457
+Sulawesi Selatan,3/18/2021,159.4
+Sulawesi Selatan,3/19/2021,169.783
+Sulawesi Selatan,3/20/2021,179.586
+Sulawesi Selatan,3/21/2021,179.922
+Sulawesi Selatan,3/22/2021,190.777
+Sulawesi Selatan,3/23/2021,203.387
+Sulawesi Selatan,3/24/2021,214.877
+Sulawesi Selatan,3/25/2021,228.518
+Sulawesi Selatan,3/26/2021,240.093
+Sulawesi Selatan,3/27/2021,250.472
+Sulawesi Selatan,3/28/2021,252.084
+Sulawesi Selatan,3/29/2021,266.069
+Sulawesi Selatan,3/30/2021,275.976
+Sulawesi Selatan,3/31/2021,285.952
+Sulawesi Selatan,4/1/2021,296.548
+Sulawesi Selatan,4/2/2021,298.344
+Sulawesi Selatan,4/3/2021,302.993
+Sulawesi Selatan,4/4/2021,303.104
+Sulawesi Selatan,4/5/2021,308.496
+Sulawesi Selatan,4/6/2021,317.457
+Sulawesi Selatan,4/7/2021,321.712
+Sulawesi Selatan,4/8/2021,325.442
+Sulawesi Selatan,4/9/2021,329.915
+Sulawesi Selatan,4/10/2021,341.93
+Sulawesi Selatan,4/11/2021,343.351
+Sulawesi Selatan,4/12/2021,359.328
+Sulawesi Selatan,4/13/2021,362.849
+Sulawesi Selatan,4/14/2021,367.694
+Sulawesi Selatan,4/15/2021,371.836
+Sulawesi Selatan,4/16/2021,374.184
+Sulawesi Selatan,4/17/2021,377.218
+Sulawesi Selatan,4/18/2021,377.24
+Sulawesi Selatan,4/19/2021,383.857
+Sulawesi Selatan,4/20/2021,388.661
+Sulawesi Selatan,4/21/2021,392.774
+Sulawesi Selatan,4/22/2021,396.478
+Sulawesi Selatan,4/23/2021,397.808
+Sulawesi Selatan,4/24/2021,400.01
+Sulawesi Selatan,4/25/2021,400.077
+Sulawesi Tengah,1/14/2021,0.085
+Sulawesi Tengah,1/15/2021,0.253
+Sulawesi Tengah,1/16/2021,0.374
+Sulawesi Tengah,1/18/2021,0.609
+Sulawesi Tengah,1/19/2021,0.842
+Sulawesi Tengah,1/20/2021,1.119
+Sulawesi Tengah,1/21/2021,1.418
+Sulawesi Tengah,1/22/2021,1.71
+Sulawesi Tengah,1/23/2021,1.873
+Sulawesi Tengah,1/24/2021,1.877
+Sulawesi Tengah,1/25/2021,2.059
+Sulawesi Tengah,1/26/2021,2.308
+Sulawesi Tengah,1/27/2021,2.509
+Sulawesi Tengah,1/28/2021,2.739
+Sulawesi Tengah,1/29/2021,2.93
+Sulawesi Tengah,1/30/2021,3.106
+Sulawesi Tengah,1/31/2021,3.129
+Sulawesi Tengah,2/1/2021,3.543
+Sulawesi Tengah,2/2/2021,3.951
+Sulawesi Tengah,2/3/2021,4.704
+Sulawesi Tengah,2/4/2021,5.945
+Sulawesi Tengah,2/5/2021,7.271
+Sulawesi Tengah,2/6/2021,8.422
+Sulawesi Tengah,2/7/2021,8.557
+Sulawesi Tengah,2/8/2021,10.249
+Sulawesi Tengah,2/9/2021,12.365
+Sulawesi Tengah,2/10/2021,14.412
+Sulawesi Tengah,2/11/2021,15.61
+Sulawesi Tengah,2/12/2021,15.718
+Sulawesi Tengah,2/13/2021,16.538
+Sulawesi Tengah,2/14/2021,16.554
+Sulawesi Tengah,2/15/2021,17.121
+Sulawesi Tengah,2/16/2021,17.671
+Sulawesi Tengah,2/17/2021,17.999
+Sulawesi Tengah,2/18/2021,18.423
+Sulawesi Tengah,2/19/2021,18.852
+Sulawesi Tengah,2/20/2021,19.116
+Sulawesi Tengah,2/21/2021,19.157
+Sulawesi Tengah,2/22/2021,19.442
+Sulawesi Tengah,2/23/2021,19.704
+Sulawesi Tengah,2/24/2021,20.106
+Sulawesi Tengah,2/25/2021,20.379
+Sulawesi Tengah,2/26/2021,20.487
+Sulawesi Tengah,2/27/2021,20.856
+Sulawesi Tengah,2/28/2021,20.857
+Sulawesi Tengah,3/1/2021,21.397
+Sulawesi Tengah,3/2/2021,22.077
+Sulawesi Tengah,3/3/2021,23.142
+Sulawesi Tengah,3/4/2021,24.592
+Sulawesi Tengah,3/5/2021,26.46
+Sulawesi Tengah,3/6/2021,27.828
+Sulawesi Tengah,3/7/2021,28.382
+Sulawesi Tengah,3/8/2021,31.239
+Sulawesi Tengah,3/9/2021,34.082
+Sulawesi Tengah,3/10/2021,37.292
+Sulawesi Tengah,3/11/2021,37.445
+Sulawesi Tengah,3/12/2021,38.99
+Sulawesi Tengah,3/13/2021,39.701
+Sulawesi Tengah,3/14/2021,39.708
+Sulawesi Tengah,3/15/2021,41.468
+Sulawesi Tengah,3/16/2021,43.025
+Sulawesi Tengah,3/17/2021,44.383
+Sulawesi Tengah,3/18/2021,45.984
+Sulawesi Tengah,3/19/2021,46.962
+Sulawesi Tengah,3/20/2021,47.839
+Sulawesi Tengah,3/21/2021,48.184
+Sulawesi Tengah,3/22/2021,49.5
+Sulawesi Tengah,3/23/2021,50.913
+Sulawesi Tengah,3/24/2021,52.515
+Sulawesi Tengah,3/25/2021,54.115
+Sulawesi Tengah,3/26/2021,55.332
+Sulawesi Tengah,3/27/2021,56.32
+Sulawesi Tengah,3/28/2021,56.392
+Sulawesi Tengah,3/29/2021,57.93
+Sulawesi Tengah,3/30/2021,59.268
+Sulawesi Tengah,3/31/2021,60.436
+Sulawesi Tengah,4/1/2021,61.356
+Sulawesi Tengah,4/2/2021,61.381
+Sulawesi Tengah,4/3/2021,61.821
+Sulawesi Tengah,4/4/2021,61.828
+Sulawesi Tengah,4/5/2021,63.054
+Sulawesi Tengah,4/6/2021,63.815
+Sulawesi Tengah,4/7/2021,64.997
+Sulawesi Tengah,4/8/2021,65.927
+Sulawesi Tengah,4/9/2021,67.241
+Sulawesi Tengah,4/10/2021,68.023
+Sulawesi Tengah,4/11/2021,68.024
+Sulawesi Tengah,4/12/2021,69.118
+Sulawesi Tengah,4/13/2021,69.474
+Sulawesi Tengah,4/14/2021,69.776
+Sulawesi Tengah,4/15/2021,70.216
+Sulawesi Tengah,4/16/2021,70.535
+Sulawesi Tengah,4/17/2021,70.906
+Sulawesi Tengah,4/18/2021,70.906
+Sulawesi Tengah,4/19/2021,71.557
+Sulawesi Tengah,4/20/2021,72.329
+Sulawesi Tengah,4/21/2021,73.312
+Sulawesi Tengah,4/22/2021,74.145
+Sulawesi Tengah,4/23/2021,74.871
+Sulawesi Tengah,4/24/2021,75.464
+Sulawesi Tengah,4/25/2021,75.494
+Sulawesi Tenggara,1/13/2021,0
+Sulawesi Tenggara,1/14/2021,0.052
+Sulawesi Tenggara,1/15/2021,0.114
+Sulawesi Tenggara,1/16/2021,0.179
+Sulawesi Tenggara,1/17/2021,0.179
+Sulawesi Tenggara,1/18/2021,0.444
+Sulawesi Tenggara,1/19/2021,0.604
+Sulawesi Tenggara,1/20/2021,0.863
+Sulawesi Tenggara,1/21/2021,1.274
+Sulawesi Tenggara,1/22/2021,1.579
+Sulawesi Tenggara,1/23/2021,1.681
+Sulawesi Tenggara,1/24/2021,1.683
+Sulawesi Tenggara,1/25/2021,1.843
+Sulawesi Tenggara,1/26/2021,2.042
+Sulawesi Tenggara,1/27/2021,2.209
+Sulawesi Tenggara,1/28/2021,2.392
+Sulawesi Tenggara,1/29/2021,2.491
+Sulawesi Tenggara,1/30/2021,2.571
+Sulawesi Tenggara,1/31/2021,2.633
+Sulawesi Tenggara,2/1/2021,2.891
+Sulawesi Tenggara,2/2/2021,3.231
+Sulawesi Tenggara,2/3/2021,4.258
+Sulawesi Tenggara,2/4/2021,5.719
+Sulawesi Tenggara,2/5/2021,6.732
+Sulawesi Tenggara,2/6/2021,7.05
+Sulawesi Tenggara,2/7/2021,7.092
+Sulawesi Tenggara,2/8/2021,8.275
+Sulawesi Tenggara,2/9/2021,9.234
+Sulawesi Tenggara,2/10/2021,9.997
+Sulawesi Tenggara,2/11/2021,10.987
+Sulawesi Tenggara,2/12/2021,11.216
+Sulawesi Tenggara,2/13/2021,11.696
+Sulawesi Tenggara,2/14/2021,11.711
+Sulawesi Tenggara,2/15/2021,12.918
+Sulawesi Tenggara,2/16/2021,13.802
+Sulawesi Tenggara,2/17/2021,14.662
+Sulawesi Tenggara,2/18/2021,15.483
+Sulawesi Tenggara,2/19/2021,16.179
+Sulawesi Tenggara,2/20/2021,16.516
+Sulawesi Tenggara,2/21/2021,16.521
+Sulawesi Tenggara,2/22/2021,17.222
+Sulawesi Tenggara,2/23/2021,17.736
+Sulawesi Tenggara,2/24/2021,18.123
+Sulawesi Tenggara,2/25/2021,18.537
+Sulawesi Tenggara,2/26/2021,18.779
+Sulawesi Tenggara,2/27/2021,18.892
+Sulawesi Tenggara,2/28/2021,18.908
+Sulawesi Tenggara,3/1/2021,19.178
+Sulawesi Tenggara,3/2/2021,19.428
+Sulawesi Tenggara,3/3/2021,19.916
+Sulawesi Tenggara,3/4/2021,20.545
+Sulawesi Tenggara,3/5/2021,21.285
+Sulawesi Tenggara,3/6/2021,21.546
+Sulawesi Tenggara,3/7/2021,21.553
+Sulawesi Tenggara,3/8/2021,22.871
+Sulawesi Tenggara,3/9/2021,24.991
+Sulawesi Tenggara,3/10/2021,27.411
+Sulawesi Tenggara,3/11/2021,27.613
+Sulawesi Tenggara,3/12/2021,28.621
+Sulawesi Tenggara,3/13/2021,28.952
+Sulawesi Tenggara,3/14/2021,28.953
+Sulawesi Tenggara,3/15/2021,30.37
+Sulawesi Tenggara,3/16/2021,31.548
+Sulawesi Tenggara,3/17/2021,32.519
+Sulawesi Tenggara,3/18/2021,33.47
+Sulawesi Tenggara,3/19/2021,33.852
+Sulawesi Tenggara,3/20/2021,34.127
+Sulawesi Tenggara,3/21/2021,34.167
+Sulawesi Tenggara,3/22/2021,35.042
+Sulawesi Tenggara,3/23/2021,35.778
+Sulawesi Tenggara,3/24/2021,36.935
+Sulawesi Tenggara,3/25/2021,38.812
+Sulawesi Tenggara,3/26/2021,39.509
+Sulawesi Tenggara,3/27/2021,39.94
+Sulawesi Tenggara,3/28/2021,39.983
+Sulawesi Tenggara,3/29/2021,42.727
+Sulawesi Tenggara,3/30/2021,43.827
+Sulawesi Tenggara,3/31/2021,45.215
+Sulawesi Tenggara,4/1/2021,46.071
+Sulawesi Tenggara,4/2/2021,46.148
+Sulawesi Tenggara,4/3/2021,46.328
+Sulawesi Tenggara,4/4/2021,46.33
+Sulawesi Tenggara,4/5/2021,47.805
+Sulawesi Tenggara,4/6/2021,49.144
+Sulawesi Tenggara,4/7/2021,52.597
+Sulawesi Tenggara,4/8/2021,54.765
+Sulawesi Tenggara,4/9/2021,56.33
+Sulawesi Tenggara,4/10/2021,57.216
+Sulawesi Tenggara,4/11/2021,57.223
+Sulawesi Tenggara,4/12/2021,58.506
+Sulawesi Tenggara,4/13/2021,58.66
+Sulawesi Tenggara,4/14/2021,58.824
+Sulawesi Tenggara,4/15/2021,59.034
+Sulawesi Tenggara,4/16/2021,59.139
+Sulawesi Tenggara,4/17/2021,59.242
+Sulawesi Tenggara,4/19/2021,59.735
+Sulawesi Tenggara,4/20/2021,60.031
+Sulawesi Tenggara,4/21/2021,60.605
+Sulawesi Tenggara,4/22/2021,61.047
+Sulawesi Tenggara,4/23/2021,61.268
+Sulawesi Tenggara,4/24/2021,61.507
+Sulawesi Tenggara,4/25/2021,61.508
+Sulawesi Utara,1/13/2021,0
+Sulawesi Utara,1/14/2021,0.093
+Sulawesi Utara,1/15/2021,0.241
+Sulawesi Utara,1/16/2021,0.276
+Sulawesi Utara,1/18/2021,0.564
+Sulawesi Utara,1/19/2021,0.906
+Sulawesi Utara,1/20/2021,1.274
+Sulawesi Utara,1/21/2021,1.779
+Sulawesi Utara,1/22/2021,2.294
+Sulawesi Utara,1/23/2021,2.515
+Sulawesi Utara,1/25/2021,2.853
+Sulawesi Utara,1/26/2021,3.126
+Sulawesi Utara,1/27/2021,3.381
+Sulawesi Utara,1/28/2021,3.723
+Sulawesi Utara,1/29/2021,4.246
+Sulawesi Utara,1/30/2021,4.673
+Sulawesi Utara,1/31/2021,4.78
+Sulawesi Utara,2/1/2021,5.506
+Sulawesi Utara,2/2/2021,6.399
+Sulawesi Utara,2/3/2021,7.72
+Sulawesi Utara,2/4/2021,8.731
+Sulawesi Utara,2/5/2021,12.462
+Sulawesi Utara,2/6/2021,13.197
+Sulawesi Utara,2/7/2021,13.235
+Sulawesi Utara,2/8/2021,14.424
+Sulawesi Utara,2/9/2021,15.676
+Sulawesi Utara,2/10/2021,17.12
+Sulawesi Utara,2/11/2021,17.773
+Sulawesi Utara,2/12/2021,17.818
+Sulawesi Utara,2/13/2021,17.983
+Sulawesi Utara,2/14/2021,17.986
+Sulawesi Utara,2/15/2021,18.334
+Sulawesi Utara,2/16/2021,18.919
+Sulawesi Utara,2/17/2021,19.529
+Sulawesi Utara,2/18/2021,20.07
+Sulawesi Utara,2/19/2021,20.565
+Sulawesi Utara,2/20/2021,20.678
+Sulawesi Utara,2/22/2021,20.913
+Sulawesi Utara,2/23/2021,21.198
+Sulawesi Utara,2/24/2021,21.506
+Sulawesi Utara,2/25/2021,21.688
+Sulawesi Utara,2/26/2021,21.77
+Sulawesi Utara,2/27/2021,21.817
+Sulawesi Utara,2/28/2021,21.817
+Sulawesi Utara,3/1/2021,22.053
+Sulawesi Utara,3/2/2021,22.353
+Sulawesi Utara,3/3/2021,23.524
+Sulawesi Utara,3/4/2021,25.196
+Sulawesi Utara,3/5/2021,28.767
+Sulawesi Utara,3/6/2021,29.571
+Sulawesi Utara,3/7/2021,29.817
+Sulawesi Utara,3/8/2021,33.749
+Sulawesi Utara,3/9/2021,38.391
+Sulawesi Utara,3/10/2021,45.068
+Sulawesi Utara,3/11/2021,45.356
+Sulawesi Utara,3/12/2021,50.649
+Sulawesi Utara,3/13/2021,51.71
+Sulawesi Utara,3/14/2021,51.745
+Sulawesi Utara,3/15/2021,57.757
+Sulawesi Utara,3/16/2021,63.742
+Sulawesi Utara,3/17/2021,69.821
+Sulawesi Utara,3/18/2021,76.85
+Sulawesi Utara,3/19/2021,83.545
+Sulawesi Utara,3/20/2021,85.295
+Sulawesi Utara,3/21/2021,85.301
+Sulawesi Utara,3/22/2021,88.159
+Sulawesi Utara,3/23/2021,91.198
+Sulawesi Utara,3/24/2021,94.037
+Sulawesi Utara,3/25/2021,97.514
+Sulawesi Utara,3/26/2021,100.307
+Sulawesi Utara,3/27/2021,101.36
+Sulawesi Utara,3/28/2021,101.429
+Sulawesi Utara,3/29/2021,102.164
+Sulawesi Utara,3/30/2021,102.907
+Sulawesi Utara,3/31/2021,103.935
+Sulawesi Utara,4/1/2021,105.604
+Sulawesi Utara,4/2/2021,105.612
+Sulawesi Utara,4/3/2021,106.332
+Sulawesi Utara,4/4/2021,106.333
+Sulawesi Utara,4/5/2021,107.716
+Sulawesi Utara,4/6/2021,109.76
+Sulawesi Utara,4/7/2021,111.382
+Sulawesi Utara,4/8/2021,114.233
+Sulawesi Utara,4/9/2021,117.794
+Sulawesi Utara,4/10/2021,119.422
+Sulawesi Utara,4/12/2021,122.582
+Sulawesi Utara,4/13/2021,125.166
+Sulawesi Utara,4/14/2021,127.314
+Sulawesi Utara,4/15/2021,129.338
+Sulawesi Utara,4/16/2021,132.093
+Sulawesi Utara,4/17/2021,132.877
+Sulawesi Utara,4/18/2021,132.938
+Sulawesi Utara,4/19/2021,135.99
+Sulawesi Utara,4/20/2021,138.618
+Sulawesi Utara,4/21/2021,141.065
+Sulawesi Utara,4/22/2021,143.999
+Sulawesi Utara,4/23/2021,146.696
+Sulawesi Utara,4/24/2021,147.033
+Sulawesi Utara,4/25/2021,147.045
+Sumatera Barat,1/14/2021,0.005
+Sumatera Barat,1/15/2021,0.017
+Sumatera Barat,1/16/2021,0.053
+Sumatera Barat,1/17/2021,0.054
+Sumatera Barat,1/18/2021,0.17
+Sumatera Barat,1/19/2021,0.251
+Sumatera Barat,1/20/2021,0.422
+Sumatera Barat,1/21/2021,0.691
+Sumatera Barat,1/22/2021,1.125
+Sumatera Barat,1/23/2021,1.44
+Sumatera Barat,1/25/2021,1.788
+Sumatera Barat,1/26/2021,2.234
+Sumatera Barat,1/27/2021,2.598
+Sumatera Barat,1/28/2021,3.144
+Sumatera Barat,1/29/2021,3.835
+Sumatera Barat,1/30/2021,4.42
+Sumatera Barat,1/31/2021,5.285
+Sumatera Barat,2/1/2021,6.304
+Sumatera Barat,2/2/2021,7.883
+Sumatera Barat,2/3/2021,10.062
+Sumatera Barat,2/4/2021,12.389
+Sumatera Barat,2/5/2021,13.888
+Sumatera Barat,2/6/2021,14.795
+Sumatera Barat,2/7/2021,14.819
+Sumatera Barat,2/8/2021,15.961
+Sumatera Barat,2/9/2021,17.045
+Sumatera Barat,2/10/2021,17.924
+Sumatera Barat,2/11/2021,18.899
+Sumatera Barat,2/12/2021,18.906
+Sumatera Barat,2/13/2021,19.256
+Sumatera Barat,2/14/2021,19.282
+Sumatera Barat,2/15/2021,20.163
+Sumatera Barat,2/16/2021,21.574
+Sumatera Barat,2/17/2021,23.037
+Sumatera Barat,2/18/2021,24.963
+Sumatera Barat,2/19/2021,25.681
+Sumatera Barat,2/20/2021,26.618
+Sumatera Barat,2/21/2021,26.648
+Sumatera Barat,2/22/2021,27.657
+Sumatera Barat,2/23/2021,28.375
+Sumatera Barat,2/24/2021,29.204
+Sumatera Barat,2/25/2021,29.876
+Sumatera Barat,2/26/2021,30.319
+Sumatera Barat,2/27/2021,30.602
+Sumatera Barat,2/28/2021,30.863
+Sumatera Barat,3/1/2021,31.278
+Sumatera Barat,3/2/2021,32.147
+Sumatera Barat,3/3/2021,33.61
+Sumatera Barat,3/4/2021,35.762
+Sumatera Barat,3/5/2021,37.701
+Sumatera Barat,3/6/2021,39.452
+Sumatera Barat,3/7/2021,39.454
+Sumatera Barat,3/8/2021,42.499
+Sumatera Barat,3/9/2021,46.575
+Sumatera Barat,3/10/2021,50.465
+Sumatera Barat,3/11/2021,50.866
+Sumatera Barat,3/12/2021,53.626
+Sumatera Barat,3/13/2021,55.561
+Sumatera Barat,3/14/2021,55.563
+Sumatera Barat,3/15/2021,58.384
+Sumatera Barat,3/16/2021,61.914
+Sumatera Barat,3/17/2021,65.361
+Sumatera Barat,3/18/2021,68.831
+Sumatera Barat,3/19/2021,71.446
+Sumatera Barat,3/20/2021,72.842
+Sumatera Barat,3/21/2021,72.911
+Sumatera Barat,3/22/2021,75.358
+Sumatera Barat,3/23/2021,78.134
+Sumatera Barat,3/24/2021,82.257
+Sumatera Barat,3/25/2021,87.283
+Sumatera Barat,3/26/2021,91.033
+Sumatera Barat,3/27/2021,92.821
+Sumatera Barat,3/28/2021,92.821
+Sumatera Barat,3/29/2021,96.917
+Sumatera Barat,3/30/2021,100.227
+Sumatera Barat,3/31/2021,103.141
+Sumatera Barat,4/1/2021,106.474
+Sumatera Barat,4/2/2021,106.503
+Sumatera Barat,4/3/2021,107.574
+Sumatera Barat,4/4/2021,107.576
+Sumatera Barat,4/5/2021,110.034
+Sumatera Barat,4/6/2021,114.502
+Sumatera Barat,4/7/2021,117.493
+Sumatera Barat,4/8/2021,122.202
+Sumatera Barat,4/9/2021,125.749
+Sumatera Barat,4/10/2021,128.614
+Sumatera Barat,4/11/2021,128.657
+Sumatera Barat,4/12/2021,131.881
+Sumatera Barat,4/13/2021,132.374
+Sumatera Barat,4/14/2021,132.896
+Sumatera Barat,4/15/2021,133.675
+Sumatera Barat,4/16/2021,134.053
+Sumatera Barat,4/17/2021,134.531
+Sumatera Barat,4/18/2021,134.619
+Sumatera Barat,4/19/2021,135.889
+Sumatera Barat,4/20/2021,137.444
+Sumatera Barat,4/21/2021,139.052
+Sumatera Barat,4/22/2021,141.179
+Sumatera Barat,4/23/2021,142.42
+Sumatera Barat,4/24/2021,143.424
+Sumatera Barat,4/25/2021,143.44
+Sumatera Selatan,1/13/2021,0
+Sumatera Selatan,1/14/2021,0.069
+Sumatera Selatan,1/15/2021,0.17
+Sumatera Selatan,1/16/2021,0.17
+Sumatera Selatan,1/17/2021,0.18
+Sumatera Selatan,1/18/2021,0.632
+Sumatera Selatan,1/19/2021,1.099
+Sumatera Selatan,1/20/2021,1.746
+Sumatera Selatan,1/21/2021,2.412
+Sumatera Selatan,1/22/2021,3.025
+Sumatera Selatan,1/23/2021,3.176
+Sumatera Selatan,1/24/2021,3.191
+Sumatera Selatan,1/25/2021,3.883
+Sumatera Selatan,1/26/2021,4.965
+Sumatera Selatan,1/27/2021,6.664
+Sumatera Selatan,1/28/2021,8.148
+Sumatera Selatan,1/29/2021,9.342
+Sumatera Selatan,1/30/2021,9.804
+Sumatera Selatan,1/31/2021,9.986
+Sumatera Selatan,2/1/2021,11.279
+Sumatera Selatan,2/2/2021,14.79
+Sumatera Selatan,2/3/2021,18.605
+Sumatera Selatan,2/4/2021,22.431
+Sumatera Selatan,2/5/2021,25.213
+Sumatera Selatan,2/6/2021,26.266
+Sumatera Selatan,2/7/2021,26.273
+Sumatera Selatan,2/8/2021,28.371
+Sumatera Selatan,2/9/2021,30.217
+Sumatera Selatan,2/10/2021,31.559
+Sumatera Selatan,2/11/2021,32.404
+Sumatera Selatan,2/12/2021,32.444
+Sumatera Selatan,2/13/2021,32.701
+Sumatera Selatan,2/14/2021,32.813
+Sumatera Selatan,2/15/2021,33.882
+Sumatera Selatan,2/16/2021,35.121
+Sumatera Selatan,2/17/2021,36.188
+Sumatera Selatan,2/18/2021,37.342
+Sumatera Selatan,2/19/2021,38.131
+Sumatera Selatan,2/20/2021,38.443
+Sumatera Selatan,2/21/2021,38.453
+Sumatera Selatan,2/22/2021,39.396
+Sumatera Selatan,2/23/2021,40.306
+Sumatera Selatan,2/24/2021,41.087
+Sumatera Selatan,2/25/2021,41.616
+Sumatera Selatan,2/26/2021,41.956
+Sumatera Selatan,2/27/2021,42.069
+Sumatera Selatan,2/28/2021,42.074
+Sumatera Selatan,3/1/2021,43.323
+Sumatera Selatan,3/2/2021,46.195
+Sumatera Selatan,3/3/2021,50.254
+Sumatera Selatan,3/4/2021,56.622
+Sumatera Selatan,3/5/2021,62.333
+Sumatera Selatan,3/6/2021,64.971
+Sumatera Selatan,3/7/2021,65.501
+Sumatera Selatan,3/8/2021,73.342
+Sumatera Selatan,3/9/2021,81.012
+Sumatera Selatan,3/10/2021,89.333
+Sumatera Selatan,3/11/2021,89.852
+Sumatera Selatan,3/12/2021,94.526
+Sumatera Selatan,3/13/2021,95.734
+Sumatera Selatan,3/14/2021,95.845
+Sumatera Selatan,3/15/2021,102.564
+Sumatera Selatan,3/16/2021,107.532
+Sumatera Selatan,3/17/2021,112.27
+Sumatera Selatan,3/18/2021,117.466
+Sumatera Selatan,3/19/2021,121.034
+Sumatera Selatan,3/20/2021,122.432
+Sumatera Selatan,3/21/2021,122.507
+Sumatera Selatan,3/22/2021,129.135
+Sumatera Selatan,3/23/2021,137.568
+Sumatera Selatan,3/24/2021,148.071
+Sumatera Selatan,3/25/2021,160.325
+Sumatera Selatan,3/26/2021,167.666
+Sumatera Selatan,3/27/2021,171.688
+Sumatera Selatan,3/28/2021,171.803
+Sumatera Selatan,3/29/2021,186.495
+Sumatera Selatan,3/30/2021,196.867
+Sumatera Selatan,3/31/2021,206.085
+Sumatera Selatan,4/1/2021,211.706
+Sumatera Selatan,4/2/2021,211.744
+Sumatera Selatan,4/3/2021,213.21
+Sumatera Selatan,4/4/2021,213.212
+Sumatera Selatan,4/5/2021,219.492
+Sumatera Selatan,4/6/2021,225.624
+Sumatera Selatan,4/7/2021,232.277
+Sumatera Selatan,4/8/2021,239.548
+Sumatera Selatan,4/9/2021,245.738
+Sumatera Selatan,4/10/2021,248.209
+Sumatera Selatan,4/11/2021,248.323
+Sumatera Selatan,4/12/2021,257.708
+Sumatera Selatan,4/13/2021,261.61
+Sumatera Selatan,4/14/2021,265.343
+Sumatera Selatan,4/15/2021,269.075
+Sumatera Selatan,4/16/2021,271.085
+Sumatera Selatan,4/17/2021,272.681
+Sumatera Selatan,4/18/2021,272.698
+Sumatera Selatan,4/19/2021,278.341
+Sumatera Selatan,4/20/2021,283.301
+Sumatera Selatan,4/21/2021,287.427
+Sumatera Selatan,4/22/2021,292.256
+Sumatera Selatan,4/23/2021,294.729
+Sumatera Selatan,4/24/2021,296.319
+Sumatera Selatan,4/25/2021,296.322
+Sumatera Utara,1/13/2021,0
+Sumatera Utara,1/14/2021,0.098
+Sumatera Utara,1/15/2021,0.297
+Sumatera Utara,1/16/2021,0.387
+Sumatera Utara,1/17/2021,0.395
+Sumatera Utara,1/18/2021,0.794
+Sumatera Utara,1/19/2021,1.333
+Sumatera Utara,1/20/2021,2.56
+Sumatera Utara,1/21/2021,3.835
+Sumatera Utara,1/22/2021,5.191
+Sumatera Utara,1/23/2021,5.877
+Sumatera Utara,1/24/2021,5.927
+Sumatera Utara,1/25/2021,7.324
+Sumatera Utara,1/26/2021,8.065
+Sumatera Utara,1/27/2021,8.986
+Sumatera Utara,1/28/2021,10.037
+Sumatera Utara,1/29/2021,10.929
+Sumatera Utara,1/30/2021,11.28
+Sumatera Utara,1/31/2021,11.303
+Sumatera Utara,2/1/2021,12.67
+Sumatera Utara,2/2/2021,13.531
+Sumatera Utara,2/3/2021,15.109
+Sumatera Utara,2/4/2021,18.175
+Sumatera Utara,2/5/2021,21.665
+Sumatera Utara,2/6/2021,24.615
+Sumatera Utara,2/7/2021,24.967
+Sumatera Utara,2/8/2021,28.871
+Sumatera Utara,2/9/2021,33.578
+Sumatera Utara,2/10/2021,40.066
+Sumatera Utara,2/11/2021,44.954
+Sumatera Utara,2/12/2021,45.406
+Sumatera Utara,2/13/2021,46.874
+Sumatera Utara,2/14/2021,47.337
+Sumatera Utara,2/15/2021,50.313
+Sumatera Utara,2/16/2021,53.618
+Sumatera Utara,2/17/2021,56.838
+Sumatera Utara,2/18/2021,59.456
+Sumatera Utara,2/19/2021,61.414
+Sumatera Utara,2/20/2021,62.142
+Sumatera Utara,2/21/2021,62.166
+Sumatera Utara,2/22/2021,63.967
+Sumatera Utara,2/23/2021,65.188
+Sumatera Utara,2/24/2021,66.73
+Sumatera Utara,2/25/2021,67.555
+Sumatera Utara,2/26/2021,67.963
+Sumatera Utara,2/27/2021,68.622
+Sumatera Utara,2/28/2021,68.654
+Sumatera Utara,3/1/2021,69.541
+Sumatera Utara,3/2/2021,70.692
+Sumatera Utara,3/3/2021,74.124
+Sumatera Utara,3/4/2021,79.857
+Sumatera Utara,3/5/2021,86.927
+Sumatera Utara,3/6/2021,89.465
+Sumatera Utara,3/7/2021,89.991
+Sumatera Utara,3/8/2021,97.945
+Sumatera Utara,3/9/2021,106.605
+Sumatera Utara,3/10/2021,118.086
+Sumatera Utara,3/11/2021,119.076
+Sumatera Utara,3/12/2021,127.453
+Sumatera Utara,3/13/2021,131.578
+Sumatera Utara,3/14/2021,131.815
+Sumatera Utara,3/15/2021,140.494
+Sumatera Utara,3/16/2021,149.317
+Sumatera Utara,3/17/2021,158.636
+Sumatera Utara,3/18/2021,169.299
+Sumatera Utara,3/19/2021,177.53
+Sumatera Utara,3/20/2021,181.392
+Sumatera Utara,3/21/2021,181.682
+Sumatera Utara,3/22/2021,192.648
+Sumatera Utara,3/23/2021,206.542
+Sumatera Utara,3/24/2021,219.391
+Sumatera Utara,3/25/2021,232.712
+Sumatera Utara,3/26/2021,241.64
+Sumatera Utara,3/27/2021,244.918
+Sumatera Utara,3/28/2021,245.431
+Sumatera Utara,3/29/2021,256.48
+Sumatera Utara,3/30/2021,266.185
+Sumatera Utara,3/31/2021,275.789
+Sumatera Utara,4/1/2021,283.549
+Sumatera Utara,4/2/2021,283.875
+Sumatera Utara,4/3/2021,286.391
+Sumatera Utara,4/4/2021,286.419
+Sumatera Utara,4/5/2021,292.589
+Sumatera Utara,4/6/2021,299.165
+Sumatera Utara,4/7/2021,308.964
+Sumatera Utara,4/8/2021,318.348
+Sumatera Utara,4/9/2021,326.377
+Sumatera Utara,4/10/2021,332.379
+Sumatera Utara,4/11/2021,333.358
+Sumatera Utara,4/12/2021,343.503
+Sumatera Utara,4/13/2021,350.849
+Sumatera Utara,4/14/2021,358.256
+Sumatera Utara,4/15/2021,365.914
+Sumatera Utara,4/16/2021,371.467
+Sumatera Utara,4/17/2021,374.266
+Sumatera Utara,4/18/2021,374.637
+Sumatera Utara,4/19/2021,382.828
+Sumatera Utara,4/20/2021,390.472
+Sumatera Utara,4/21/2021,396.481
+Sumatera Utara,4/22/2021,403.389
+Sumatera Utara,4/23/2021,408.077
+Sumatera Utara,4/24/2021,410.426
+Sumatera Utara,4/25/2021,410.945
+Yogyakarta,1/13/2021,0
+Yogyakarta,1/14/2021,0.865
+Yogyakarta,1/15/2021,1.154
+Yogyakarta,1/16/2021,1.459
+Yogyakarta,1/18/2021,3.327
+Yogyakarta,1/19/2021,4.775
+Yogyakarta,1/20/2021,6.064
+Yogyakarta,1/21/2021,7.228
+Yogyakarta,1/22/2021,7.785
+Yogyakarta,1/23/2021,8.394
+Yogyakarta,1/24/2021,8.601
+Yogyakarta,1/25/2021,9.986
+Yogyakarta,1/26/2021,11.414
+Yogyakarta,1/27/2021,13.179
+Yogyakarta,1/28/2021,16.973
+Yogyakarta,1/29/2021,17.94
+Yogyakarta,1/30/2021,18.569
+Yogyakarta,1/31/2021,18.617
+Yogyakarta,2/1/2021,20.659
+Yogyakarta,2/2/2021,23.169
+Yogyakarta,2/3/2021,25.514
+Yogyakarta,2/4/2021,27.518
+Yogyakarta,2/5/2021,28.805
+Yogyakarta,2/6/2021,29.891
+Yogyakarta,2/7/2021,29.931
+Yogyakarta,2/8/2021,30.531
+Yogyakarta,2/9/2021,30.941
+Yogyakarta,2/10/2021,31.357
+Yogyakarta,2/11/2021,32.013
+Yogyakarta,2/12/2021,32.013
+Yogyakarta,2/13/2021,32.474
+Yogyakarta,2/14/2021,32.474
+Yogyakarta,2/15/2021,32.696
+Yogyakarta,2/16/2021,32.928
+Yogyakarta,2/17/2021,33.105
+Yogyakarta,2/18/2021,33.371
+Yogyakarta,2/19/2021,33.508
+Yogyakarta,2/20/2021,34.46
+Yogyakarta,2/21/2021,34.46
+Yogyakarta,2/22/2021,34.898
+Yogyakarta,2/23/2021,35.105
+Yogyakarta,2/24/2021,35.227
+Yogyakarta,2/25/2021,35.358
+Yogyakarta,2/26/2021,35.435
+Yogyakarta,2/27/2021,35.713
+Yogyakarta,2/28/2021,35.942
+Yogyakarta,3/1/2021,38.438
+Yogyakarta,3/2/2021,42.523
+Yogyakarta,3/3/2021,48.864
+Yogyakarta,3/4/2021,58.054
+Yogyakarta,3/5/2021,64.482
+Yogyakarta,3/6/2021,70.174
+Yogyakarta,3/7/2021,70.349
+Yogyakarta,3/8/2021,75.032
+Yogyakarta,3/9/2021,82.578
+Yogyakarta,3/10/2021,91.859
+Yogyakarta,3/11/2021,92.015
+Yogyakarta,3/12/2021,95.932
+Yogyakarta,3/13/2021,100.348
+Yogyakarta,3/14/2021,100.56
+Yogyakarta,3/15/2021,108.251
+Yogyakarta,3/16/2021,117.913
+Yogyakarta,3/17/2021,126.393
+Yogyakarta,3/18/2021,135.971
+Yogyakarta,3/19/2021,141.399
+Yogyakarta,3/20/2021,145.271
+Yogyakarta,3/21/2021,146.631
+Yogyakarta,3/22/2021,153.537
+Yogyakarta,3/23/2021,160.944
+Yogyakarta,3/24/2021,168.234
+Yogyakarta,3/25/2021,178.335
+Yogyakarta,3/26/2021,185.851
+Yogyakarta,3/27/2021,195.617
+Yogyakarta,3/28/2021,198.7
+Yogyakarta,3/29/2021,207.314
+Yogyakarta,3/30/2021,217.333
+Yogyakarta,3/31/2021,223.72
+Yogyakarta,4/1/2021,231.375
+Yogyakarta,4/2/2021,232.079
+Yogyakarta,4/3/2021,233.595
+Yogyakarta,4/4/2021,233.595
+Yogyakarta,4/5/2021,238.515
+Yogyakarta,4/6/2021,247.511
+Yogyakarta,4/7/2021,256.946
+Yogyakarta,4/8/2021,266.757
+Yogyakarta,4/9/2021,273.345
+Yogyakarta,4/10/2021,276.559
+Yogyakarta,4/11/2021,276.57
+Yogyakarta,4/12/2021,282.247
+Yogyakarta,4/13/2021,285.022
+Yogyakarta,4/14/2021,287.433
+Yogyakarta,4/15/2021,291.57
+Yogyakarta,4/16/2021,292.958
+Yogyakarta,4/17/2021,295.719
+Yogyakarta,4/18/2021,295.741
+Yogyakarta,4/19/2021,299.408
+Yogyakarta,4/20/2021,307.355
+Yogyakarta,4/21/2021,314.94
+Yogyakarta,4/22/2021,324.366
+Yogyakarta,4/23/2021,328.142
+Yogyakarta,4/24/2021,333.087
+Yogyakarta,4/25/2021,333.112

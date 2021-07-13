@@ -1,0 +1,25 @@
+{
+  "name": "scrappingtableauvaksin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rey",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "build:start": "tsc && node dist/index.js",
+    "dev": "ts-node-dev ./src/index.ts"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.171",
+    "@types/node": "^16.3.0",
+    "axios": "^0.21.1",
+    "csv-parser": "^3.0.0",
+    "lodash": "^4.17.21",
+    "neat-csv": "^6.0.1",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}
