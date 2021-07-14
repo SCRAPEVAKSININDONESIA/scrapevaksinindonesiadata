@@ -154,11 +154,11 @@ Aceh,6/17/2021,273.067,7.094
 Aceh,6/18/2021,278.592,5.525
 Aceh,6/19/2021,280.82,2.228
 Aceh,6/20/2021,281.267,0.447
-Aceh,6/21/2021,288.874,7.607000000
+Aceh,6/21/2021,288.874,7.607
 Aceh,6/22/2021,297.026,8.152
-Aceh,6/23/2021,305.773,8.747000000
+Aceh,6/23/2021,305.773,8.747
 Aceh,6/24/2021,313.407,7.634
-Aceh,6/25/2021,320.123,6.716000000
+Aceh,6/25/2021,320.123,6.716
 Aceh,6/26/2021,355.839,35.716
 Aceh,6/27/2021,358.245,2.406
 Aceh,6/28/2021,373.072,14.827
@@ -469,7 +469,7 @@ Bangka Belitung,5/5/2021,66.772,1.538
 Bangka Belitung,5/6/2021,68.009,1.237
 Bangka Belitung,5/7/2021,68.711,0.702
 Bangka Belitung,5/8/2021,69.175,0.464
-Bangka Belitung,5/10/2021,70.019,0.844
+Bangka Belitung,5/10/2021,70.019000000,0.844
 Bangka Belitung,5/11/2021,70.261,0.242
 Bangka Belitung,5/12/2021,70.262,0.001
 Bangka Belitung,5/15/2021,70.262,0
@@ -1532,7 +1532,7 @@ Jawa Barat,5/3/2021,"1,819.677",15.65
 Jawa Barat,5/4/2021,"1,837.188",17.511
 Jawa Barat,5/5/2021,"1,854.224",17.036
 Jawa Barat,5/6/2021,"1,870.603",16.379
-Jawa Barat,5/7/2021,"1,880.011",9.408
+Jawa Barat,5/7/2021,"1,880.011",9.408000000
 Jawa Barat,5/8/2021,"1,889.39",9.379
 Jawa Barat,5/9/2021,"1,889.546",0.156
 Jawa Barat,5/10/2021,"1,897.296",7.75
@@ -1822,7 +1822,7 @@ Jawa Timur,2/14/2021,176.677,0.238
 Jawa Timur,2/15/2021,178.919,2.242
 Jawa Timur,2/16/2021,180.556,1.637
 Jawa Timur,2/17/2021,181.742,1.186
-Jawa Timur,2/18/2021,182.64,0.898000000
+Jawa Timur,2/18/2021,182.64,0.898
 Jawa Timur,2/19/2021,183.307,0.667
 Jawa Timur,2/20/2021,183.947,0.64
 Jawa Timur,2/21/2021,183.972,0.025
@@ -2481,7 +2481,7 @@ Kalimantan Tengah,6/10/2021,215.385,8.831
 Kalimantan Tengah,6/11/2021,219.411,4.026
 Kalimantan Tengah,6/12/2021,228.063,8.652
 Kalimantan Tengah,6/13/2021,228.528,0.465
-Kalimantan Tengah,6/14/2021,234.98,6.452000000
+Kalimantan Tengah,6/14/2021,234.98,6.452
 Kalimantan Tengah,6/15/2021,240.601,5.621
 Kalimantan Tengah,6/16/2021,245.985,5.384
 Kalimantan Tengah,6/17/2021,251.431,5.446
@@ -3853,10 +3853,10 @@ Nusa Tenggara Timur,4/1/2021,94.337,0.954
 Nusa Tenggara Timur,4/2/2021,94.365,0.028
 Nusa Tenggara Timur,4/3/2021,95.012,0.647
 Nusa Tenggara Timur,4/4/2021,95.031,0.019
-Nusa Tenggara Timur,4/5/2021,95.532,0.501
-Nusa Tenggara Timur,4/6/2021,97.249,1.717
-Nusa Tenggara Timur,4/7/2021,98.762,1.513
-Nusa Tenggara Timur,4/8/2021,99.597,0.835
+Nusa Tenggara Timur,4/5/2021,95.532000000,0.501
+Nusa Tenggara Timur,4/6/2021,97.249000000,1.717
+Nusa Tenggara Timur,4/7/2021,98.762000000,1.513
+Nusa Tenggara Timur,4/8/2021,99.597000000,0.835
 Nusa Tenggara Timur,4/9/2021,100.475,0.878
 Nusa Tenggara Timur,4/10/2021,101.332,0.857
 Nusa Tenggara Timur,4/11/2021,101.342,0.01
@@ -4115,7 +4115,7 @@ Papua,6/22/2021,169.959,1.892
 Papua,6/23/2021,171.66,1.701
 Papua,6/24/2021,173.829,2.169
 Papua,6/25/2021,176.001,2.172
-Papua,6/26/2021,185.725,9.724000000
+Papua,6/26/2021,185.725,9.724
 Papua,6/27/2021,186.245,0.52
 Papua,6/28/2021,189.757,3.512
 Papua,6/29/2021,193.93,4.173
@@ -4801,12 +4801,12 @@ Sulawesi Selatan,6/5/2021,526.325,7.451
 Sulawesi Selatan,6/6/2021,526.46,0.135
 Sulawesi Selatan,6/7/2021,535.093,8.633
 Sulawesi Selatan,6/8/2021,543.38,8.287
-Sulawesi Selatan,6/9/2021,552.874,9.494
+Sulawesi Selatan,6/9/2021,552.874,9.494000000
 Sulawesi Selatan,6/10/2021,560.633,7.759
 Sulawesi Selatan,6/11/2021,565.705,5.072
 Sulawesi Selatan,6/12/2021,571.966,6.261
 Sulawesi Selatan,6/13/2021,572.207,0.241
-Sulawesi Selatan,6/14/2021,581.318,9.111000000
+Sulawesi Selatan,6/14/2021,581.318,9.111
 Sulawesi Selatan,6/15/2021,590.604,9.286
 Sulawesi Selatan,6/16/2021,601.232,10.628
 Sulawesi Selatan,6/17/2021,610.597,9.365
@@ -5707,7 +5707,7 @@ Sumatera Selatan,6/10/2021,400.136,7.39
 Sumatera Selatan,6/11/2021,404.678,4.542
 Sumatera Selatan,6/12/2021,407.342,2.664
 Sumatera Selatan,6/13/2021,407.949,0.607
-Sumatera Selatan,6/14/2021,416.942,8.993000000
+Sumatera Selatan,6/14/2021,416.942,8.993
 Sumatera Selatan,6/15/2021,426.589,9.647
 Sumatera Selatan,6/16/2021,435.631,9.042
 Sumatera Selatan,6/17/2021,446.159,10.528
