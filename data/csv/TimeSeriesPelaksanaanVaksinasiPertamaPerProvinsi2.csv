@@ -469,11 +469,11 @@ Bangka Belitung,5/1/2021,63.155,0
 Bangka Belitung,5/3/2021,64.121,0.966
 Bangka Belitung,5/4/2021,65.238,1.117
 Bangka Belitung,5/5/2021,66.776,1.538
-Bangka Belitung,5/6/2021,68.013,1.237
+Bangka Belitung,5/6/2021,68.013000000,1.237
 Bangka Belitung,5/7/2021,68.716,0.703
-Bangka Belitung,5/8/2021,69.18,0.464
-Bangka Belitung,5/10/2021,70.024,0.844
-Bangka Belitung,5/11/2021,70.266,0.242
+Bangka Belitung,5/8/2021,69.180000000,0.464
+Bangka Belitung,5/10/2021,70.024000000,0.844
+Bangka Belitung,5/11/2021,70.266000000,0.242
 Bangka Belitung,5/12/2021,70.267,0.001
 Bangka Belitung,5/15/2021,70.267,0
 Bangka Belitung,5/17/2021,70.581,0.314
@@ -1542,7 +1542,7 @@ Jawa Barat,5/3/2021,"1,819.715",15.65
 Jawa Barat,5/4/2021,"1,837.226",17.511
 Jawa Barat,5/5/2021,"1,854.262",17.036
 Jawa Barat,5/6/2021,"1,870.643",16.381
-Jawa Barat,5/7/2021,"1,880.051",9.408000000
+Jawa Barat,5/7/2021,"1,880.051",9.408
 Jawa Barat,5/8/2021,"1,889.43",9.379
 Jawa Barat,5/9/2021,"1,889.586",0.156
 Jawa Barat,5/10/2021,"1,897.336",7.75
@@ -5889,7 +5889,7 @@ Sumatera Utara,5/6/2021,479.325,9.997
 Sumatera Utara,5/7/2021,489.52,10.195
 Sumatera Utara,5/8/2021,495.249,5.729
 Sumatera Utara,5/9/2021,495.916,0.667
-Sumatera Utara,5/10/2021,504.703,8.787000000
+Sumatera Utara,5/10/2021,504.703,8.787
 Sumatera Utara,5/11/2021,511.371,6.668
 Sumatera Utara,5/12/2021,513.204,1.833
 Sumatera Utara,5/13/2021,513.275,0.071
