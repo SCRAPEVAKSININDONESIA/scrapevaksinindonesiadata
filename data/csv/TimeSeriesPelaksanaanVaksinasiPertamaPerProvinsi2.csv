@@ -480,24 +480,24 @@ Bangka Belitung,4/28/2021,62.086,0.595
 Bangka Belitung,4/29/2021,62.563,0.477
 Bangka Belitung,4/30/2021,63.159,0.596
 Bangka Belitung,5/1/2021,63.16,0.001
-Bangka Belitung,5/3/2021,64.126,0.966
+Bangka Belitung,5/3/2021,64.126000000,0.966
 Bangka Belitung,5/4/2021,65.243,1.117
-Bangka Belitung,5/5/2021,66.781,1.538
-Bangka Belitung,5/6/2021,68.019,1.238
+Bangka Belitung,5/5/2021,66.781000000,1.538
+Bangka Belitung,5/6/2021,68.019000000,1.238
 Bangka Belitung,5/7/2021,68.722,0.703
 Bangka Belitung,5/8/2021,69.186,0.464
-Bangka Belitung,5/10/2021,70.03,0.844
-Bangka Belitung,5/11/2021,70.272,0.242
+Bangka Belitung,5/10/2021,70.030000000,0.844
+Bangka Belitung,5/11/2021,70.272000000,0.242
 Bangka Belitung,5/12/2021,70.273,0.001
 Bangka Belitung,5/15/2021,70.273,0
-Bangka Belitung,5/17/2021,70.587,0.314
-Bangka Belitung,5/18/2021,71.066,0.479
-Bangka Belitung,5/19/2021,71.598,0.532
-Bangka Belitung,5/20/2021,72.431,0.833
-Bangka Belitung,5/21/2021,72.977,0.546
-Bangka Belitung,5/22/2021,73.361,0.384
-Bangka Belitung,5/24/2021,74.489,1.128
-Bangka Belitung,5/25/2021,75.68,1.191
+Bangka Belitung,5/17/2021,70.587000000,0.314
+Bangka Belitung,5/18/2021,71.066000000,0.479
+Bangka Belitung,5/19/2021,71.598000000,0.532
+Bangka Belitung,5/20/2021,72.431000000,0.833
+Bangka Belitung,5/21/2021,72.977000000,0.546
+Bangka Belitung,5/22/2021,73.361000000,0.384
+Bangka Belitung,5/24/2021,74.489000000,1.128
+Bangka Belitung,5/25/2021,75.680000000,1.191
 Bangka Belitung,5/26/2021,75.714,0.034
 Bangka Belitung,5/27/2021,76.334,0.62
 Bangka Belitung,5/28/2021,76.869,0.535
@@ -1285,7 +1285,7 @@ Jakarta Raya,7/9/2021,"5,584.618",160.221
 Jakarta Raya,7/10/2021,"5,657.31",72.692
 Jakarta Raya,7/11/2021,"5,705.946",48.636
 Jakarta Raya,7/12/2021,"5,839.844",133.898
-Jakarta Raya,7/13/2021,"5,974.721000000",134.877
+Jakarta Raya,7/13/2021,"5,974.721",134.877
 Jakarta Raya,7/14/2021,"6,120.603",145.882
 Jakarta Raya,7/15/2021,"6,267.892",147.289
 Jakarta Raya,7/16/2021,"6,412.334",144.442
@@ -1293,8 +1293,8 @@ Jakarta Raya,7/17/2021,"6,496.724",84.39
 Jakarta Raya,7/18/2021,"6,549.493",52.769
 Jakarta Raya,7/19/2021,"6,653.52",104.027
 Jakarta Raya,7/20/2021,"6,656.041",2.521
-Jakarta Raya,7/21/2021,"6,755.771000000",99.730000000
-Jakarta Raya,7/22/2021,"6,868.959000000",113.188
+Jakarta Raya,7/21/2021,"6,755.771",99.73
+Jakarta Raya,7/22/2021,"6,868.959",113.188
 Jambi,1/13/2021,0,0
 Jambi,1/14/2021,0.301,0.301
 Jambi,1/15/2021,0.515,0.214
@@ -1675,7 +1675,7 @@ Jawa Barat,7/18/2021,"5,012.614",24.667
 Jawa Barat,7/19/2021,"5,101.196",88.582
 Jawa Barat,7/20/2021,"5,102.443",1.247
 Jawa Barat,7/21/2021,"5,188.154",85.711
-Jawa Barat,7/22/2021,"5,278.308",90.154000000
+Jawa Barat,7/22/2021,"5,278.308",90.154
 Jawa Tengah,1/13/2021,0,0
 Jawa Tengah,1/14/2021,0.978,0.978
 Jawa Tengah,1/15/2021,1.915,0.937
@@ -5157,25 +5157,25 @@ Sulawesi Tengah,4/20/2021,72.637,0.772
 Sulawesi Tengah,4/21/2021,73.621,0.984
 Sulawesi Tengah,4/22/2021,74.457,0.836
 Sulawesi Tengah,4/23/2021,75.183,0.726
-Sulawesi Tengah,4/24/2021,75.778,0.595
+Sulawesi Tengah,4/24/2021,75.778000000,0.595
 Sulawesi Tengah,4/25/2021,75.808,0.03
 Sulawesi Tengah,4/26/2021,76.942,1.134
-Sulawesi Tengah,4/27/2021,78.096,1.154
+Sulawesi Tengah,4/27/2021,78.096000000,1.154
 Sulawesi Tengah,4/28/2021,79.183,1.087
 Sulawesi Tengah,4/29/2021,80.576,1.393
 Sulawesi Tengah,4/30/2021,81.564,0.988
 Sulawesi Tengah,5/1/2021,81.808,0.244
-Sulawesi Tengah,5/2/2021,81.819,0.011
-Sulawesi Tengah,5/3/2021,82.506,0.687
-Sulawesi Tengah,5/4/2021,83.202,0.696
-Sulawesi Tengah,5/5/2021,83.998,0.796
-Sulawesi Tengah,5/6/2021,84.604,0.606
-Sulawesi Tengah,5/7/2021,85.902,1.298
-Sulawesi Tengah,5/8/2021,86.412,0.51
-Sulawesi Tengah,5/9/2021,86.456,0.044
-Sulawesi Tengah,5/10/2021,87.045,0.589
-Sulawesi Tengah,5/11/2021,87.518,0.473
-Sulawesi Tengah,5/12/2021,87.584,0.066
+Sulawesi Tengah,5/2/2021,81.819000000,0.011
+Sulawesi Tengah,5/3/2021,82.506000000,0.687
+Sulawesi Tengah,5/4/2021,83.202000000,0.696
+Sulawesi Tengah,5/5/2021,83.998000000,0.796
+Sulawesi Tengah,5/6/2021,84.604000000,0.606
+Sulawesi Tengah,5/7/2021,85.902000000,1.298
+Sulawesi Tengah,5/8/2021,86.412000000,0.51
+Sulawesi Tengah,5/9/2021,86.456000000,0.044
+Sulawesi Tengah,5/10/2021,87.045000000,0.589
+Sulawesi Tengah,5/11/2021,87.518000000,0.473
+Sulawesi Tengah,5/12/2021,87.584000000,0.066
 Sulawesi Tengah,5/13/2021,87.591,0.007
 Sulawesi Tengah,5/14/2021,87.646,0.055
 Sulawesi Tengah,5/15/2021,87.843,0.197
@@ -5184,12 +5184,12 @@ Sulawesi Tengah,5/17/2021,88.138,0.288
 Sulawesi Tengah,5/18/2021,88.932,0.794
 Sulawesi Tengah,5/19/2021,89.923,0.991
 Sulawesi Tengah,5/20/2021,91.788,1.865
-Sulawesi Tengah,5/21/2021,93.367,1.579
-Sulawesi Tengah,5/22/2021,95.203,1.836
-Sulawesi Tengah,5/23/2021,95.218,0.015
-Sulawesi Tengah,5/24/2021,96.938,1.72
-Sulawesi Tengah,5/25/2021,98.736,1.798
-Sulawesi Tengah,5/26/2021,99.18,0.444
+Sulawesi Tengah,5/21/2021,93.367000000,1.579
+Sulawesi Tengah,5/22/2021,95.203000000,1.836
+Sulawesi Tengah,5/23/2021,95.218000000,0.015
+Sulawesi Tengah,5/24/2021,96.938000000,1.72
+Sulawesi Tengah,5/25/2021,98.736000000,1.798
+Sulawesi Tengah,5/26/2021,99.180000000,0.444
 Sulawesi Tengah,5/27/2021,100.913,1.733
 Sulawesi Tengah,5/28/2021,102.66,1.747
 Sulawesi Tengah,5/29/2021,104.434,1.774
@@ -5694,7 +5694,7 @@ Sumatera Barat,3/25/2021,87.407,5.028
 Sumatera Barat,3/26/2021,91.175,3.768
 Sumatera Barat,3/27/2021,92.971,1.796
 Sumatera Barat,3/28/2021,92.971,0
-Sumatera Barat,3/29/2021,97.100000000,4.129
+Sumatera Barat,3/29/2021,97.1,4.129
 Sumatera Barat,3/30/2021,100.442,3.342
 Sumatera Barat,3/31/2021,103.367,2.925
 Sumatera Barat,4/1/2021,106.713,3.346
@@ -6131,38 +6131,38 @@ Sumatera Utara,5/20/2021,551.42,11.888
 Sumatera Utara,5/21/2021,561.231,9.811
 Sumatera Utara,5/22/2021,564.042,2.811
 Sumatera Utara,5/23/2021,564.1,0.058
-Sumatera Utara,5/24/2021,574.589000000,10.489
+Sumatera Utara,5/24/2021,574.589,10.489
 Sumatera Utara,5/25/2021,586.264,11.675
 Sumatera Utara,5/26/2021,586.864,0.6
-Sumatera Utara,5/27/2021,598.839000000,11.975
-Sumatera Utara,5/28/2021,609.112000000,10.273
+Sumatera Utara,5/27/2021,598.839,11.975
+Sumatera Utara,5/28/2021,609.112,10.273
 Sumatera Utara,5/29/2021,614.263,5.151
 Sumatera Utara,5/30/2021,614.385,0.122
 Sumatera Utara,5/31/2021,623.398,9.013
-Sumatera Utara,6/1/2021,623.925000000,0.527
-Sumatera Utara,6/2/2021,633.185000000,9.26
-Sumatera Utara,6/3/2021,646.415000000,13.23
-Sumatera Utara,6/4/2021,660.339000000,13.924
+Sumatera Utara,6/1/2021,623.925,0.527
+Sumatera Utara,6/2/2021,633.185,9.26
+Sumatera Utara,6/3/2021,646.415,13.23
+Sumatera Utara,6/4/2021,660.339,13.924
 Sumatera Utara,6/5/2021,666.225,5.886
-Sumatera Utara,6/6/2021,666.314000000,0.089
-Sumatera Utara,6/7/2021,682.145000000,15.831
-Sumatera Utara,6/8/2021,701.850000000,19.705
-Sumatera Utara,6/9/2021,723.607000000,21.757
-Sumatera Utara,6/10/2021,747.577000000,23.97
-Sumatera Utara,6/11/2021,762.275000000,14.698
-Sumatera Utara,6/12/2021,767.245000000,4.97
-Sumatera Utara,6/13/2021,768.201000000,0.956
+Sumatera Utara,6/6/2021,666.314,0.089
+Sumatera Utara,6/7/2021,682.145,15.831
+Sumatera Utara,6/8/2021,701.85,19.705
+Sumatera Utara,6/9/2021,723.607,21.757
+Sumatera Utara,6/10/2021,747.577,23.97
+Sumatera Utara,6/11/2021,762.275,14.698
+Sumatera Utara,6/12/2021,767.245,4.97
+Sumatera Utara,6/13/2021,768.201,0.956
 Sumatera Utara,6/14/2021,784.440000000,16.239
-Sumatera Utara,6/15/2021,805.431000000,20.991
+Sumatera Utara,6/15/2021,805.431,20.991
 Sumatera Utara,6/16/2021,832.959000000,27.528
 Sumatera Utara,6/17/2021,861.646000000,28.687
-Sumatera Utara,6/18/2021,884.730000000,23.084
-Sumatera Utara,6/19/2021,894.903000000,10.173
+Sumatera Utara,6/18/2021,884.73,23.084
+Sumatera Utara,6/19/2021,894.903,10.173
 Sumatera Utara,6/20/2021,895.099000000,0.196
 Sumatera Utara,6/21/2021,913.541000000,18.442
-Sumatera Utara,6/22/2021,934.422000000,20.881
-Sumatera Utara,6/23/2021,962.274000000,27.852
-Sumatera Utara,6/24/2021,997.415000000,35.141
+Sumatera Utara,6/22/2021,934.422,20.881
+Sumatera Utara,6/23/2021,962.274,27.852
+Sumatera Utara,6/24/2021,997.415,35.141
 Sumatera Utara,6/25/2021,"1,034.111",36.696
 Sumatera Utara,6/26/2021,"1,111.527",77.416
 Sumatera Utara,6/27/2021,"1,119.93",8.403
@@ -6348,14 +6348,14 @@ Yogyakarta,6/16/2021,546.028,16.492
 Yogyakarta,6/17/2021,563.217,17.189
 Yogyakarta,6/18/2021,573.124,9.907
 Yogyakarta,6/19/2021,583.857,10.733
-Yogyakarta,6/20/2021,590.853000000,6.996
-Yogyakarta,6/21/2021,609.018000000,18.165
-Yogyakarta,6/22/2021,630.411000000,21.393
-Yogyakarta,6/23/2021,658.205000000,27.794
-Yogyakarta,6/24/2021,684.368000000,26.163
-Yogyakarta,6/25/2021,698.452000000,14.084
-Yogyakarta,6/26/2021,723.638000000,25.186
-Yogyakarta,6/27/2021,726.651000000,3.013
+Yogyakarta,6/20/2021,590.853,6.996
+Yogyakarta,6/21/2021,609.018,18.165
+Yogyakarta,6/22/2021,630.411,21.393
+Yogyakarta,6/23/2021,658.205,27.794
+Yogyakarta,6/24/2021,684.368,26.163
+Yogyakarta,6/25/2021,698.452,14.084
+Yogyakarta,6/26/2021,723.638,25.186
+Yogyakarta,6/27/2021,726.651,3.013
 Yogyakarta,6/28/2021,743.448,16.797
 Yogyakarta,6/29/2021,762.914,19.466
 Yogyakarta,6/30/2021,780.181,17.267
