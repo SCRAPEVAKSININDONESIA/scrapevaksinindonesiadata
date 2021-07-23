@@ -2905,7 +2905,7 @@ Jawa Timur,Jawa Timur,4/10/2021,4/10/2021,909.094,16.97
 Kalimantan Barat,Kalimantan Barat,4/10/2021,4/10/2021,63.079,1.134
 Kalimantan Selatan,Kalimantan Selatan,4/10/2021,4/10/2021,60.764,1.899
 Kalimantan Tengah,Kalimantan Tengah,4/10/2021,4/10/2021,54.733,1.693
-Kalimantan Timur,Kalimantan Timur,4/10/2021,4/10/2021,82.102,2.859
+Kalimantan Timur,Kalimantan Timur,4/10/2021,4/10/2021,82.102000000,2.859
 Kalimantan Utara,Kalimantan Utara,4/10/2021,4/10/2021,12.961,0.194
 Lampung,Lampung,4/10/2021,4/10/2021,94.863,1.926
 Maluku,Maluku,4/10/2021,4/10/2021,24.179,0.465
@@ -2969,7 +2969,7 @@ Jawa Timur,Jawa Timur,4/12/2021,4/12/2021,933.751,24.257
 Kalimantan Barat,Kalimantan Barat,4/12/2021,4/12/2021,65.176,2.006
 Kalimantan Selatan,Kalimantan Selatan,4/12/2021,4/12/2021,63.505,2.727
 Kalimantan Tengah,Kalimantan Tengah,4/12/2021,4/12/2021,56.357,1.443
-Kalimantan Timur,Kalimantan Timur,4/12/2021,4/12/2021,84.566,2.255
+Kalimantan Timur,Kalimantan Timur,4/12/2021,4/12/2021,84.566000000,2.255
 Kalimantan Utara,Kalimantan Utara,4/12/2021,4/12/2021,13.444,0.483
 Lampung,Lampung,4/12/2021,4/12/2021,99.109,4.217
 Maluku,Maluku,4/12/2021,4/12/2021,24.957,0.772
@@ -4766,7 +4766,7 @@ Jawa Tengah,Jawa Tengah,6/5/2021,6/5/2021,"1,401.798",17.511
 Jawa Timur,Jawa Timur,6/5/2021,6/5/2021,"1,502.028",15.973
 Kalimantan Barat,Kalimantan Barat,6/5/2021,6/5/2021,129.569,0.553
 Kalimantan Selatan,Kalimantan Selatan,6/5/2021,6/5/2021,140.931,3.646
-Kalimantan Tengah,Kalimantan Tengah,6/5/2021,6/5/2021,91.832000000,1.001
+Kalimantan Tengah,Kalimantan Tengah,6/5/2021,6/5/2021,91.832,1.001
 Kalimantan Timur,Kalimantan Timur,6/5/2021,6/5/2021,195.101,1.884
 Kalimantan Utara,Kalimantan Utara,6/5/2021,6/5/2021,23.53,0.061
 Lampung,Lampung,6/5/2021,6/5/2021,184.037,0.775
@@ -4799,7 +4799,7 @@ Jawa Tengah,Jawa Tengah,6/6/2021,6/6/2021,"1,401.944",0.146
 Jawa Timur,Jawa Timur,6/6/2021,6/6/2021,"1,502.432",0.404
 Kalimantan Barat,Kalimantan Barat,6/6/2021,6/6/2021,129.569,0
 Kalimantan Selatan,Kalimantan Selatan,6/6/2021,6/6/2021,141.003,0.072
-Kalimantan Tengah,Kalimantan Tengah,6/6/2021,6/6/2021,91.991000000,0.159
+Kalimantan Tengah,Kalimantan Tengah,6/6/2021,6/6/2021,91.991,0.159
 Kalimantan Timur,Kalimantan Timur,6/6/2021,6/6/2021,195.226,0.125
 Kalimantan Utara,Kalimantan Utara,6/6/2021,6/6/2021,23.557,0.027
 Lampung,Lampung,6/6/2021,6/6/2021,184.077,0.04
@@ -4833,7 +4833,7 @@ Jawa Tengah,Jawa Tengah,6/7/2021,6/7/2021,"1,424.371",22.427
 Jawa Timur,Jawa Timur,6/7/2021,6/7/2021,"1,530.346",27.914
 Kalimantan Barat,Kalimantan Barat,6/7/2021,6/7/2021,130.384,0.815
 Kalimantan Selatan,Kalimantan Selatan,6/7/2021,6/7/2021,144.366,3.363
-Kalimantan Tengah,Kalimantan Tengah,6/7/2021,6/7/2021,92.969000000,0.978
+Kalimantan Tengah,Kalimantan Tengah,6/7/2021,6/7/2021,92.969,0.978
 Kalimantan Timur,Kalimantan Timur,6/7/2021,6/7/2021,195.806,0.58
 Kalimantan Utara,Kalimantan Utara,6/7/2021,6/7/2021,23.714,0.157
 Lampung,Lampung,6/7/2021,6/7/2021,185.412,1.335
@@ -4935,7 +4935,7 @@ Jawa Tengah,Jawa Tengah,6/10/2021,6/10/2021,"1,448.853",3.694
 Jawa Timur,Jawa Timur,6/10/2021,6/10/2021,"1,591.353",18.788
 Kalimantan Barat,Kalimantan Barat,6/10/2021,6/10/2021,131.605,0.296
 Kalimantan Selatan,Kalimantan Selatan,6/10/2021,6/10/2021,152.551,1.892
-Kalimantan Tengah,Kalimantan Tengah,6/10/2021,6/10/2021,94.264000000,0.114
+Kalimantan Tengah,Kalimantan Tengah,6/10/2021,6/10/2021,94.264,0.114
 Kalimantan Timur,Kalimantan Timur,6/10/2021,6/10/2021,197.074,0.232
 Kalimantan Utara,Kalimantan Utara,6/10/2021,6/10/2021,24.411,0.191
 Lampung,Lampung,6/10/2021,6/10/2021,186.795,0.27
@@ -4969,7 +4969,7 @@ Jawa Tengah,Jawa Tengah,6/11/2021,6/11/2021,"1,450.758",1.905
 Jawa Timur,Jawa Timur,6/11/2021,6/11/2021,"1,601.513",10.16
 Kalimantan Barat,Kalimantan Barat,6/11/2021,6/11/2021,131.695,0.09
 Kalimantan Selatan,Kalimantan Selatan,6/11/2021,6/11/2021,153.029,0.478
-Kalimantan Tengah,Kalimantan Tengah,6/11/2021,6/11/2021,94.338000000,0.074
+Kalimantan Tengah,Kalimantan Tengah,6/11/2021,6/11/2021,94.338,0.074
 Kalimantan Timur,Kalimantan Timur,6/11/2021,6/11/2021,197.214,0.14
 Kalimantan Utara,Kalimantan Utara,6/11/2021,6/11/2021,24.581,0.17
 Lampung,Lampung,6/11/2021,6/11/2021,187.035,0.24
@@ -5003,7 +5003,7 @@ Jawa Tengah,Jawa Tengah,6/12/2021,6/12/2021,"1,452.317",1.559
 Jawa Timur,Jawa Timur,6/12/2021,6/12/2021,"1,615.013",13.5
 Kalimantan Barat,Kalimantan Barat,6/12/2021,6/12/2021,131.727,0.032
 Kalimantan Selatan,Kalimantan Selatan,6/12/2021,6/12/2021,153.93,0.901
-Kalimantan Tengah,Kalimantan Tengah,6/12/2021,6/12/2021,94.585000000,0.247
+Kalimantan Tengah,Kalimantan Tengah,6/12/2021,6/12/2021,94.585,0.247
 Kalimantan Timur,Kalimantan Timur,6/12/2021,6/12/2021,197.894,0.68
 Kalimantan Utara,Kalimantan Utara,6/12/2021,6/12/2021,24.657,0.076
 Lampung,Lampung,6/12/2021,6/12/2021,187.136,0.101
@@ -5036,7 +5036,7 @@ Jawa Tengah,Jawa Tengah,6/13/2021,6/13/2021,"1,452.332",0.015
 Jawa Timur,Jawa Timur,6/13/2021,6/13/2021,"1,615.082",0.069
 Kalimantan Barat,Kalimantan Barat,6/13/2021,6/13/2021,131.731,0.004
 Kalimantan Selatan,Kalimantan Selatan,6/13/2021,6/13/2021,153.93,0
-Kalimantan Tengah,Kalimantan Tengah,6/13/2021,6/13/2021,94.586000000,0.001
+Kalimantan Tengah,Kalimantan Tengah,6/13/2021,6/13/2021,94.586,0.001
 Kalimantan Timur,Kalimantan Timur,6/13/2021,6/13/2021,197.937,0.043
 Kalimantan Utara,Kalimantan Utara,6/13/2021,6/13/2021,24.658,0.001
 Lampung,Lampung,6/13/2021,6/13/2021,187.136,0
@@ -5070,7 +5070,7 @@ Jawa Tengah,Jawa Tengah,6/14/2021,6/14/2021,"1,459.876",7.544
 Jawa Timur,Jawa Timur,6/14/2021,6/14/2021,"1,633.543",18.461
 Kalimantan Barat,Kalimantan Barat,6/14/2021,6/14/2021,132.057,0.326
 Kalimantan Selatan,Kalimantan Selatan,6/14/2021,6/14/2021,154.965,1.035
-Kalimantan Tengah,Kalimantan Tengah,6/14/2021,6/14/2021,95.562000000,0.976
+Kalimantan Tengah,Kalimantan Tengah,6/14/2021,6/14/2021,95.562,0.976
 Kalimantan Timur,Kalimantan Timur,6/14/2021,6/14/2021,198.377,0.44
 Kalimantan Utara,Kalimantan Utara,6/14/2021,6/14/2021,24.896,0.238
 Lampung,Lampung,6/14/2021,6/14/2021,187.645,0.509
@@ -5104,7 +5104,7 @@ Jawa Tengah,Jawa Tengah,6/15/2021,6/15/2021,"1,477.755",17.879
 Jawa Timur,Jawa Timur,6/15/2021,6/15/2021,"1,653.078",19.535
 Kalimantan Barat,Kalimantan Barat,6/15/2021,6/15/2021,132.864,0.807
 Kalimantan Selatan,Kalimantan Selatan,6/15/2021,6/15/2021,157.282,2.317
-Kalimantan Tengah,Kalimantan Tengah,6/15/2021,6/15/2021,97.239000000,1.677
+Kalimantan Tengah,Kalimantan Tengah,6/15/2021,6/15/2021,97.239,1.677
 Kalimantan Timur,Kalimantan Timur,6/15/2021,6/15/2021,199.995,1.618
 Kalimantan Utara,Kalimantan Utara,6/15/2021,6/15/2021,25.311,0.415
 Lampung,Lampung,6/15/2021,6/15/2021,188.153,0.508
@@ -5804,7 +5804,7 @@ Sumatera Barat,Sumatera Barat,7/5/2021,7/5/2021,159.818,1.388
 Sumatera Selatan,Sumatera Selatan,7/5/2021,7/5/2021,335.895,2.967
 Sumatera Utara,Sumatera Utara,7/5/2021,7/5/2021,593.165,15.626
 Yogyakarta,Yogyakarta,7/5/2021,7/5/2021,397.951,1.271
-Aceh,Aceh,7/6/2021,7/6/2021,160.092,8.007
+Aceh,Aceh,7/6/2021,7/6/2021,160.092,8.007000000
 Bali,Bali,7/6/2021,7/6/2021,761.153,1.633
 Bangka Belitung,Bangka Belitung,7/6/2021,7/6/2021,78.431,1.35
 Banten,Banten,7/6/2021,7/6/2021,477.995,7.197
@@ -5872,7 +5872,7 @@ Sumatera Barat,Sumatera Barat,7/7/2021,7/7/2021,163.247,1.828
 Sumatera Selatan,Sumatera Selatan,7/7/2021,7/7/2021,343.511,3.859
 Sumatera Utara,Sumatera Utara,7/7/2021,7/7/2021,629.817,18.939
 Yogyakarta,Yogyakarta,7/7/2021,7/7/2021,399.108,0.453
-Aceh,Aceh,7/8/2021,7/8/2021,174.842,6.986
+Aceh,Aceh,7/8/2021,7/8/2021,174.842,6.986000000
 Bali,Bali,7/8/2021,7/8/2021,763.386,1.157
 Bangka Belitung,Bangka Belitung,7/8/2021,7/8/2021,82.831,1.914
 Banten,Banten,7/8/2021,7/8/2021,494.208,7.966
@@ -6229,7 +6229,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/18/2021,7/18/2021,210.031,0.629
 Kalimantan Timur,Kalimantan Timur,7/18/2021,7/18/2021,262.737,0.239
 Kalimantan Utara,Kalimantan Utara,7/18/2021,7/18/2021,34.877,0
 Lampung,Lampung,7/18/2021,7/18/2021,266.923,0.02
-Maluku,Maluku,7/18/2021,7/18/2021,65.851000000,0.043
+Maluku,Maluku,7/18/2021,7/18/2021,65.851,0.043
 Maluku Utara,Maluku Utara,7/18/2021,7/18/2021,38.85,0.078
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/18/2021,7/18/2021,197.272,0.011
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/18/2021,7/18/2021,225.466,0.003
@@ -6250,7 +6250,7 @@ Aceh,Aceh,7/19/2021,7/19/2021,220.175,1.526
 Bali,Bali,7/19/2021,7/19/2021,781.388,3.776
 Bangka Belitung,Bangka Belitung,7/19/2021,7/19/2021,93.114,0.741
 Banten,Banten,7/19/2021,7/19/2021,567.376,8.065
-Bengkulu,Bengkulu,7/19/2021,7/19/2021,81.695,1.989
+Bengkulu,Bengkulu,7/19/2021,7/19/2021,81.695000000,1.989
 Gorontalo,Gorontalo,7/19/2021,7/19/2021,77.34,1.781
 Jakarta Raya,Jakarta Raya,7/19/2021,7/19/2021,"2,028.448",18.403
 Jambi,Jambi,7/19/2021,7/19/2021,187.458,2.006
@@ -6263,7 +6263,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/19/2021,7/19/2021,211.711,1.68
 Kalimantan Timur,Kalimantan Timur,7/19/2021,7/19/2021,264.3,1.563
 Kalimantan Utara,Kalimantan Utara,7/19/2021,7/19/2021,35.359,0.482
 Lampung,Lampung,7/19/2021,7/19/2021,270.221,3.298
-Maluku,Maluku,7/19/2021,7/19/2021,66.155000000,0.304
+Maluku,Maluku,7/19/2021,7/19/2021,66.155,0.304
 Maluku Utara,Maluku Utara,7/19/2021,7/19/2021,39.202,0.352
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/19/2021,7/19/2021,197.712,0.44
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/19/2021,7/19/2021,228.319,2.853
@@ -6284,7 +6284,7 @@ Aceh,Aceh,7/20/2021,7/20/2021,220.204,0.029
 Bali,Bali,7/20/2021,7/20/2021,781.449,0.061
 Bangka Belitung,Bangka Belitung,7/20/2021,7/20/2021,93.116,0.002
 Banten,Banten,7/20/2021,7/20/2021,567.403,0.027
-Bengkulu,Bengkulu,7/20/2021,7/20/2021,81.695,0
+Bengkulu,Bengkulu,7/20/2021,7/20/2021,81.695000000,0
 Gorontalo,Gorontalo,7/20/2021,7/20/2021,77.361,0.021
 Jakarta Raya,Jakarta Raya,7/20/2021,7/20/2021,"2,028.691",0.243
 Jambi,Jambi,7/20/2021,7/20/2021,187.482,0.024
@@ -6297,7 +6297,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/20/2021,7/20/2021,211.77,0.059
 Kalimantan Timur,Kalimantan Timur,7/20/2021,7/20/2021,264.301,0.001
 Kalimantan Utara,Kalimantan Utara,7/20/2021,7/20/2021,35.39,0.031
 Lampung,Lampung,7/20/2021,7/20/2021,270.223,0.002
-Maluku,Maluku,7/20/2021,7/20/2021,66.175000000,0.02
+Maluku,Maluku,7/20/2021,7/20/2021,66.175,0.02
 Maluku Utara,Maluku Utara,7/20/2021,7/20/2021,39.25,0.048
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/20/2021,7/20/2021,197.738,0.026
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/20/2021,7/20/2021,228.525,0.206
@@ -6331,7 +6331,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/21/2021,7/21/2021,213.856,2.086
 Kalimantan Timur,Kalimantan Timur,7/21/2021,7/21/2021,266.476,2.175
 Kalimantan Utara,Kalimantan Utara,7/21/2021,7/21/2021,35.612,0.222
 Lampung,Lampung,7/21/2021,7/21/2021,274.545,4.322
-Maluku,Maluku,7/21/2021,7/21/2021,66.574000000,0.399
+Maluku,Maluku,7/21/2021,7/21/2021,66.574,0.399
 Maluku Utara,Maluku Utara,7/21/2021,7/21/2021,39.439,0.189
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/21/2021,7/21/2021,198.226,0.488
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/21/2021,7/21/2021,231.579,3.054
@@ -6365,7 +6365,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/22/2021,7/22/2021,216.331,2.475
 Kalimantan Timur,Kalimantan Timur,7/22/2021,7/22/2021,269.367,2.891
 Kalimantan Utara,Kalimantan Utara,7/22/2021,7/22/2021,37.354,1.742
 Lampung,Lampung,7/22/2021,7/22/2021,280.09,5.545
-Maluku,Maluku,7/22/2021,7/22/2021,66.986000000,0.412
+Maluku,Maluku,7/22/2021,7/22/2021,66.986,0.412
 Maluku Utara,Maluku Utara,7/22/2021,7/22/2021,39.775,0.336
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/22/2021,7/22/2021,199.683,1.457
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/22/2021,7/22/2021,234.594,3.015
@@ -6399,7 +6399,7 @@ Kalimantan Tengah,Kalimantan Tengah,7/23/2021,7/23/2021,217.75,1.419
 Kalimantan Timur,Kalimantan Timur,7/23/2021,7/23/2021,270.912,1.545
 Kalimantan Utara,Kalimantan Utara,7/23/2021,7/23/2021,37.476,0.122
 Lampung,Lampung,7/23/2021,7/23/2021,282.069,1.979
-Maluku,Maluku,7/23/2021,7/23/2021,67.302000000,0.316
+Maluku,Maluku,7/23/2021,7/23/2021,67.302,0.316
 Maluku Utara,Maluku Utara,7/23/2021,7/23/2021,39.985,0.21
 Nusa Tenggara Barat,Nusa Tenggara Barat,7/23/2021,7/23/2021,200.955,1.272
 Nusa Tenggara Timur,Nusa Tenggara Timur,7/23/2021,7/23/2021,236.486,1.892
