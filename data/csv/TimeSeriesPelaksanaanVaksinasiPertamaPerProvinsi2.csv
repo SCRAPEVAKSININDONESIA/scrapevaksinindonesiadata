@@ -149,7 +149,7 @@ Aceh,6/11/2021,234.505,11.756
 Aceh,6/12/2021,238.08,3.575
 Aceh,6/13/2021,239.648,1.568
 Aceh,6/14/2021,250.998,11.35
-Aceh,6/15/2021,260.219,9.221000000
+Aceh,6/15/2021,260.219,9.221
 Aceh,6/16/2021,267.161,6.942
 Aceh,6/17/2021,274.318,7.157
 Aceh,6/18/2021,279.928,5.61
@@ -3289,11 +3289,11 @@ Kepulauan Riau,7/16/2021,961.552,5.241
 Kepulauan Riau,7/17/2021,974.141,12.589
 Kepulauan Riau,7/18/2021,975.1,0.959
 Kepulauan Riau,7/19/2021,977.188,2.088
-Kepulauan Riau,7/20/2021,977.209000000,0.021
-Kepulauan Riau,7/21/2021,981.604000000,4.395
-Kepulauan Riau,7/22/2021,984.805000000,3.201
-Kepulauan Riau,7/23/2021,993.812000000,9.007
-Kepulauan Riau,7/24/2021,998.162000000,4.35
+Kepulauan Riau,7/20/2021,977.209,0.021
+Kepulauan Riau,7/21/2021,981.604,4.395
+Kepulauan Riau,7/22/2021,984.805,3.201
+Kepulauan Riau,7/23/2021,993.812,9.007
+Kepulauan Riau,7/24/2021,998.162,4.35
 Kepulauan Riau,7/25/2021,998.631,0.469
 Kepulauan Riau,7/26/2021,"1,000.88",2.249
 Kepulauan Riau,7/27/2021,"1,003.954",3.074
@@ -5337,13 +5337,13 @@ Sulawesi Tengah,5/3/2021,82.713,0.687
 Sulawesi Tengah,5/4/2021,83.409000000,0.696
 Sulawesi Tengah,5/5/2021,84.205,0.796
 Sulawesi Tengah,5/6/2021,84.811,0.606
-Sulawesi Tengah,5/7/2021,86.116000000,1.305
-Sulawesi Tengah,5/8/2021,86.626000000,0.51
-Sulawesi Tengah,5/9/2021,86.670000000,0.044
-Sulawesi Tengah,5/10/2021,87.259000000,0.589
-Sulawesi Tengah,5/11/2021,87.732000000,0.473
-Sulawesi Tengah,5/12/2021,87.798000000,0.066
-Sulawesi Tengah,5/13/2021,87.805000000,0.007
+Sulawesi Tengah,5/7/2021,86.116,1.305
+Sulawesi Tengah,5/8/2021,86.626,0.51
+Sulawesi Tengah,5/9/2021,86.67,0.044
+Sulawesi Tengah,5/10/2021,87.259,0.589
+Sulawesi Tengah,5/11/2021,87.732,0.473
+Sulawesi Tengah,5/12/2021,87.798,0.066
+Sulawesi Tengah,5/13/2021,87.805,0.007
 Sulawesi Tengah,5/14/2021,87.86,0.055
 Sulawesi Tengah,5/15/2021,88.057,0.197
 Sulawesi Tengah,5/16/2021,88.064,0.007
@@ -5352,11 +5352,11 @@ Sulawesi Tengah,5/18/2021,89.146,0.794
 Sulawesi Tengah,5/19/2021,90.137,0.991
 Sulawesi Tengah,5/20/2021,92.002,1.865
 Sulawesi Tengah,5/21/2021,93.582,1.58
-Sulawesi Tengah,5/22/2021,95.421000000,1.839
+Sulawesi Tengah,5/22/2021,95.421,1.839
 Sulawesi Tengah,5/23/2021,95.436,0.015
-Sulawesi Tengah,5/24/2021,97.156000000,1.72
-Sulawesi Tengah,5/25/2021,98.956000000,1.8
-Sulawesi Tengah,5/26/2021,99.400000000,0.444
+Sulawesi Tengah,5/24/2021,97.156,1.72
+Sulawesi Tengah,5/25/2021,98.956,1.8
+Sulawesi Tengah,5/26/2021,99.4,0.444
 Sulawesi Tengah,5/27/2021,101.135,1.735
 Sulawesi Tengah,5/28/2021,102.885,1.75
 Sulawesi Tengah,5/29/2021,104.669,1.784
@@ -6315,7 +6315,7 @@ Sumatera Utara,5/6/2021,482.467,10.117
 Sumatera Utara,5/7/2021,492.798,10.331
 Sumatera Utara,5/8/2021,498.559,5.761
 Sumatera Utara,5/9/2021,499.238,0.679
-Sumatera Utara,5/10/2021,508.056,8.818000000
+Sumatera Utara,5/10/2021,508.056,8.818
 Sumatera Utara,5/11/2021,514.911,6.855
 Sumatera Utara,5/12/2021,516.745,1.834
 Sumatera Utara,5/13/2021,516.818,0.073
@@ -6336,7 +6336,7 @@ Sumatera Utara,5/27/2021,600.157,12.048
 Sumatera Utara,5/28/2021,610.476,10.319
 Sumatera Utara,5/29/2021,615.628,5.152
 Sumatera Utara,5/30/2021,615.75,0.122
-Sumatera Utara,5/31/2021,624.772,9.022
+Sumatera Utara,5/31/2021,624.772,9.022000000
 Sumatera Utara,6/1/2021,625.302,0.53
 Sumatera Utara,6/2/2021,634.575,9.273
 Sumatera Utara,6/3/2021,647.813,13.238
